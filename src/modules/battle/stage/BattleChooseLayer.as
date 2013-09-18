@@ -165,7 +165,8 @@ package modules.battle.stage
 				if(curSlideTarget == null || curSlideTarget.troopInfo == null || curSlideTarget.troopInfo.logicStatus == LogicSatusDefine.lg_status_dead)
 					return;
 				isSliding = true;
-				BattleStage.instance.troopLayer.checkHeBingOnSameLine(curSlideTarget);
+				var reakCell:Cell = BattleUnitPool.getCellInfo(curSlideTarget.troopInfo.occupiedCellStart);
+				BattleStage.instance.troopLayer.checkHeBingOnSameLine(reakCell);
 			}
 		}
 		
