@@ -1,12 +1,11 @@
 package modules.battle.stage
 {
 	import flash.display.Sprite;
-	import flash.geom.Point;
+	
+	import macro.BattleDisplayDefine;
 	
 	import modules.battle.battlecomponent.BattleDropStarShow;
 	import modules.battle.battlelogic.CellTroopInfo;
-	import modules.battle.managers.BattleEffectPosFunc;
-	import macro.BattleDisplayDefine;
 
 	public class BattleDropStarLayer extends Sprite
 	{

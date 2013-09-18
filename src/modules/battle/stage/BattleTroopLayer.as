@@ -42,6 +42,7 @@ package modules.battle.stage
 	import modules.battle.managers.BattleManager;
 	import modules.battle.managers.BattleTargetSearcher;
 	import modules.battle.managers.BattleUnitPool;
+	import modules.battle.managers.DemoManager;
 	import modules.battle.utils.BattleEventTagFactory;
 	
 	import utils.Utility;
@@ -504,6 +505,9 @@ package modules.battle.stage
 				var startsNeed:int = NextSupplyShow.getStarCountNeed(oldTroop.supplyType);
 				for(var i:int = 0;i < startsNeed * 2;i++)
 					DeadEnemyCycle.instance.handleSelfArmCycled();
+				
+				for(var i:int = 0;i < startsNeed * 2;i++)
+					DemoManager.handleSingleStarQualified(NextSupplyShow.starSupplyTypeNone,0,1);
 				
 			}
 			else				//当前位置troop已死  直接替换
