@@ -6,6 +6,7 @@ package modules.battle.battlelogic
 	import flash.events.TimerEvent;
 	import flash.geom.Point;
 	import flash.text.TextField;
+	import flash.text.TextFormat;
 	import flash.utils.Dictionary;
 	import flash.utils.Timer;
 	
@@ -24,8 +25,6 @@ package modules.battle.battlelogic
 	import defines.HeroDefines;
 	
 	import eventengine.GameEventHandler;
-	
-	import handlers.server.BattleHandler;
 	
 	import macro.ActionDefine;
 	import macro.ArmDamageType;
@@ -170,6 +169,8 @@ package modules.battle.battlelogic
 		public var mirrorLayer:Sprite;
 
 		private var textshow:TextField;
+		public var levelTextShow:TextField;
+		public var curLevel:int = 1;
 		
 		public var isEffectChongdie:Boolean = false;
 		
@@ -238,6 +239,17 @@ package modules.battle.battlelogic
 				componentsLayer.addChild(textshow);
 				textshow.textColor = 0xff00000;
 			}
+			
+			levelTextShow = new TextField;
+			levelTextShow.text = "1";
+			componentsLayer.addChild(levelTextShow);
+			levelTextShow.textColor = 0xff00000;
+			
+			levelTextShow.defaultTextFormat=new TextFormat(null,16)
+			
+			levelTextShow.visible = false;
+			levelTextShow.x = 10;
+			levelTextShow.y = 10;
 		}
 		
 		public function set isOnStaggerWait(value:Boolean):void

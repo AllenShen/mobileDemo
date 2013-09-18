@@ -159,6 +159,8 @@ package modules.battle.stage
 		
 		private function onMouseUp(event:MouseEvent):void
 		{
+			if(mouseDownPos == null)
+				return;
 			mouseReleasePos = new Point(mouseX,mouseY);
 			if(mouseReleasePos.x - mouseDownPos.x >= 30)
 			{
