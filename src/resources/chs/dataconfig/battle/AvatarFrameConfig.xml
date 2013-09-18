@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AvatarFrameConfig>
+
+  <modela>
+  	<action type = "0" startFrame = "0" endFrame = "39">	<!-- 待击  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "1" startFrame = "40" endFrame = "55">   <!-- 跑动  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "15" startFrame = "61" endFrame = "76">   <!-- 采集  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "16" startFrame = "0" endFrame = "39">	<!-- 卡片施法  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "3" startFrame = "0" endFrame = "59">	<!-- 被攻击  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "8" startFrame = "61" endFrame = "76">	<!-- 死亡  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "2" startFrame = "0" endFrame = "59">	<!-- 普通武器攻击1  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "9" startFrame = "61" endFrame = "76">	<!-- 大招武器攻击1  -->
+			<logicFrame>53</logicFrame>
+	</action>
+	<action type = "11" startFrame = "0" endFrame = "59">	<!-- 普通武器攻击2  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "12" startFrame = "61" endFrame = "76">	<!-- 大招武器攻击2  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "13" startFrame = "0" endFrame = "59">	<!-- 普通武器攻击3  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "14" startFrame = "61" endFrame = "76">	<!-- 大招武器攻击3  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	
+	<rideAction type = "0" startFrame = "0" endFrame = "39">	<!-- 待击  -->
+			<logicFrame>49</logicFrame>
+	</rideAction>
+	<rideAction type = "1" startFrame = "40" endFrame = "51">   <!-- 跑动  -->
+			<logicFrame>49</logicFrame>
+	</rideAction>
+	<rideAction type = "15" startFrame = "61" endFrame = "76">   <!-- 采集  -->
+			<logicFrame>49</logicFrame>
+	</rideAction>
+	<rideAction type = "16" startFrame = "0" endFrame = "39">	<!-- 卡片施法  -->
+			<logicFrame>49</logicFrame>
+	</rideAction>
+	<rideAction type = "3" startFrame = "40" endFrame = "59">	<!-- 被攻击  -->
+	</rideAction>
+	<rideAction type = "8" startFrame = "0" endFrame = "39">	<!-- 死亡  -->
+	</rideAction>
+	<rideAction type = "2" startFrame = "0" endFrame = "23">	<!-- 普通武器攻击1  -->
+			<logicFrame>13</logicFrame>
+	</rideAction>
+	<rideAction type = "9" startFrame = "24" endFrame = "73">	<!-- 大招武器攻击1  -->
+			<logicFrame>37</logicFrame>
+	</rideAction>
+	<rideAction type = "10" startFrame = "74" endFrame = "140">	<!-- 奥义攻击1  -->
+			<logicFrame>89</logicFrame>
+	</rideAction>
+	<rideAction type = "11" startFrame = "0" endFrame = "31">	<!-- 普通武器攻击2  -->
+			<logicFrame>15</logicFrame>
+	</rideAction>
+	<rideAction type = "12" startFrame = "32" endFrame = "71">	<!-- 大招武器攻击2  -->
+			<logicFrame>57</logicFrame>
+	</rideAction>
+	<rideAction type = "18" startFrame = "72" endFrame = "139">	<!-- 奥义攻击2  -->
+			<logicFrame>87</logicFrame>
+	</rideAction>
+	<rideAction type = "13" startFrame = "0" endFrame = "29">	<!-- 普通武器攻击3  -->
+			<logicFrame>13</logicFrame>
+	</rideAction>
+	<rideAction type = "14" startFrame = "30" endFrame = "79">	<!-- 大招武器攻击3  -->
+			<logicFrame>51</logicFrame>
+	</rideAction>
+  	<rideAction type = "19" startFrame = "80" endFrame = "139">	<!-- 奥义攻击3  -->
+			<logicFrame>91</logicFrame>
+	</rideAction>
+	<rideAction type = "20" startFrame = "0" endFrame = "29">	<!-- 普通武器攻击4  -->
+			<logicFrame>13</logicFrame>
+	</rideAction>
+	<rideAction type = "21" startFrame = "30" endFrame = "85">	<!-- 大招武器攻击4  -->
+			<logicFrame>69</logicFrame>
+	</rideAction>
+  	<rideAction type = "22" startFrame = "86" endFrame = "139">	<!-- 奥义攻击4  -->
+			<logicFrame>103</logicFrame>
+	</rideAction>
+  </modela>
+  
+  <modelb>
+  	<action type = "0" startFrame = "0" endFrame = "39">	<!-- 待击  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "1" startFrame = "40" endFrame = "55">   <!-- 跑动  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "15" startFrame = "61" endFrame = "76">   <!-- 采集  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "16" startFrame = "0" endFrame = "39">	<!-- 卡片施法  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "3" startFrame = "0" endFrame = "59">	<!-- 被攻击  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "8" startFrame = "61" endFrame = "76">	<!-- 死亡  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "2" startFrame = "0" endFrame = "59">	<!-- 普通武器攻击1  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "9" startFrame = "61" endFrame = "76">	<!-- 大招武器攻击1  -->
+			<logicFrame>53</logicFrame>
+	</action>
+	<action type = "11" startFrame = "0" endFrame = "59">	<!-- 普通武器攻击2  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "12" startFrame = "61" endFrame = "76">	<!-- 大招武器攻击2  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "13" startFrame = "0" endFrame = "59">	<!-- 普通武器攻击3  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	<action type = "14" startFrame = "61" endFrame = "76">	<!-- 大招武器攻击3  -->
+			<logicFrame>49</logicFrame>
+	</action>
+	
+	<rideAction type = "0" startFrame = "0" endFrame = "39">	<!-- 待击  -->
+			<logicFrame>49</logicFrame>
+	</rideAction>
+	<rideAction type = "1" startFrame = "40" endFrame = "51">   <!-- 跑动  -->
+			<logicFrame>49</logicFrame>
+	</rideAction>
+	<rideAction type = "15" startFrame = "61" endFrame = "76">   <!-- 采集  -->
+			<logicFrame>49</logicFrame>
+	</rideAction>
+	<rideAction type = "16" startFrame = "0" endFrame = "39">	<!-- 卡片施法  -->
+			<logicFrame>49</logicFrame>
+	</rideAction>
+	<rideAction type = "3" startFrame = "40" endFrame = "59">	<!-- 被攻击  -->
+	</rideAction>
+	<rideAction type = "8" startFrame = "0" endFrame = "39">	<!-- 死亡  -->
+	</rideAction>
+	<rideAction type = "2" startFrame = "0" endFrame = "27">	<!-- 普通武器攻击1  -->
+			<logicFrame>13</logicFrame>
+	</rideAction>
+	<rideAction type = "9" startFrame = "28" endFrame = "71">	<!-- 大招武器攻击1  -->
+			<logicFrame>49</logicFrame>
+	</rideAction>
+	<rideAction type = "10" startFrame = "72" endFrame = "139">	<!-- 奥义攻击1  -->
+			<logicFrame>91</logicFrame>
+	</rideAction>
+	<rideAction type = "11" startFrame = "0" endFrame = "27">	<!-- 普通武器攻击2  -->
+			<logicFrame>17</logicFrame>
+	</rideAction>
+	<rideAction type = "12" startFrame = "28" endFrame = "81">	<!-- 大招武器攻击2  -->
+			<logicFrame>55</logicFrame>
+	</rideAction>
+	<rideAction type = "18" startFrame = "82" endFrame = "139">	<!-- 奥义攻击2  -->
+			<logicFrame>97</logicFrame>
+	</rideAction>
+	<rideAction type = "13" startFrame = "0" endFrame = "27">	<!-- 普通武器攻击3  -->
+			<logicFrame>15</logicFrame>
+	</rideAction>
+	<rideAction type = "14" startFrame = "28" endFrame = "75">	<!-- 大招武器攻击3  -->
+			<logicFrame>51</logicFrame>
+	</rideAction>
+  	<rideAction type = "19" startFrame = "76" endFrame = "139">	<!-- 奥义攻击3  -->
+			<logicFrame>91</logicFrame>
+	</rideAction>
+	<rideAction type = "20" startFrame = "0" endFrame = "27">	<!-- 普通武器攻击4  -->
+			<logicFrame>17</logicFrame>
+	</rideAction>
+	<rideAction type = "21" startFrame = "28" endFrame = "75">	<!-- 大招武器攻击4  -->
+			<logicFrame>55</logicFrame>
+	</rideAction>
+  	<rideAction type = "22" startFrame = "76" endFrame = "139">	<!-- 奥义攻击4  -->
+			<logicFrame>89</logicFrame>
+	</rideAction>
+  </modelb>
+  
+  <modelc>
+ 	<config name = "idle" start = "0" end = "59"/>
+  	<config name = "move" start = "61" end = "76"/>
+  	<config name = "collect" start = "0" end = "59"/>
+  	<config name = "skillMake" start = "61" end = "76"/>
+  	<config name = "defense" start = "0" end = "59"/>
+  	<config name = "fail" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon1" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon1" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon2" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon2" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon3" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon3" start = "61" end = "76"/>
+  	
+  	<config name = "idleRide" start = "0" end = "59"/>
+  	<config name = "moveRide" start = "61" end = "76"/>
+  	<config name = "collectRide" start = "0" end = "59"/>
+  	<config name = "skillMakeRide" start = "61" end = "76"/>
+  	<config name = "defenseRide" start = "0" end = "59"/>
+  	<config name = "failRide" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon1Ride" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon1Ride" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon2Ride" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon2Ride" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon3Ride" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon3Ride" start = "61" end = "76"/>
+  </modelc>
+  
+  <modeld>
+  	<config name = "idle" start = "0" end = "59"/>
+  	<config name = "move" start = "61" end = "76"/>
+  	<config name = "collect" start = "0" end = "59"/>
+  	<config name = "skillMake" start = "61" end = "76"/>
+  	<config name = "defense" start = "0" end = "59"/>
+  	<config name = "fail" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon1" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon1" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon2" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon2" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon3" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon3" start = "61" end = "76"/>
+  	
+  	<config name = "idleRide" start = "0" end = "59"/>
+  	<config name = "moveRide" start = "61" end = "76"/>
+  	<config name = "collectRide" start = "0" end = "59"/>
+  	<config name = "skillMakeRide" start = "61" end = "76"/>
+  	<config name = "defenseRide" start = "0" end = "59"/>
+  	<config name = "failRide" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon1Ride" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon1Ride" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon2Ride" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon2Ride" start = "61" end = "76"/>
+  	<config name = "normalAttackWithWeapon3Ride" start = "0" end = "59"/>
+  	<config name = "greatAttackWithWeapon3Ride" start = "61" end = "76"/>
+  </modeld>
+  
+</AvatarFrameConfig>

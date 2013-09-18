@@ -1,0 +1,207 @@
+<AvatarResourceConfig>
+  <weapon>
+    
+    <config id="256" modela="avatar1_wuqi4" modelb="avatar1_wuqi4"/>
+    <config id="1" modelc="avatar1_wuqi1" modela="avatar1_wuqi1" modeld="avatar1_wuqi1" modelb="avatar1_wuqi1"/>
+    <config id="2" modelc="avatar1_wuqi1" modela="avatar1_wuqi2" modeld="avatar1_wuqi1" modelb="avatar1_wuqi2"/>
+    <config id="3" modela="avatar1_wuqi201" modelb="avatar1_wuqi201"/>
+    <config id="4" modelc="" modela="avatar1_wuqi301" modeld="" modelb="avatar1_wuqi301"/>
+    <config id="5" modela="avatar1_wuqi601" modelb="avatar1_wuqi601"/>
+    <config id="6" modelc="" modela="avatar1_wuqi501" modeld="" modelb="avatar1_wuqi501"/>
+    <config id="7" modela="avatar1_wuqi701" modelb="avatar1_wuqi701"/>
+    <config id="8" modelc="" modela="avatar1_wuqi801" modeld="" modelb="avatar1_wuqi801"/>
+    <config id="257" modela="avatar1_wuqi6" modelb="avatar1_wuqi6"/>
+    <config id="258" modelc="" modela="avatar1_wuqi302" modeld="" modelb="avatar1_wuqi302"/>
+    <config id="259" modela="avatar1_wuqi602" modelb="avatar1_wuqi602"/>
+    <config id="260" modelc="" modela="avatar1_wuqi502" modeld="" modelb="avatar1_wuqi502"/>
+    <config id="261" modelc="" modela="avatar1_wuqi701" modeld="" modelb="avatar1_wuqi701"/>
+    <config id="262" modela="avatar1_wuqi802" modelb="avatar1_wuqi802"/>
+    <config id="15" modelc="" modela="avatar1_wuqi15" modeld="" modelb="avatar1_wuqi15"/>
+    <config id="10000" modelc="avatar1_wuqi100" modela="avatar1_wuqi100" modeld="avatar1_wuqi100" modelb="avatar1_wuqi100"/>
+    <config id="17" modelc="" modela="avatar1_wuqi14" modeld="" modelb="avatar1_wuqi14"/>
+    <config id="18" modelc="" modela="avatar1_wuqi1901" modeld="" modelb="avatar1_wuqi1901"/>
+    <config id="280" modelc="" modela="avatar1_wuqi401" modeld="" modelb="avatar1_wuqi401"/>
+    <config id="25" modelc="" modela="avatar1_wuqi18" modeld="" modelb="avatar1_wuqi18"/>
+    <config id="24" modela="avatar1_wuqi22" modelb="avatar1_wuqi22"/>
+    <config id="16" modela="avatar1_wuqi13" modelb="avatar1_wuqi13"/>
+    <config id="299" modelc="" modela="avatar1_wuqi20" modeld="" modelb="avatar1_wuqi20"/>
+    <config id="300" modelc="" modela="avatar1_wuqi20" modeld="" modelb="avatar1_wuqi20"/>
+    <config id="302" modela="avatar1_wuqi12" modelb="avatar1_wuqi12"/>
+    <config id="303" modelc="" modela="avatar1_wuqi17" modeld="" modelb="avatar1_wuqi17"/>
+    <config id="304" modelc="" modela="avatar1_wuqi1601" modeld="" modelb="avatar1_wuqi1601"/>
+    <config id="305" modelc="" modela="avatar1_wuqi23" modeld="" modelb="avatar1_wuqi23"/>
+    <config id="253" modela="avatar1_wuqi4" modelb="avatar1_wuqi4"/>
+    <config id="254" modelc="" modela="avatar1_wuqi11" modeld="" modelb="avatar1_wuqi11"/>
+    <config id="255" modela="avatar1_wuqi2" modelb="avatar1_wuqi2"/>
+  </weapon>
+  <mount>
+    
+    <config id="281" modelc="" modela="mount_16" modeld="" modelb="mount_16"/>
+    <config id="294" modelc="mount_2" modela="mount_4" modeld="mount_2" modelb="mount_4"/>
+    <config id="295" modelc="mount_2" modela="mount_18" modeld="mount_2" modelb="mount_18"/>
+    <config id="301" modelc="" modela="mount_5" modeld="" modelb="mount_5"/>
+    <config id="270" modelc="" modela="mount_13" modeld="" modelb="mount_13"/>
+    <config id="47" modelc="mount_2" modela="mount_15" modeld="mount_2" modelb="mount_15"/>
+    <config id="48" modelc="mount_2" modela="mount_14" modeld="mount_2" modelb="mount_14"/>
+    <config id="49" modelc="mount_2" modela="mount_18" modeld="mount_2" modelb="mount_18"/>
+    <config id="50" modelc="mount_2" modela="mount_6" modeld="mount_2" modelb="mount_6"/>
+    <config id="51" modelc="mount_2" modela="mount_2" modeld="mount_2" modelb="mount_2"/>
+    <config id="52" modelc="mount_2" modela="mount_3" modeld="mount_2" modelb="mount_3"/>
+    <config id="53" modelc="mount_2" modela="mount_9" modeld="mount_2" modelb="mount_9"/>
+    <config id="46" modelc="mount_1" modela="mount_7" modeld="mount_1" modelb="mount_7"/>
+    <config id="279" modela="mount_17" modelb="mount_17"/>
+    <config id="10009" modelc="mount_1" modela="mount_4" modeld="mount_1" modelb="mount_4"/>
+    <config id="252" modela="mount_10" modelb="mount_10"/>
+    <config id="277" modela="mount_5" modelb="mount_5"/>
+    <config id="278" modelc="" modela="mount_1" modeld="" modelb="mount_1"/>
+  </mount>
+  <cape>
+    
+    <config id="36" modelc="" modela="avatar1_pifeng16" modeld="" modelb="avatar2_pifeng16"/>
+    <config id="37" modela="avatar1_pifeng5" modelb="avatar2_pifeng5"/>
+    <config id="38" modela="avatar1_pifeng11" modelb="avatar2_pifeng11"/>
+    <config id="39" modela="avatar1_pifeng4" modelb="avatar2_pifeng4"/>
+    <config id="296" modela="avatar1_pifeng15" modelb="avatar2_pifeng15"/>
+    <config id="297" modelc="" modela="avatar2_pifeng16" modeld="" modelb="avatar2_pifeng16"/>
+    <config id="42" modelc="" modela="avatar1_pifeng14" modeld="" modelb="avatar2_pifeng14"/>
+    <config id="43" modela="avatar1_pifeng3" modelb="avatar1_pifeng3"/>
+    <config id="44" modelc="" modela="avatar1_pifeng12" modeld="" modelb="avatar2_pifeng12"/>
+    <config id="45" modelc="" modela="avatar1_pifeng8" modeld="" modelb="avatar2_pifeng8"/>
+    <config id="40" modelc="" modela="avatar1_pifeng13" modeld="" modelb="avatar2_pifeng13"/>
+    <config id="41" modela="avatar1_pifeng7" modelb="avatar2_pifeng7"/>
+    <config id="298" modela="avatar1_pifeng15" modelb="avatar2_pifeng15"/>
+    <config id="269" modela="avatar1_pifeng6" modelb="avatar2_pifeng6"/>
+  </cape>
+  <head>
+    
+    <config id="129" modelc="" modela="avatar1_toukui19" modeld="" modelb="avatar2_toukui19"/>
+    <config id="99" modelc="" modela="avatar1_toukui16" modeld="" modelb="avatar2_toukui16"/>
+    <config id="69" modelc="avatar1_toukui1" modela="avatar1_toukui1" modeld="avatar1_toukui1" modelb="avatar2_toukui1"/>
+    <config id="117" modela="avatar2_toukui8" modelb="avatar2_toukui8"/>
+    <config id="105" modela="avatar1_toukui4" modelb="avatar2_toukui4"/>
+    <config id="266" modela="avatar1_toukui9" modelb="avatar2_toukui9"/>
+    <config id="75" modelc="avatar1_toukui1" modela="avatar1_toukui11" modeld="avatar1_toukui1" modelb="avatar2_toukui11"/>
+    <config id="285" modela="avatar1_toukui6" modelb="avatar2_toukui6"/>
+    <config id="111" modela="avatar1_toukui13" modelb="avatar2_toukui13"/>
+    <config id="81" modelc="" modela="avatar1_toukui3" modeld="" modelb="avatar2_toukui3"/>
+    <config id="274" modelc="" modela="avatar1_toukui2" modeld="" modelb="avatar2_toukui2"/>
+    <config id="50003" modela="avatar1_toukui5" modelb="avatar2_toukui5"/>
+    <config id="291" modelc="" modela="avatar1_toukui7" modeld="" modelb="avatar2_toukui7"/>
+    <config id="10005" modelc="avatar1_toukui100" modela="avatar1_toukui100" modeld="avatar1_toukui100" modelb="avatar2_toukui100"/>
+    <config id="87" modela="avatar1_toukui12" modelb="avatar2_toukui12"/>
+    <config id="249" modelc="" modela="avatar1_toukui20" modeld="" modelb="avatar2_toukui20"/>
+    <config id="123" modela="avatar1_toukui18" modelb="avatar2_toukui18"/>
+    <config id="93" modela="avatar1_toukui17" modelb="avatar2_toukui17"/>
+    <config id="63" modelc="avatar1_toukui1" modela="avatar1_toukui2" modeld="avatar1_toukui1" modelb="avatar2_toukui2"/>
+  </head>
+  <jianjia>
+    
+    <config id="96" modelc="" modela="avatar1_jianjia16" modeld="" modelb="avatar2_jianjia16"/>
+    <config id="66" modelc="avatar1_jianjia1" modela="avatar1_jianjia1" modeld="avatar1_jianjia1" modelb="avatar2_jianjia1"/>
+    <config id="10002" modelc="avatar1_jianjia100" modela="avatar1_jianjia100" modeld="avatar1_jianjia100" modelb="avatar2_jianjia100"/>
+    <config id="102" modela="avatar1_jianjia4" modelb="avatar2_jianjia4"/>
+    <config id="263" modela="avatar1_jianjia9" modelb="avatar2_jianjia9"/>
+    <config id="72" modelc="avatar1_jianjia1" modela="avatar1_jianjia11" modeld="avatar1_jianjia1" modelb="avatar2_jianjia11"/>
+    <config id="282" modela="avatar1_jianjia6" modelb="avatar2_jianjia6"/>
+    <config id="108" modela="avatar1_jianjia13" modelb="avatar2_jianjia13"/>
+    <config id="78" modelc="" modela="avatar1_jianjia3" modeld="" modelb="avatar2_jianjia3"/>
+    <config id="271" modelc="" modela="avatar1_jianjia2" modeld="" modelb="avatar2_jianjia2"/>
+    <config id="50000" modela="avatar1_jianjia5" modelb="avatar2_jianjia5"/>
+    <config id="288" modelc="" modela="avatar1_jianjia7" modeld="" modelb="avatar2_jianjia7"/>
+    <config id="114" modela="avatar1_jianjia8" modelb="avatar2_jianjia8"/>
+    <config id="84" modela="avatar1_jianjia12" modelb="avatar2_jianjia12"/>
+    <config id="246" modelc="" modela="avatar1_jianjia20" modeld="" modelb="avatar2_jianjia20"/>
+    <config id="120" modela="avatar1_jianjia18" modelb="avatar2_jianjia18"/>
+    <config id="90" modela="avatar1_jianjia17" modelb="avatar2_jianjia17"/>
+    <config id="60" modelc="avatar1_jianjia1" modela="avatar1_jianjia2" modeld="avatar1_jianjia1" modelb="avatar2_jianjia2"/>
+    <config id="126" modelc="" modela="avatar1_jianjia19" modeld="" modelb="avatar2_jianjia19"/>
+  </jianjia>
+  <wanjia>
+    
+    <config id="64" modelc="avatar1_wanjia1" modela="avatar1_wanjia2" modeld="avatar1_wanjia1" modelb="avatar2_wanjia2"/>
+    <config id="130" modelc="" modela="avatar1_wanjia19" modeld="" modelb="avatar2_wanjia19"/>
+    <config id="100" modelc="" modela="avatar1_wanjia16" modeld="" modelb="avatar2_wanjia16"/>
+    <config id="70" modelc="avatar1_wanjia1" modela="avatar1_wanjia1" modeld="avatar1_wanjia1" modelb="avatar2_wanjia1"/>
+    <config id="118" modela="avatar1_wanjia8" modelb="avatar2_wanjia8"/>
+    <config id="106" modela="avatar1_wanjia4" modelb="avatar2_wanjia4"/>
+    <config id="267" modela="avatar1_wanjia9" modelb="avatar2_wanjia9"/>
+    <config id="76" modelc="avatar1_wanjia1" modela="avatar1_wanjia11" modeld="avatar1_wanjia1" modelb="avatar2_wanjia11"/>
+    <config id="94" modela="avatar1_wanjia17" modelb="avatar2_wanjia17"/>
+    <config id="112" modela="avatar1_wanjia13" modelb="avatar2_wanjia13"/>
+    <config id="82" modelc="" modela="avatar1_wanjia3" modeld="" modelb="avatar2_wanjia3"/>
+    <config id="275" modelc="" modela="avatar1_wanjia2" modeld="" modelb="avatar2_wanjia2"/>
+    <config id="50004" modela="avatar1_wanjia5" modelb="avatar2_wanjia5"/>
+    <config id="292" modelc="" modela="avatar1_wanjia7" modeld="" modelb="avatar2_wanjia7"/>
+    <config id="10006" modelc="avatar1_wanjia100" modela="avatar1_wanjia100" modeld="avatar1_wanjia100" modelb="avatar2_wanjia100"/>
+    <config id="88" modela="avatar1_wanjia12" modelb="avatar2_wanjia12"/>
+    <config id="250" modelc="" modela="avatar1_wanjia20" modeld="" modelb="avatar2_wanjia20"/>
+    <config id="124" modela="avatar1_wanjia18" modelb="avatar2_wanjia18"/>
+    <config id="286" modela="avatar1_wanjia6" modelb="avatar2_wanjia6"/>
+  </wanjia>
+  <xiongjia>
+    
+    <config id="97" modelc="" modela="avatar1_xiongjia16" modeld="" modelb="avatar2_xiongjia16"/>
+    <config id="67" modelc="avatar1_xiongjia1" modela="avatar1_xiongjia1" modeld="avatar1_xiongjia1" modelb="avatar2_xiongjia1"/>
+    <config id="115" modela="avatar1_xiongjia8" modelb="avatar2_xiongjia8"/>
+    <config id="103" modela="avatar1_xiongjia4" modelb="avatar2_xiongjia4"/>
+    <config id="264" modela="avatar1_xiongjia9" modelb="avatar2_xiongjia9"/>
+    <config id="73" modelc="avatar1_xiongjia1" modela="avatar1_xiongjia11" modeld="avatar1_xiongjia1" modelb="avatar2_xiongjia11"/>
+    <config id="283" modela="avatar1_xiongjia6" modelb="avatar2_xiongjia6"/>
+    <config id="109" modela="avatar1_xiongjia13" modelb="avatar2_xiongjia13"/>
+    <config id="79" modelc="" modela="avatar1_xiongjia3" modeld="" modelb="avatar2_xiongjia3"/>
+    <config id="272" modelc="" modela="avatar1_xiongjia2" modeld="" modelb="avatar2_xiongjia2"/>
+    <config id="50001" modela="avatar1_xiongjia5" modelb="avatar2_xiongjia4"/>
+    <config id="289" modelc="" modela="avatar1_xiongjia7" modeld="" modelb="avatar2_xiongjia7"/>
+    <config id="10003" modelc="avatar1_xiongjia100" modela="avatar1_xiongjia100" modeld="avatar1_xiongjia100" modelb="avatar2_xiongjia100"/>
+    <config id="85" modela="avatar1_xiongjia12" modelb="avatar2_xiongjia12"/>
+    <config id="247" modela="avatar1_xiongjia20" modelb="avatar2_xiongjia20"/>
+    <config id="121" modela="avatar1_xiongjia18" modelb="avatar2_xiongjia18"/>
+    <config id="91" modela="avatar1_xiongjia17" modelb="avatar2_xiongjia17"/>
+    <config id="61" modelc="avatar1_xiongjia1" modela="avatar1_xiongjia2" modeld="avatar1_xiongjia1" modelb="avatar2_xiongjia2"/>
+    <config id="127" modelc="" modela="avatar1_xiongjia19" modeld="" modelb="avatar2_xiongjia19"/>
+  </xiongjia>
+  <tuijia>
+    
+    <config id="128" modelc="" modela="avatar1_tuijia19" modeld="" modelb="avatar2_tuijia19"/>
+    <config id="98" modelc="" modela="avatar1_tuijia16" modeld="" modelb="avatar2_tuijia16"/>
+    <config id="68" modelc="avatar1_tuijia1" modela="avatar1_tuijia1" modeld="avatar1_tuijia1" modelb="avatar2_tuijia1"/>
+    <config id="10004" modelc="avatar1_tuijia100" modela="avatar1_tuijia100" modeld="avatar1_tuijia100" modelb="avatar2_tuijia100"/>
+    <config id="104" modela="avatar1_tuijia4" modelb="avatar2_tuijia4"/>
+    <config id="265" modela="avatar1_tuijia9" modelb="avatar2_tuijia9"/>
+    <config id="74" modelc="avatar1_tuijia1" modela="avatar1_tuijia11" modeld="avatar1_tuijia1" modelb="avatar2_tuijia11"/>
+    <config id="92" modela="avatar1_tuijia17" modelb="avatar2_tuijia17"/>
+    <config id="110" modela="avatar1_tuijia13" modelb="avatar2_tuijia13"/>
+    <config id="80" modelc="" modela="avatar1_tuijia3" modeld="" modelb="avatar2_tuijia3"/>
+    <config id="273" modelc="" modela="avatar1_tuijia2" modeld="" modelb="avatar2_tuijia2"/>
+    <config id="50002" modela="avatar1_tuijia5" modelb="avatar2_tuijia5"/>
+    <config id="290" modelc="" modela="avatar1_tuijia7" modeld="" modelb="avatar2_tuijia7"/>
+    <config id="116" modela="avatar1_tuijia8" modelb="avatar2_tuijia8"/>
+    <config id="86" modela="avatar1_tuijia12" modelb="avatar2_tuijia12"/>
+    <config id="248" modelc="" modela="avatar1_tuijia20" modeld="" modelb="avatar2_tuijia20"/>
+    <config id="122" modela="avatar1_tuijia18" modelb="avatar2_tuijia18"/>
+    <config id="284" modela="avatar1_tuijia6" modelb="avatar2_tuijia6"/>
+    <config id="62" modelc="avatar1_tuijia1" modela="avatar1_tuijia2" modeld="avatar1_tuijia1" modelb="avatar2_tuijia2"/>
+  </tuijia>
+  <shoe>
+    
+    <config id="65" modelc="avatar1_xiezi1" modela="avatar1_xiezi2" modeld="avatar1_xiezi1" modelb="avatar2_xiezi2"/>
+    <config id="131" modelc="" modela="avatar1_xiezi19" modeld="" modelb="avatar2_xiezi19"/>
+    <config id="101" modelc="" modela="avatar1_xiezi16" modeld="" modelb="avatar2_xiezi16"/>
+    <config id="71" modelc="avatar1_xiezi1" modela="avatar1_xiezi1" modeld="avatar1_xiezi1" modelb="avatar2_xiezi1"/>
+    <config id="10007" modelc="avatar1_xiezi100" modela="avatar1_xiezi100" modeld="avatar1_xiezi100" modelb="avatar2_xiezi100"/>
+    <config id="107" modela="avatar1_xiezi4" modelb="avatar2_xiezi4"/>
+    <config id="268" modela="avatar1_xiezi9" modelb="avatar2_xiezi9"/>
+    <config id="77" modelc="avatar1_xiezi1" modela="avatar1_xiezi11" modeld="avatar1_xiezi1" modelb="avatar2_xiezi11"/>
+    <config id="287" modela="avatar1_xiezi6" modelb="avatar2_xiezi6"/>
+    <config id="113" modela="avatar1_xiezi13" modelb="avatar2_xiezi13"/>
+    <config id="83" modelc="" modela="avatar1_xiezi3" modeld="" modelb="avatar2_xiezi3"/>
+    <config id="276" modelc="" modela="avatar1_xiezi2" modeld="" modelb="avatar2_xiezi2"/>
+    <config id="50005" modela="avatar1_xiezi5" modelb="avatar2_xiezi5"/>
+    <config id="293" modelc="" modela="avatar1_xiezi7" modeld="" modelb="avatar2_xiezi7"/>
+    <config id="119" modela="avatar1_xiezi8" modelb="avatar2_xiezi8"/>
+    <config id="89" modela="avatar1_xiezi6" modelb="avatar2_xiezi6"/>
+    <config id="251" modelc="" modela="avatar1_xiezi20" modeld="" modelb="avatar2_xiezi20"/>
+    <config id="125" modela="avatar1_xiezi18" modelb="avatar2_xiezi18"/>
+    <config id="95" modela="avatar1_xiezi17" modelb="avatar2_xiezi17"/>
+  </shoe>
+</AvatarResourceConfig>

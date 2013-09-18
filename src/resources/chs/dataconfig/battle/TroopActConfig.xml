@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infos>
+
+	<singleConfig id ="423">
+		<startOffset xoffset = "-7" yoffset = "-10"/>
+	</singleConfig>
+
+	<singleConfig id ="5001" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-15" yoffset = "-6"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-35" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5002" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-18" yoffset = "-8"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-35" yoffset = "-40" />
+	</singleConfig>
+	<singleConfig id ="5003" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-16" yoffset = "-9"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-35" yoffset = "-40" />
+	</singleConfig>
+	<singleConfig id ="5004" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-16" yoffset = "-5"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-35" yoffset = "-40" />
+	</singleConfig>
+	<singleConfig id ="5005" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-17" yoffset = "-6"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-35" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5006" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-19" yoffset = "4"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-35" yoffset = "-31" />
+	</singleConfig>
+	<singleConfig id ="5007" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "8" yoffset = "-23"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-38" yoffset = "-45" />
+	</singleConfig>
+	<singleConfig id ="5008" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "8" yoffset = "-23"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-38" yoffset = "-45" />
+	</singleConfig>
+	<singleConfig id ="5009" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-18" yoffset = "19"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-83" yoffset = "-38" />
+	</singleConfig>
+	<singleConfig id ="5010" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-18" yoffset = "19"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-83" yoffset = "-38" />
+	</singleConfig>
+	<singleConfig id ="5011" missile = "0" beareffect = "1432" seconBearEffect = "1431" bossAttackEffect = "7403">
+		<startOffset xoffset = "0" yoffset = "0"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-80" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5012" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "11" yoffset = "-11"/>
+		<actpos xoffset = "-61" yoffset = "-45" />
+		<bearpos xoffset = "-82" yoffset = "-33" />
+	</singleConfig>
+	<singleConfig id ="5013" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "23" yoffset = "-11"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-61" yoffset = "-45" />
+	</singleConfig>
+	<singleConfig id ="5014" missile = "0" beareffect = "1432" seconBearEffect = "1431" >
+		<startOffset xoffset = "23" yoffset = "-7"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-61" yoffset = "-45" />
+	</singleConfig>
+	<singleConfig id ="5015" missile = "0" beareffect = "1432" seconBearEffect = "1431" >
+		<startOffset xoffset = "22" yoffset = "-14"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-55" yoffset = "-47" />
+	</singleConfig>
+	<singleConfig id ="5016" missile = "0" beareffect = "1432" seconBearEffect = "1431" >
+		<startOffset xoffset = "28" yoffset = "-12"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-50" yoffset = "-45" />
+	</singleConfig>
+	<singleConfig id ="5017" missile = "0" beareffect = "1432" seconBearEffect = "1431" >
+		<startOffset xoffset = "21" yoffset = "25"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-80" yoffset = "-45" />
+	</singleConfig>
+	<singleConfig id ="5018" missile = "0" machineEffect = "1419" beareffect = "1432" seconBearEffect = "1431" >
+		<startOffset xoffset = "37" yoffset = "22"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-20" yoffset = "-40" />
+	</singleConfig>
+	<singleConfig id ="5019" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "0" yoffset = "0"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-20" yoffset = "-40" />
+	</singleConfig>
+	<singleConfig id ="5020" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-11" yoffset = "23"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-75" yoffset = "-50" />
+	</singleConfig>
+	<singleConfig id ="5021" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "27" yoffset = "-3"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5022" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "29" yoffset = "-2"/>
+		<bearpos xoffset = "-35" yoffset = "-30" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5023" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "31" yoffset = "18"/>
+		<bearpos xoffset = "-35" yoffset = "-35" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5024" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "32" yoffset = "9"/>
+		<bearpos xoffset = "-40" yoffset = "-35" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5025" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "22" yoffset = "24"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5026" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-10" yoffset = "31"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5027" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "0" yoffset = "21"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5028" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "2" yoffset = "38"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5029" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "31" yoffset = "35"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5030" missile = "0" beareffect = "1432" seconBearEffect = "1431" bossAttackEffect = "7403">
+		<startOffset xoffset = "0" yoffset = "0"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-85" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5031" missile = "0" beareffect = "1432" seconBearEffect = "1431" bossAttackEffect = "7403">
+		<startOffset xoffset = "0" yoffset = "0"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-85" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5032" missile = "0" beareffect = "1432" seconBearEffect = "1431" bossAttackEffect = "7403">
+		<startOffset xoffset = "0" yoffset = "0"/>
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-150" yoffset = "-55" />
+	</singleConfig>
+	<singleConfig id ="5033" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "15" yoffset = "32"/>
+		<bearpos xoffset = "-35" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5034" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "12" yoffset = "18"/>
+		<bearpos xoffset = "-35" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5035" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-15" yoffset = "13"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5036" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-2" yoffset = "17"/>
+		<bearpos xoffset = "-30" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5037" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "1" yoffset = "35"/>
+		<bearpos xoffset = "-35" yoffset = "-35" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5038" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-4" yoffset = "10"/>
+		<bearpos xoffset = "-30" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5039" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-11" yoffset = "18"/>
+		<bearpos xoffset = "-30" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5040" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-1" yoffset = "29"/>
+		<bearpos xoffset = "-30" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5041" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-12" yoffset = "45"/>
+		<bearpos xoffset = "-30" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	
+	<singleConfig id ="5042" missile = "0" beareffect = "1432" seconBearEffect = "1431" bossAttackEffect = "7403">
+		<startOffset xoffset = "-12" yoffset = "45"/>
+		<bearpos xoffset = "-130" yoffset = "-55" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5043" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-3" yoffset = "22"/>
+		<bearpos xoffset = "-45" yoffset = "-45" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5044" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-1" yoffset = "15"/>
+		<bearpos xoffset = "-30" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5045" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "2" yoffset = "18"/>
+		<bearpos xoffset = "-35" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5046" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "21" yoffset = "-11"/>
+		<bearpos xoffset = "-35" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5047" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "28" yoffset = "-2"/>
+		<bearpos xoffset = "-35" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5048" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "10" yoffset = "-22"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5049" missile = "0" beareffect = "1432" seconBearEffect = "1431" >
+		<startOffset xoffset = "47" yoffset = "7"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5050" missile = "0" beareffect = "1432" seconBearEffect = "1431" bossAttackEffect = "7403">
+		<startOffset xoffset = "0" yoffset = "0"/>
+		<bearpos xoffset = "-125" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5051" missile = "0" beareffect = "1432" seconBearEffect = "1431" bossAttackEffect = "7403" machineEffect = "1418">
+		<startOffset xoffset = "0" yoffset = "0"/>
+		<bearpos xoffset = "-125" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5052" missile = "0" beareffect = "1432" seconBearEffect = "1431" bossAttackEffect = "7403" >
+		<startOffset xoffset = "0" yoffset = "0"/>
+		<bearpos xoffset = "-145" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5054" missile = "0" beareffect = "1432" seconBearEffect = "1431" bossAttackEffect = "7403">
+		<startOffset xoffset = "3" yoffset = "40"/>
+		<bearpos xoffset = "-145" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5055" missile = "0" beareffect = "1432" seconBearEffect = "1431" >
+		<startOffset xoffset = "-18" yoffset = "15"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	
+	<singleConfig id ="5401" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-20" yoffset = "15"/>
+		<actpos xoffset = "-27" yoffset = "-25" />
+		<bearpos xoffset = "-57" yoffset = "-31" />
+	</singleConfig>
+	<singleConfig id ="5402" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-19" yoffset = "15"/>
+		<actpos xoffset = "-27" yoffset = "-29" />
+		<bearpos xoffset = "-57" yoffset = "-31" />
+	</singleConfig>
+	<singleConfig id ="5403" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-19" yoffset = "15"/>
+		<actpos xoffset = "-33" yoffset = "-27" />
+		<bearpos xoffset = "-57" yoffset = "-31" />
+	</singleConfig>
+	<singleConfig id ="5404" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-22" yoffset = "12"/>
+		<actpos xoffset = "-14" yoffset = "-40" />
+		<bearpos xoffset = "-57" yoffset = "-36" />
+	</singleConfig>
+	<singleConfig id ="5405" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-15" yoffset = "19"/>
+		<actpos xoffset = "-19" yoffset = "-36" />
+		<bearpos xoffset = "-57" yoffset = "-31" />
+	</singleConfig>
+	<singleConfig id ="5406" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-21" yoffset = "16"/>
+		<actpos xoffset = "-12" yoffset = "-32" />
+		<bearpos xoffset = "-56" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="6201" missile = "1422" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-5" yoffset = "20" />
+		<actpos xoffset = "-35" yoffset = "0" />
+		<bearpos xoffset = "-40" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="6202" missile = "1422" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-8" yoffset = "20" />
+		<actpos xoffset = "-35" yoffset = "0" />
+		<bearpos xoffset = "-36" yoffset = "-24" />
+	</singleConfig>
+	<singleConfig id ="5407" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-6" yoffset = "7"/>
+		<actpos xoffset = "-29" yoffset = "-28" />
+		<bearpos xoffset = "-50" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5408" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-7" yoffset = "16"/>
+		<actpos xoffset = "-29" yoffset = "-28" />
+		<bearpos xoffset = "-50" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5409" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-7" yoffset = "17"/>
+		<actpos xoffset = "-29" yoffset = "-28" />
+		<bearpos xoffset = "-50" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5410" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-11" yoffset = "19"/>
+		<actpos xoffset = "-29" yoffset = "-28" />
+		<bearpos xoffset = "-50" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5411" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "7" yoffset = "19"/>
+		<actpos xoffset = "-25" yoffset = "-22" />
+		<bearpos xoffset = "-50" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5412" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "1" yoffset = "4"/>
+		<bearpos xoffset = "-40" yoffset = "-35" />
+		<actpos xoffset = "15" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5413" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-17" yoffset = "17"/>
+		<bearpos xoffset = "-50" yoffset = "-35" />
+		<actpos xoffset = "3" yoffset = "-30" />
+	</singleConfig>
+	<singleConfig id ="5414" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-10" yoffset = "29"/>
+		<bearpos xoffset = "-50" yoffset = "-35" />
+		<actpos xoffset = "3" yoffset = "-30" />
+	</singleConfig>
+	<singleConfig id ="5415" missile = "1421" magiceffect = "1414" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-6" yoffset = "-15"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "3" yoffset = "-30" />
+	</singleConfig>
+	<singleConfig id ="5416" missile = "1421" magiceffect = "1433" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-12" yoffset = "10"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "6" yoffset = "-26" />
+	</singleConfig>
+	<singleConfig id ="5417" missile = "1421" magiceffect = "1433" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "5" yoffset = "18"/>
+		<bearpos xoffset = "-50" yoffset = "-35" />
+		<actpos xoffset = "0" yoffset = "-48" />
+	</singleConfig>
+	<singleConfig id ="5418" missile = "1421" magiceffect = "1433" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-1" yoffset = "20"/>
+		<bearpos xoffset = "-40" yoffset = "-35" />
+		<actpos xoffset = "0" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5419" magiceffect = "12108" beareffect = "1432" seconBearEffect = "1431" >
+		<startOffset xoffset = "5" yoffset = "24"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	
+	<singleConfig id ="5801" missile = "0" magiceffect = "1433" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-11" yoffset = "-9" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-46" yoffset = "-43" />
+	</singleConfig>
+	<singleConfig id ="5802" missile = "0" magiceffect = "1433" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "6" yoffset = "10" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-50" yoffset = "-40" />
+	</singleConfig>
+	<singleConfig id ="5803" missile = "0" magiceffect = "1433" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "13" yoffset = "9" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-45" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="5804" missile = "0" magiceffect = "1413" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-6" yoffset = "13" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-45" yoffset = "-30" />
+	</singleConfig>
+	<singleConfig id ="5805" missile = "0" magiceffect = "12101" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-13" yoffset = "21" />
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5806" missile = "0" magiceffect = "12102" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-1" yoffset = "22" />
+		<bearpos xoffset = "-35" yoffset = "-30" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5807" missile = "0" magiceffect = "12103" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "32" yoffset = "25" />
+		<bearpos xoffset = "-30" yoffset = "-35" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5808" missile = "0" magiceffect = "12107" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-1" yoffset = "19" />
+		<bearpos xoffset = "-40" yoffset = "-30" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5809" missile = "0" magiceffect = "12104" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-13" yoffset = "41" />
+		<bearpos xoffset = "-30" yoffset = "-50" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5810" missile = "0" magiceffect = "12106" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "1" yoffset = "15"/>
+		<bearpos xoffset = "-45" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5811" missile = "0" magiceffect = "12109" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-1" yoffset = "20"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5812" missile = "0" magiceffect = "12106" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "35" yoffset = "40"/>
+		<bearpos xoffset = "-35" yoffset = "-35" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5813" missile = "0" magiceffect = "12110" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "9" yoffset = "20"/>
+		<bearpos xoffset = "-35" yoffset = "-35" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5814" missile = "0" magiceffect = "12111" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "17" yoffset = "11"/>
+		<bearpos xoffset = "-40" yoffset = "-30" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="5815" missile = "0" magiceffect = "12114" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "13" yoffset = "2"/>
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	
+	<singleConfig id ="6221" missile = "0" machineEffect = "1435" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "2" yoffset = "13" />
+		<actpos xoffset = "20" yoffset = "-20" />
+		<bearpos xoffset = "-80" yoffset = "-40" />
+	</singleConfig>
+	<singleConfig id ="6222" missile = "0" machineEffect = "1437" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-11" yoffset = "8" />
+		<bearpos xoffset = "-35" yoffset = "-35" />
+		<actpos xoffset = "20" yoffset = "-20" />
+	</singleConfig>
+	<singleConfig id ="6223" missile = "0" machineEffect = "12105" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "24" yoffset = "17" />
+		<bearpos xoffset = "-30" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="6224" missile = "0" machineEffect = "12105" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-1" yoffset = "15" />
+		<bearpos xoffset = "-35" yoffset = "-35" />
+		<actpos xoffset = "20" yoffset = "-20" />
+	</singleConfig>
+	<singleConfig id ="6225" missile = "0" machineEffect = "12112" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-6" yoffset = "13" />
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "20" yoffset = "-20" />
+	</singleConfig>
+	<singleConfig id ="6226" missile = "0" machineEffect = "12113" magiceffect = "12113" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "6" yoffset = "0" />
+		<bearpos xoffset = "-30" yoffset = "-40" />
+		<actpos xoffset = "20" yoffset = "-20" />
+	</singleConfig>
+	<singleConfig id ="6227" missile = "0" machineEffect = "12112" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-2" yoffset = "-17" />
+		<bearpos xoffset = "-35" yoffset = "-35" />
+		<actpos xoffset = "20" yoffset = "-20" />
+	</singleConfig>
+	<singleConfig id ="6228" missile = "0" machineEffect = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-6" yoffset = "33" />
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "20" yoffset = "-20" />
+	</singleConfig>
+	
+	<singleConfig id ="6601" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "4" yoffset = "0" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-30" yoffset = "-40" />
+	</singleConfig>
+	<singleConfig id ="6602" missile = "0" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-8" yoffset = "3" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-25" yoffset = "-36" />
+	</singleConfig>
+	
+	<singleConfig id ="1001" missile = "1422" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "20" yoffset = "15" />
+		<actpos xoffset = "-15" yoffset = "-50" />
+		<bearpos xoffset = "-40" yoffset = "-30" />
+	</singleConfig>
+	<singleConfig id ="1002" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-6" yoffset = "19" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-40" yoffset = "-30" />
+	</singleConfig>
+	<singleConfig id ="1003" missile = "1423" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-10" yoffset = "17" />
+		<actpos xoffset = "-40" yoffset = "-15" />
+		<bearpos xoffset = "-45" yoffset = "-30" />
+	</singleConfig>
+	<singleConfig id ="1004" missile = "1421" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "5" yoffset = "29" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-40" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="1005" missile = "1422" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "0" yoffset = "11" />
+		<actpos xoffset = "-15" yoffset = "-50" />
+		<bearpos xoffset = "-50" yoffset = "-40" />
+	</singleConfig>
+	<singleConfig id ="1006" magiceffect = "1438" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "19" yoffset = "13" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-20" yoffset = "-20" />
+	</singleConfig>
+	<singleConfig id ="1007" missile = "1422" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "14" yoffset = "16" />
+		<actpos xoffset = "-15" yoffset = "-50" />
+		<bearpos xoffset = "-55" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="1008" missile = "1421" machineEffect = "1436" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "9" yoffset = "27" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-110" yoffset = "-5" />
+	</singleConfig>
+	<singleConfig id ="1009" magiceffect = "1439" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "11" yoffset = "9" />
+		<actpos xoffset = "-15" yoffset = "-50" />
+		<bearpos xoffset = "-35" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="1010" magiceffect = "1440" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-16" yoffset = "16" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-45" yoffset = "-35" />
+	</singleConfig>
+	<singleConfig id ="1011" machineEffect = "1419" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "26" yoffset = "13" />
+		<actpos xoffset = "-15" yoffset = "-50" />
+		<bearpos xoffset = "-45" yoffset = "-40" />
+	</singleConfig>
+	<singleConfig id ="1012" missile = "1421" machineEffect = "1437" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-17" yoffset = "37" />
+		<actpos xoffset = "0" yoffset = "0" />
+		<bearpos xoffset = "-90" yoffset = "-30" />
+	</singleConfig>
+	<singleConfig id ="1013" beareffect = "1432" seconBearEffect = "1431" magiceffect = "1417">
+		<startOffset xoffset = "-9" yoffset = "4" />
+		<bearpos xoffset = "-35" yoffset = "-50" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="1014" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "20" yoffset = "16" />
+		<bearpos xoffset = "-50" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="1015" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-7" yoffset = "33" />
+		<bearpos xoffset = "-35" yoffset = "-35" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="1015" beareffect = "1432" seconBearEffect = "1431">
+		<startOffset xoffset = "-7" yoffset = "33" />
+		<bearpos xoffset = "-35" yoffset = "-35" />
+		<actpos xoffset = "0" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="1016" beareffect = "1432" seconBearEffect = "1431" missile = "1422">
+		<startOffset xoffset = "6" yoffset = "21" />
+		<bearpos xoffset = "-40" yoffset = "-40" />
+		<actpos xoffset = "0" yoffset = "-22" />
+	</singleConfig>
+	<singleConfig id ="1017" beareffect = "1418" seconBearEffect = "1418" missile = "1425">
+		<startOffset xoffset = "0" yoffset = "11" />
+		<bearpos xoffset = "-50" yoffset = "-35" />
+		<actpos xoffset = "-15" yoffset = "0" />
+	</singleConfig>
+	<singleConfig id ="1018" beareffect = "1432" seconBearEffect = "1431" missile = "1422">
+		<startOffset xoffset = "-2" yoffset = "10" />
+		<bearpos xoffset = "-45" yoffset = "-40" />
+		<actpos xoffset = "15" yoffset = "-20" />
+	</singleConfig>
+	<singleConfig id ="1019" beareffect = "1432" seconBearEffect = "1431" magiceffect = "1416">
+		<startOffset xoffset = "28" yoffset = "5" />
+		<bearpos xoffset = "-50" yoffset = "-35" />
+		<actpos xoffset = "15" yoffset = "-20" />
+	</singleConfig>
+	<singleConfig id ="1020" beareffect = "1432" seconBearEffect = "1431" missile = "1424">
+		<startOffset xoffset = "50" yoffset = "21" />
+		<bearpos xoffset = "-70" yoffset = "-20" />
+		<actpos xoffset = "35" yoffset = "20" />
+	</singleConfig>
+	<singleConfig id ="1021" beareffect = "1432" seconBearEffect = "1431" missile = "1421">
+		<startOffset xoffset = "1" yoffset = "9" />
+		<bearpos xoffset = "-70" yoffset = "-20" />
+		<actpos xoffset = "10" yoffset = "-34" />
+	</singleConfig>
+	<singleConfig id ="1022" beareffect = "1432" seconBearEffect = "1431" >
+		<startOffset xoffset = "1" yoffset = "9" />
+		<bearpos xoffset = "-35" yoffset = "-37" />
+		<actpos xoffset = "35" yoffset = "20" />
+	</singleConfig>
+	
+	<singleConfig id ="1301" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7401" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "1441"/>
+			<effect type = "6" resourceid = "1442"/>
+			<effect type = "11" resourceid = "1442"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13010000" >
+		<startOffset xoffset = "3" yoffset = "70" />
+	</singleConfig>
+	
+	<singleConfig id ="1302" missile = "0" magiceffect = "1433" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7404"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "1445"/>
+			<effect type = "6" resourceid = "1445"/>
+			<effect type = "11" resourceid = "1445"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13020000" >
+		<startOffset xoffset = "3" yoffset = "67" />
+	</singleConfig>
+	
+	<!--董卓-->
+	<singleConfig id ="1303" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7408"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "1446"/>
+			<effect type = "6" resourceid = "1446"/>
+			<effect type = "11" resourceid = "1446"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13030000" >
+		<startOffset xoffset = "9" yoffset = "78" />
+	</singleConfig>
+	
+	<singleConfig id ="1304" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7406"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "1448"/>
+			<effect type = "6" resourceid = "1448"/>
+			<effect type = "11" resourceid = "1448"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13040000" >
+		<startOffset xoffset = "4" yoffset = "92" />
+	</singleConfig>
+	
+	<singleConfig id ="1305" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7405"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "1449"/>
+			<effect type = "6" resourceid = "1450"/>
+			<effect type = "11" resourceid = "1450"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13050000" >
+		<startOffset xoffset = "3" yoffset = "57" />
+	</singleConfig>
+	
+	<singleConfig id ="1306" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7407"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7601"/>
+			<effect type = "6" resourceid = "7601"/>
+			<effect type = "11" resourceid = "7601"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13060000" >
+		<startOffset xoffset = "-19" yoffset = "49" />
+	</singleConfig>
+	
+	<singleConfig id ="1307" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7409"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7602"/>
+			<effect type = "6" resourceid = "7602"/>
+			<effect type = "11" resourceid = "7602"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13070000" >
+		<startOffset xoffset = "31" yoffset = "56" />
+	</singleConfig>
+	
+	<singleConfig id ="1308" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7410"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7603"/>
+			<effect type = "6" resourceid = "7604"/>
+			<effect type = "11" resourceid = "7604"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13080000" >
+		<startOffset xoffset = "-4" yoffset = "71" />
+	</singleConfig>
+	
+	<singleConfig id ="1309" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7411"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7605"/>
+			<effect type = "6" resourceid = "7606"/>
+			<effect type = "11" resourceid = "7606"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13090000" >
+		<startOffset xoffset = "8" yoffset = "78" />
+	</singleConfig>
+	
+	<singleConfig id ="1310" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7412"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7607"/>
+			<effect type = "6" resourceid = "7607"/>
+			<effect type = "11" resourceid = "7607"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13100000" >
+		<startOffset xoffset = "11" yoffset = "77" />
+	</singleConfig>
+	
+	<singleConfig id ="1311" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7413"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7608"/>
+			<effect type = "6" resourceid = "7608"/>
+			<effect type = "11" resourceid = "7608"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13110000" >
+		<startOffset xoffset = "-2" yoffset = "66" />
+	</singleConfig>
+	
+	<singleConfig id ="1312" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7414"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7609"/>
+			<effect type = "6" resourceid = "7609"/>
+			<effect type = "11" resourceid = "7609"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13120000" >
+		<startOffset xoffset = "4" yoffset = "60" />
+	</singleConfig>
+	
+	<singleConfig id ="1313" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7416"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7610"/>
+			<effect type = "6" resourceid = "7610"/>
+			<effect type = "11" resourceid = "7610"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13130000" >
+		<startOffset xoffset = "9" yoffset = "79" />
+	</singleConfig>
+	
+	<singleConfig id ="1314" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7417"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7611"/>
+			<effect type = "6" resourceid = "7612"/>
+			<effect type = "11" resourceid = "7612"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13140000" >
+		<startOffset xoffset = "1" yoffset = "75" />
+	</singleConfig>
+	
+	<singleConfig id ="1315" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7418"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7616"/>
+			<effect type = "6" resourceid = "7617"/>
+			<effect type = "11" resourceid = "7617"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13150000" >
+		<startOffset xoffset = "-2" yoffset = "78" />
+	</singleConfig>
+	
+	<singleConfig id ="1316" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7419"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7618"/>
+			<effect type = "6" resourceid = "7618"/>
+			<effect type = "11" resourceid = "7618"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13160000" >
+		<startOffset xoffset = "1" yoffset = "97" />
+	</singleConfig>
+	
+	<singleConfig id ="1317" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7420"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7619"/>
+			<effect type = "6" resourceid = "7619"/>
+			<effect type = "11" resourceid = "7619"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13170000" >
+		<startOffset xoffset = "38" yoffset = "68" />
+	</singleConfig>
+	
+	<singleConfig id ="1318" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7421"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "7620" singeaoyieffect = "7620">
+			<effect type = "1" resourceid = "7620"/>
+			<effect type = "6" resourceid = "7620"/>
+			<effect type = "11" resourceid = "7620"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13180000" >
+		<startOffset xoffset = "36" yoffset = "82" />
+	</singleConfig>
+	
+	<singleConfig id ="1319" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7422"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7621"/>
+			<effect type = "6" resourceid = "7621"/>
+			<effect type = "11" resourceid = "7621"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13190000" >
+		<startOffset xoffset = "9" yoffset = "78" />
+	</singleConfig>
+	
+	<singleConfig id ="1320" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7423"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7622"/>
+			<effect type = "6" resourceid = "7622"/>
+			<effect type = "11" resourceid = "7622"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13200000" >
+		<startOffset xoffset = "13" yoffset = "80" />
+	</singleConfig>
+	
+	<singleConfig id ="1321" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7423"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7623"/>
+			<effect type = "6" resourceid = "7624"/>
+			<effect type = "11" resourceid = "7624"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13210000" >
+		<startOffset xoffset = "1" yoffset = "60" />
+	</singleConfig>
+	
+<!-- 庞德	-->
+	<singleConfig id ="1322" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7424"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7625"/>
+			<effect type = "6" resourceid = "7625"/>
+			<effect type = "11" resourceid = "7625"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13220000" >
+		<startOffset xoffset = "8" yoffset = "72" />
+	</singleConfig>
+	
+	<!-- 张辽	-->
+	<singleConfig id ="1323" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7425"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7626"/>
+			<effect type = "6" resourceid = "7626"/>
+			<effect type = "11" resourceid = "7626"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13230000" >
+		<startOffset xoffset = "12" yoffset = "69" />
+	</singleConfig>
+	
+	<!-- 黄忠	-->
+	<singleConfig id ="1324" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7426"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7627"/>
+			<effect type = "6" resourceid = "7627"/>
+			<effect type = "11" resourceid = "7627"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13240000" >
+		<startOffset xoffset = "24" yoffset = "86" />
+	</singleConfig>
+	
+	<!-- 徐晃 -->
+	<singleConfig id ="1325" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7427"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7628"/>
+			<effect type = "6" resourceid = "7628"/>
+			<effect type = "11" resourceid = "7628"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13250000" >
+		<startOffset xoffset = "7" yoffset = "98" />
+	</singleConfig>
+	
+	<!-- 祝融 -->
+	<singleConfig id ="1326" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7428"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7629"/>
+			<effect type = "6" resourceid = "7629"/>
+			<effect type = "11" resourceid = "7629"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13260000" >
+		<startOffset xoffset = "-16" yoffset = "79" />
+	</singleConfig>
+	
+	<!-- 赵云 -->
+	<singleConfig id ="1327" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7429"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7630"/>
+			<effect type = "6" resourceid = "7630"/>
+			<effect type = "11" resourceid = "7630"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13270000" >
+		<startOffset xoffset = "26" yoffset = "85" />
+	</singleConfig>
+	
+	<!-- 诸葛亮 -->
+	<singleConfig id ="1328" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7430"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7631"/>
+			<effect type = "6" resourceid = "7631"/>
+			<effect type = "11" resourceid = "7631"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13280000" >
+		<startOffset xoffset = "18" yoffset = "67" />
+	</singleConfig>
+	
+	<!-- 马超 -->
+	<singleConfig id ="1329" missile = "0" magiceffect = "0" beareffect = "1432" seconBearEffect = "1431" aoyiportrait = "7201" aoyieffect = "7431"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<startOffset xoffset = "-65" yoffset = "-80" />
+		<actpos xoffset = "5" yoffset = "10" />
+		<bearpos xoffset = "5" yoffset = "10" />
+		<heroattackeffect singleeffect = "12115" singeaoyieffect = "12115">
+			<effect type = "1" resourceid = "7632"/>
+			<effect type = "6" resourceid = "7633"/>
+			<effect type = "11" resourceid = "7633"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig id ="13290000" >
+		<startOffset xoffset = "58" yoffset = "83" />
+	</singleConfig>
+	
+</infos>

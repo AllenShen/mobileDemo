@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infos>				
+	<modela>
+		<singleConfig id ="battle_ride">
+			<startOffset xoffset = "50" yoffset = "107"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_walk">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="scene_ride">
+			<startOffset xoffset = "50" yoffset = "107"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="scene_walk">
+			<startOffset xoffset = "63" yoffset = "70"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>	
+		<singleConfig id ="battle_attack_walk_1">
+			<startOffset xoffset = "140" yoffset = "148"/>
+			<actpos xoffset = "75" yoffset = "50" />
+			<bearpos xoffset = "30" yoffset = "10" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_walk_2">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_walk_3">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_walk_4">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_ride_1">
+			<startOffset xoffset = "120" yoffset = "155"/>
+			<actpos xoffset = "75" yoffset = "50" />
+			<bearpos xoffset = "30" yoffset = "10" />
+		</singleConfig>	
+		<singleConfig id ="battle_attack_ride_2">
+			<startOffset xoffset = "70" yoffset = "108"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_ride_3">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_ride_4">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+	</modela>		
+	
+	<modelb>
+		<singleConfig id ="battle_ride">
+			<startOffset xoffset = "50" yoffset = "107"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_walk">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="scene_ride">
+			<startOffset xoffset = "50" yoffset = "107"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="scene_walk">
+			<startOffset xoffset = "63" yoffset = "70"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>	
+		<singleConfig id ="battle_attack_walk_1">
+			<startOffset xoffset = "140" yoffset = "148"/>
+			<actpos xoffset = "75" yoffset = "50" />
+			<bearpos xoffset = "30" yoffset = "10" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_walk_2">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_walk_3">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_walk_4">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_ride_1">
+			<startOffset xoffset = "120" yoffset = "155"/>
+			<actpos xoffset = "75" yoffset = "50" />
+			<bearpos xoffset = "30" yoffset = "10" />
+		</singleConfig>	
+		<singleConfig id ="battle_attack_ride_2">
+			<startOffset xoffset = "70" yoffset = "108"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_ride_3">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_ride_4">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+	</modelb>	
+	
+	<modelc>
+		<singleConfig id ="battle_ride">
+			<startOffset xoffset = "70" yoffset = "108"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_walk">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+			<singleConfig id ="scene_ride">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="scene_walk">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>	
+		<singleConfig id ="battle_attack_walk_1">
+			<startOffset xoffset = "70" yoffset = "108"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_walk_2">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+			<singleConfig id ="battle_attack_walk_3">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_ride_1">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>	
+		<singleConfig id ="battle_attack_ride_2">
+			<startOffset xoffset = "70" yoffset = "108"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_ride_3">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+	</modelc>	
+	
+	<modeld>
+		<singleConfig id ="battle_ride">
+			<startOffset xoffset = "70" yoffset = "108"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_walk">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+			<singleConfig id ="scene_ride">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="scene_walk">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>	
+		<singleConfig id ="battle_attack_walk_1">
+			<startOffset xoffset = "70" yoffset = "108"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_walk_2">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+			<singleConfig id ="battle_attack_walk_3">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_ride_1">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>	
+		<singleConfig id ="battle_attack_ride_2">
+			<startOffset xoffset = "70" yoffset = "108"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+		<singleConfig id ="battle_attack_ride_3">
+			<startOffset xoffset = "-15" yoffset = "-3"/>
+			<actpos xoffset = "5" yoffset = "10" />
+			<bearpos xoffset = "-40" yoffset = "-30" />
+		</singleConfig>
+	</modeld>									
+	
+</infos>

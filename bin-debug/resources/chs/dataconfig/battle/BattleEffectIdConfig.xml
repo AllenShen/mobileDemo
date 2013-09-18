@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infos>
+	<singleConfig effecttype = "1" resId = "1451" />	<!-- shanbi -->	
+	<singleConfig effecttype = "2" resId = "1452" />	<!-- baoji -->	
+	<singleConfig effecttype = "3" resId = "1452" />	<!-- zhongdu -->	
+	<singleConfig effecttype = "4" resId = "1452" />	<!-- xuanyun -->	
+	<singleConfig effecttype = "5" resId = "1452" />	<!-- weimingzhong -->
+	
+	<singleConfig effecttype = "6" resId = "1454" />	<!-- wulifangyutisheng -->
+	<singleConfig effecttype = "7" resId = "1455" />	<!-- mofafangyutisheng -->	
+	<singleConfig effecttype = "8" resId = "1456" />	<!-- wulipojia -->	
+	<singleConfig effecttype = "9" resId = "1457" />	<!-- mofapojia -->	
+	<singleConfig effecttype = "10" resId = "1458" />	<!-- shuaijian -->	
+	<singleConfig effecttype = "11" resId = "1459" />	<!-- jiaxue -->	
+	<singleConfig effecttype = "12" resId = "1460" />	<!-- jiashiqi -->	
+	<singleConfig effecttype = "13" resId = "1467" />	<!-- jiashiqi -->	
+	
+	<singleConfig effecttype = "22" resId = "1453" />	<!-- xiaobingjineng -->
+	<singleConfig effecttype = "23" resId = "1465" />	<!-- xiaobingjineng -->
+	<singleConfig effecttype = "24" resId = "1466" />	<!-- xiaobingjineng -->
+	<singleConfig effecttype = "25" resId = "1470" />
+	<singleConfig effecttype = "26" resId = "1471" />
+	<singleConfig effecttype = "27" resId = "1468" />
+	<singleConfig effecttype = "28" resId = "1472" />
+	
+	<singleConfig effecttype = "51" resId = "1461" />
+	<singleConfig effecttype = "52" resId = "1461" />
+	<singleConfig effecttype = "53" resId = "1462" />
+	<singleConfig effecttype = "54" resId = "1463" />
+	<singleConfig effecttype = "55" resId = "1460" />
+	<singleConfig effecttype = "56" resId = "1464" />
+	
+	<singleConfig effecttype = "101" resId = "1481" />	<!-- baojitisheng -->	
+	<singleConfig effecttype = "102" resId = "1482" />	<!-- shanbitisheng -->	
+	<singleConfig effecttype = "103" resId = "1483" />	<!-- gongjijiangdi -->	
+	<singleConfig effecttype = "104" resId = "1484" />	<!-- gongjitisheng -->	
+	<singleConfig effecttype = "105" resId = "1485" />	<!-- mofafangyutisheng -->	
+	<singleConfig effecttype = "106" resId = "1486" />	<!-- mofapojia -->	
+	<singleConfig effecttype = "107" resId = "1487" />	<!-- wulifangyutisheng -->	
+	<singleConfig effecttype = "108" resId = "1488" />	<!-- wulipojia -->	
+	<singleConfig effecttype = "109" resId = "1490" />
+	<singleConfig effecttype = "110" resId = "1491" />
+	<singleConfig effecttype = "111" resId = "1489" />
+	<singleConfig effecttype = "112" resId = "1492" />
+
+	<singleConfig effecttype = "113" resId = "1494" />
+	<singleConfig effecttype = "114" resId = "1493" />
+	<singleConfig effecttype = "115" resId = "1495" />
+	<singleConfig effecttype = "116" resId = "1496" />
+
+	<singleConfig effecttype = "501" resId = "1402" />
+	<singleConfig effecttype = "502" resId = "1402" />
+	<singleConfig effecttype = "503" resId = "1403" />	
+	<singleConfig effecttype = "504" resId = "1404" />
+	<singleConfig effecttype = "505" resId = "1405" />
+	<singleConfig effecttype = "506" resId = "1406" />
+	<singleConfig effecttype = "507" resId = "1407" />
+	<singleConfig effecttype = "508" resId = "1408" />
+	<singleConfig effecttype = "509" resId = "1409" />
+	
+	<singleConfig effecttype = "510" resId = "15003" />
+	
+</infos>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infos>
+<configInfo resid = "1" resname="textConfig" ressource="/text/textConfig.xml" restype="9" extendsdata="0" version="1.00" packid = ""/>
+
+<configInfo resid="810" resname="map" ressource="/resources/city/surface/1/1.jpg" restype="1" extendsdata="" version="2.00" packid=""/>
+<configInfo resid = "811" resname="zhucheng" ressource="/resources/city/building/zhucheng.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "812" resname="bingying" ressource="/resources/city/building/bingying.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "813" resname="jiuguan" ressource="/resources/city/building/jiuguan.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "814" resname="jixiezhizaochan" ressource="/resources/city/building/jixiezhizaochang.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "815" resname="liangcang" ressource="/resources/city/building/liangcang.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "816" resname="minfangyi" ressource="/resources/city/building/minfangyi.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "817" resname="minfanger" ressource="/resources/city/building/minfanger.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "818" resname="minfangsan" ressource="/resources/city/building/minfangsan.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "819" resname="shichang" ressource="/resources/city/building/shichang.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "820" resname="shuyuan" ressource="/resources/city/building/shuyuan.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "821" resname="tiejiangpu" ressource="/resources/city/building/tiejiangpu.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "822" resname="ziyuanguanliju" ressource="/resources/city/building/ziyuanguanliju.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "823" resname="baojiandiaoxiang" ressource="/resources/city/building/baojiandiaoxiang.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "824" resname="bingqizhong" ressource="/resources/city/building/bingqizhong.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "825" resname="daxingzhanche" ressource="/resources/city/building/daxingzhanche.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "826" resname="fashidiaoxiang" ressource="/resources/city/building/fashidiaoxiang.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "827" resname="gumu" ressource="/resources/city/building/gumu.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "828" resname="huangquan" ressource="/resources/city/building/huangquan.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "829" resname="jinkuang" ressource="/resources/city/building/jinkuang.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "830" resname="kuangshan" ressource="/resources/city/building/kuangshan.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "831" resname="mofazhen" ressource="/resources/city/building/mofazhen.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "832" resname="nongtian" ressource="/resources/city/building/nongtian.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "833" resname="yingxiongjitan" ressource="/resources/city/building/yingxiongjitan.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "834" resname="zhanzhengjitan" ressource="/resources/city/building/zhanzhengjitan.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "835" resname="zhanzhengqizhi" ressource="/resources/city/building/zhanzhengqizhi.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "836" resname="zhihuigushu" ressource="/resources/city/building/zhihuigushu.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "837" resname="roudunqiguan" ressource="/resources/city/building/roudunqiguan.png" restype="1" extendsdata="" version="" packid = ""/>
+<configInfo resid = "838" resname="shangdian" ressource="/resources/city/building/shangdian.png" restype="1" extendsdata="" version="" packid = ""/> 
+<configInfo resid = "839" resname="maoyizhongxin" ressource="/resources/city/building/maoyizhongxin.png" restype="1" extendsdata="" version="" packid = ""/> 
+
+<configInfo resid="99" resname="citysuolue" ressource="/resources/city/surface/1/map_s.jpg" restype="1" extendsdata="" version="2.00" packid=""/>
+
+  <configInfo resid="900" resname="tiejiangpu" ressource="/resources/animators/tiejiangpu.yp" restype="3" extendsdata="" version="2.00" packid=""/>
+  <configInfo resid="901" resname="binggongchang" ressource="/resources/animators/binggongchang.yp" restype="3" extendsdata="" version="2.00" packid=""/>
+  <configInfo resid="902" resname="jixiechang" ressource="/resources/animators/jixiechang.yp" restype="3" extendsdata="" version="2.00" packid=""/>
+  <configInfo resid="903" resname="kezhan" ressource="/resources/animators/kezhan.yp" restype="3" extendsdata="" version="2.00" packid=""/>
+  <configInfo resid="904" resname="deco1" ressource="/resources/city/decorates/deco1.png" restype="1" extendsdata="" version="2.00" packid=""/>
+  <configInfo resid="905" resname="deco2" ressource="/resources/city/decorates/deco2.png" restype="1" extendsdata="" version="2.00" packid=""/>
+  <configInfo resid="906" resname="deco3" ressource="/resources/city/decorates/deco3.png" restype="1" extendsdata="" version="2.00" packid=""/>
+  <configInfo resid="907" resname="deco4" ressource="/resources/city/decorates/deco4.png" restype="1" extendsdata="" version="2.00" packid=""/>
+  <configInfo resid="908" resname="deco5" ressource="/resources/city/decorates/deco5.png" restype="1" extendsdata="" version="2.00" packid=""/>
+  <configInfo resid="909" resname="deco6" ressource="/resources/city/decorates/deco6.png" restype="1" extendsdata="" version="2.00" packid=""/>
+  <configInfo resid="910" resname="zhuchengdonghua1" ressource="/resources/animators/zhuchengdonghua1.swf" restype="7" extendsdata="zhuchengdonghua1" version="2.00" packid=""/>
+  <configInfo resid="911" resname="zhuchengdonghua2" ressource="/resources/animators/zhuchengdonghua2.swf" restype="7" extendsdata="zhuchengdonghua2" version="2.00" packid=""/>
+  <configInfo resid="912" resname="zhuchengdonghua3" ressource="/resources/animators/zhuchengdonghua3.swf" restype="7" extendsdata="zhuchengdonghua3" version="2.00" packid=""/>
+  <configInfo resid="913" resname="zhuchengdonghua4" ressource="/resources/animators/zhuchengdonghua4.swf" restype="7" extendsdata="zhuchengdonghua4" version="2.00" packid=""/>
+
+
+</infos>

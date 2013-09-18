@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defence>
+  <item>
+    <attacktype>1</attacktype>
+    <coinadd>400</coinadd>
+    <coinbase>0</coinbase>
+    <desid>1</desid>
+    <did>1</did>
+    <effectid>1022</effectid>
+    <height>3</height>
+    <icon>4039</icon>
+    <nameid>1950</nameid>
+    <needadd>1</needadd>
+    <needbase>1</needbase>
+    <range>1</range>
+    <skill>[]</skill>
+    <type>3</type>
+    <vadd>2300</vadd>
+    <vbase>30000</vbase>
+    <width>1</width>
+  </item>
+  <item>
+    <attacktype>1</attacktype>
+    <coinadd>700</coinadd>
+    <coinbase>0</coinbase>
+    <desid>1</desid>
+    <did>2</did>
+    <effectid>1021</effectid>
+    <height>1</height>
+    <icon>4040</icon>
+    <nameid>1951</nameid>
+    <needadd>1</needadd>
+    <needbase>1</needbase>
+    <range>5</range>
+    <skill>[]</skill>
+    <type>4</type>
+    <vadd>1</vadd>
+    <vbase>25</vbase>
+    <width>1</width>
+  </item>
+</defence>

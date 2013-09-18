@@ -1,0 +1,2077 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<textConfig id = "1" text="钱币" pak="ui"/>
+<textConfig id = "2" text="元宝" pak="ui"/>
+<textConfig id = "3" text="礼金" pak="ui"/>
+<textConfig id = "4" text="粮食" pak="ui"/>
+<textConfig id = "5" text="木材" pak="ui"/>
+<textConfig id = "6" text="石料" pak="ui"/>
+<textConfig id = "7" text="装备" pak="ui"/>
+<textConfig id = "8" text="五行石" pak="ui"/>
+<textConfig id = "9" text="五行碎片" pak="ui"/>
+<textConfig id = "10" text="关键碎片" pak="ui"/>
+<textConfig id = "11" text="英雄" pak="ui"/>
+<textConfig id = "12" text="士兵" pak="ui"/>
+<textConfig id = "13" text="游戏币上限" pak="ui"/>
+<textConfig id = "14" text="礼金上限" pak="ui"/>
+<textConfig id = "15" text="粮食上限" pak="ui"/>
+<textConfig id = "16" text="木材上限" pak="ui"/>
+<textConfig id = "17" text="石料上限" pak="ui"/>
+<textConfig id = "18" text="技能" pak="ui"/>
+<textConfig id = "19" text="锻造书" pak="ui"/>
+<textConfig id = "20" text="套装" pak="ui"/>
+<textConfig id = "21" text="建造" pak="ui"/>
+<textConfig id = "22" text="最大" pak="ui"/>
+<textConfig id = "23" text="徽章" pak="ui"/>
+<textConfig id = "24" text="装备" pak="ui"/>
+<textConfig id = "25" text="现有" pak="ui"/>
+<textConfig id = "26" text="最多" pak="ui"/>
+<textConfig id = "27" text="解锁" pak="ui"/>
+<textConfig id = "28" text="兵营" pak="ui"/>
+<textConfig id = "29" text="重工厂" pak="ui"/>
+<textConfig id = "101" text="确定" pak="ui"/>
+<textConfig id = "102" text="取消" pak="ui"/>
+<textConfig id = "103" text="全部拾取" pak="ui"/>
+<textConfig id = "104" text="武将列表" pak="ui"/>
+<textConfig id = "105" text="士兵列表" pak="ui"/>
+<textConfig id = "106" text="阵型" pak="ui"/>
+<textConfig id = "107" text="布阵" pak="ui"/>
+<textConfig id = "108" text="防御" pak="ui"/>
+<textConfig id = "109" text="左" pak="ui"/>
+<textConfig id = "110" text="右" pak="ui"/>
+<textConfig id = "111" text="级别" pak="ui"/>
+<textConfig id = "112" text="名字" pak="ui"/>
+<textConfig id = "113" text="保存" pak="ui"/>
+<textConfig id = "114" text="主城" pak="ui"/>
+<textConfig id = "115" text="战场" pak="ui"/>
+<textConfig id = "116" text="战斗" pak="ui"/>
+<textConfig id = "117" text="布阵" pak="ui"/>
+<textConfig id = "118" text="英雄" pak="ui"/>
+<textConfig id = "119" text="是" pak="ui"/>
+<textConfig id = "120" text="否" pak="ui"/>
+<textConfig id = "121" text="/" pak="ui"/>
+<textConfig id = "122" text="购买背包" pak="ui"/>
+<textConfig id = "123" text="详细属性" pak="ui"/>
+<textConfig id = "124" text="招募" pak="ui"/>
+<textConfig id = "125" text="解雇" pak="ui"/>
+<textConfig id = "126" text="休息" pak="ui"/>
+<textConfig id = "127" text="训练" pak="ui"/>
+<textConfig id = "128" text="0" pak="ui"/>
+<textConfig id = "129" text="等级" pak="ui"/>
+<textConfig id = "130" text="强化次数" pak="ui"/>
+<textConfig id = "131" text="主属性" pak="ui"/>
+<textConfig id = "132" text="副属性" pak="ui"/>
+<textConfig id = "133" text="物攻" pak="ui"/>
+<textConfig id = "134" text="物防" pak="ui"/>
+<textConfig id = "135" text="法攻" pak="ui"/>
+<textConfig id = "136" text="法防" pak="ui"/>
+<textConfig id = "137" text="技能伤害" pak="ui"/>
+<textConfig id = "138" text="带兵量" pak="ui"/>
+<textConfig id = "139" text="主将" pak="ui"/>
+<textConfig id = "140" text="武将" pak="ui"/>
+<textConfig id = "141" text="训练" pak="ui"/>
+<textConfig id = "142" text="招募" pak="ui"/>
+<textConfig id = "143" text="背包" pak="ui"/>
+<textConfig id = "144" text="强化" pak="ui"/>
+<textConfig id = "145" text="制造" pak="ui"/>
+<textConfig id = "146" text="五行石" pak="ui"/>
+<textConfig id = "147" text="士兵" pak="ui"/>
+<textConfig id = "148" text="战" pak="ui"/>
+<textConfig id = "149" text="守" pak="ui"/>
+<textConfig id = "150" text="闲" pak="ui"/>
+<textConfig id = "151" text="训" pak="ui"/>
+<textConfig id = "152" text="政" pak="ui"/>
+<textConfig id = "153" text="卡牌" pak="ui"/>
+<textConfig id = "154" text="任务" pak="ui"/>
+<textConfig id = "155" text="临时" pak="ui"/>
+<textConfig id = "156" text="武将属性" pak="ui"/>
+<textConfig id = "157" text="武将技" pak="ui"/>
+<textConfig id = "158" text="武器技" pak="ui"/>
+<textConfig id = "159" text="套装" pak="ui"/>
+<textConfig id = "160" text="金" pak="ui"/>
+<textConfig id = "161" text="木" pak="ui"/>
+<textConfig id = "162" text="水" pak="ui"/>
+<textConfig id = "163" text="火" pak="ui"/>
+<textConfig id = "164" text="土" pak="ui"/>
+<textConfig id = "165" text="竞技" pak="ui"/>
+<textConfig id = "166" text="123456" pak="ui"/>
+<textConfig id = "167" text="123" pak="ui"/>
+<textConfig id = "168" text="身上装备" pak="ui"/>
+<textConfig id = "169" text="背包装备" pak="ui"/>
+<textConfig id = "170" text="强化" pak="ui"/>
+<textConfig id = "171" text="物品栏" pak="ui"/>
+<textConfig id = "172" text="升级" pak="ui"/>
+<textConfig id = "173" text="成功率" pak="ui"/>
+<textConfig id = "174" text="爆击率" pak="ui"/>
+<textConfig id = "175" text="闪避率" pak="ui"/>
+<textConfig id = "178" text="套装技" pak="ui"/>
+<textConfig id = "181" text="{0}级" pak="ui"/>
+<textConfig id = "182" text="还可以建造{0}个" pak="ui"/>
+<textConfig id = "183" text="??????" pak="ui"/>
+<textConfig id = "184" text="需要{0}{1}级" pak="ui"/>
+<textConfig id = "185" text="建筑物个数超限" pak="ui"/>
+<textConfig id = "186" text="金币不足，需要&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;金币" pak="ui"/>
+<textConfig id = "187" text="石头不足，需要&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;石头" pak="ui"/>
+<textConfig id = "188" text="粮食不足，需要&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;粮食" pak="ui"/>
+<textConfig id = "189" text="金币数量将超上限" pak="ui"/>
+<textConfig id = "190" text="石头数量将超上限" pak="ui"/>
+<textConfig id = "191" text="粮食数量将超上限" pak="ui"/>
+<textConfig id = "192" text="建筑已经达到最高级别" pak="ui"/>
+<textConfig id = "193" text="任何建筑物级别不能超过官府级别" pak="ui"/>
+<textConfig id = "194" text="主城功能出错，错误代码：{0}" pak="ui"/>
+<textConfig id = "195" text="不存在该城市，请重新刷新" pak="ui"/>
+<textConfig id = "196" text="客户端信息不一致，请重新刷新" pak="ui"/>
+<textConfig id = "197" text="找不到该建筑物" pak="ui"/>
+<textConfig id = "198" text="礼金不足，需要&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;礼金" pak="ui"/>
+<textConfig id = "199" text="元宝不足，需要&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;元宝" pak="ui"/>
+<textConfig id = "200" text="没有相关信息，请重新刷新" pak="ui"/>
+<textConfig id = "201" text="资源信息错误，错误码：{0}" pak="ui"/>
+<textConfig id = "202" text="跳过" pak="ui"/>
+<textConfig id = "203" text="再看一次" pak="ui"/>
+<textConfig id = "204" text="镶嵌" pak="ui"/>
+<textConfig id = "205" text="购买" pak="ui"/>
+<textConfig id = "206" text="商店" pak="ui"/>
+<textConfig id = "207" text="科技" pak="ui"/>
+<textConfig id = "208" text="修炼" pak="ui"/>
+<textConfig id = "209" text="领悟" pak="ui"/>
+<textConfig id = "210" text="该科技已经升至最高级别" pak="ui"/>
+<textConfig id = "211" text="学院级别不足请升级至{0}级学院" pak="ui"/>
+<textConfig id = "212" text="技能说明：" pak="ui"/>
+<textConfig id = "213" text="升级花费：" pak="ui"/>
+<textConfig id = "214" text="增加第二排某些格子带兵5%，增加第三、四排某些格子带兵7%" pak="ui"/>
+<textConfig id = "215" text="确定要卖掉该物品么？" pak="ui"/>
+<textConfig id = "216" text="战斗结果" pak="ui"/>
+<textConfig id = "217" text="未解锁" pak="ui"/>
+<textConfig id = "218" text="级" pak="ui"/>
+<textConfig id = "219" text="支线任务" pak="ui"/>
+<textConfig id = "220" text="副本" pak="ui"/>
+<textConfig id = "221" text="副本名称" pak="ui"/>
+<textConfig id = "222" text="副本积分" pak="ui"/>
+<textConfig id = "223" text="通关奖励" pak="ui"/>
+<textConfig id = "224" text="寻求组队" pak="ui"/>
+<textConfig id = "225" text="等级" pak="ui"/>
+<textConfig id = "226" text="单人挑战" pak="ui"/>
+<textConfig id = "227" text="创建队伍" pak="ui"/>
+<textConfig id = "228" text="战斗次数" pak="ui"/>
+<textConfig id = "229" text="掉落" pak="ui"/>
+<textConfig id = "230" text="剩余战斗次数" pak="ui"/>
+<textConfig id = "231" text="退出" pak="ui"/>
+<textConfig id = "232" text="开始" pak="ui"/>
+<textConfig id = "233" text="解散" pak="ui"/>
+<textConfig id = "234" text="加入" pak="ui"/>
+<textConfig id = "235" text="请出" pak="ui"/>
+<textConfig id = "236" text="默认" pak="ui"/>
+<textConfig id = "237" text="阵上" pak="ui"/>
+<textConfig id = "238" text="制造中" pak="ui"/>
+<textConfig id = "239" text="缺兵" pak="ui"/>
+<textConfig id = "240" text="小时" pak="ui"/>
+<textConfig id = "241" text="分" pak="ui"/>
+<textConfig id = "242" text="秒" pak="ui"/>
+<textConfig id = "243" text="天" pak="ui"/>
+<textConfig id = "244" text="20:00:00" pak="ui"/>
+<textConfig id = "245" text="制造{0}个{1}需要消耗以下资源，确认继续吗？" pak="ui"/>
+<textConfig id = "246" text="训练时间" pak="ui"/>
+<textConfig id = "247" text="获得经验" pak="ui"/>
+<textConfig id = "248" text="{0}exp" pak="ui"/>
+<textConfig id = "249" text="购买训练位" pak="ui"/>
+<textConfig id = "250" text="购买英雄位" pak="ui"/>
+<textConfig id = "251" text="阵型必须有主将" pak="ui"/>
+<textConfig id = "252" text="造兵队列已经结束" pak="ui"/>
+<textConfig id = "253" text="取消造兵返还以下造兵支出" pak="ui"/>
+<textConfig id = "254" text="{0}{1}级解锁" pak="ui"/>
+<textConfig id = "255" text="商店特殊物品解锁" pak="ui"/>
+<textConfig id = "256" text="加速队列需要消耗{0}个元宝。" pak="ui"/>
+<textConfig id = "257" text="城市名称" pak="ui"/>
+<textConfig id = "258" text="需求等级" pak="ui"/>
+<textConfig id = "259" text="金币产量" pak="ui"/>
+<textConfig id = "260" text="资源量" pak="ui"/>
+<textConfig id = "261" text="目前人口" pak="ui"/>
+<textConfig id = "262" text="迁入" pak="ui"/>
+<textConfig id = "263" text="迁入冷却" pak="ui"/>
+<textConfig id = "264" text="占领" pak="ui"/>
+<textConfig id = "265" text="玩家战斗力" pak="ui"/>
+<textConfig id = "266" text="掠夺" pak="ui"/>
+<textConfig id = "267" text="生产时间" pak="ui"/>
+<textConfig id = "268" text="仇恨值" pak="ui"/>
+<textConfig id = "269" text="进入城市" pak="ui"/>
+<textConfig id = "270" text="今天已被侵略" pak="ui"/>
+<textConfig id = "271" text="该用户不存在" pak="ui"/>
+<textConfig id = "272" text="不存在指定的系统英雄" pak="ui"/>
+<textConfig id = "273" text="该英雄还不可以招募" pak="ui"/>
+<textConfig id = "274" text="背包已经满了" pak="ui"/>
+<textConfig id = "275" text="不存在指定的系统装备" pak="ui"/>
+<textConfig id = "276" text="临时装备不能出售" pak="ui"/>
+<textConfig id = "277" text="英雄等级未达到装备要求等级" pak="ui"/>
+<textConfig id = "278" text="该英雄已经被招募" pak="ui"/>
+<textConfig id = "279" text="没有足够的英雄栏位" pak="ui"/>
+<textConfig id = "280" text="商店没有该物品" pak="ui"/>
+<textConfig id = "281" text="不存在指定的系统纹章" pak="ui"/>
+<textConfig id = "282" text="不存在指定的系统神符" pak="ui"/>
+<textConfig id = "283" text="不存在指定的系统五行石" pak="ui"/>
+<textConfig id = "284" text="不存在指定的系统五行碎片" pak="ui"/>
+<textConfig id = "285" text="不存在指定的用户英雄" pak="ui"/>
+<textConfig id = "286" text="不存在指定的用户装备" pak="ui"/>
+<textConfig id = "287" text="不存在指定的用户纹章" pak="ui"/>
+<textConfig id = "288" text="不存在指定的五行神符" pak="ui"/>
+<textConfig id = "289" text="不存在指定的五行石" pak="ui"/>
+<textConfig id = "290" text="不存在指定的五行碎片" pak="ui"/>
+<textConfig id = "291" text="该英雄已经在训练了" pak="ui"/>
+<textConfig id = "292" text="没有空闲的训练队列" pak="ui"/>
+<textConfig id = "293" text="英雄没有在训练" pak="ui"/>
+<textConfig id = "294" text="装备强化次数已经超过上限" pak="ui"/>
+<textConfig id = "295" text="装备等级不能超过主将等级" pak="ui"/>
+<textConfig id = "296" text="计算英雄训练经验时出错" pak="ui"/>
+<textConfig id = "297" text="购买训练位出错" pak="ui"/>
+<textConfig id = "298" text="找不到指定的装备合成配方" pak="ui"/>
+<textConfig id = "299" text="没有足够的五行碎片" pak="ui"/>
+<textConfig id = "300" text="没有获得指定的前置装备" pak="ui"/>
+<textConfig id = "301" text="没有找到该资源建筑物，请重新登录。" pak="ui"/>
+<textConfig id = "302" text="资源生产数据有误，请重新登录" pak="ui"/>
+<textConfig id = "303" text="资源生产时间有误，请重新登录" pak="ui"/>
+<textConfig id = "304" text="资源已经达到上限，无法收获。" pak="ui"/>
+<textConfig id = "305" text="资源收获成功，获得以下资源。" pak="ui"/>
+<textConfig id = "306" text="该建筑物并非资源建筑物，无法收获。" pak="ui"/>
+<textConfig id = "307" text="五行神符" pak="ui"/>
+<textConfig id = "308" text="替换" pak="ui"/>
+<textConfig id = "309" text="伤害" pak="ui"/>
+<textConfig id = "310" text="生命" pak="ui"/>
+<textConfig id = "311" text="闪避" pak="ui"/>
+<textConfig id = "312" text="暴击" pak="ui"/>
+<textConfig id = "313" text="士气取得" pak="ui"/>
+<textConfig id = "314" text="技能触发" pak="ui"/>
+<textConfig id = "315" text="攻击" pak="ui"/>
+<textConfig id = "316" text="空闲" pak="ui"/>
+<textConfig id = "317" text="合成" pak="ui"/>
+<textConfig id = "318" text="去书院" pak="ui"/>
+<textConfig id = "319" text="找不到指定神符的合成配方" pak="ui"/>
+<textConfig id = "320" text="合成神符出错" pak="ui"/>
+<textConfig id = "321" text="该士兵装备已经被使用" pak="ui"/>
+<textConfig id = "322" text="该士兵装备没有被使用" pak="ui"/>
+<textConfig id = "323" text="训练中……" pak="ui"/>
+<textConfig id = "324" text="买入" pak="ui"/>
+<textConfig id = "325" text="卖出" pak="ui"/>
+<textConfig id = "326" text="单次交易额" pak="ui"/>
+<textConfig id = "327" text="市场行情" pak="ui"/>
+<textConfig id = "328" text="=" pak="ui"/>
+<textConfig id = "329" text="五行石没有被镶嵌" pak="ui"/>
+<textConfig id = "330" text="五行石已经被镶嵌" pak="ui"/>
+<textConfig id = "331" text="阵型1" pak="ui"/>
+<textConfig id = "332" text="阵型2" pak="ui"/>
+<textConfig id = "333" text="阵型3" pak="ui"/>
+<textConfig id = "334" text="原石不能被使用" pak="ui"/>
+<textConfig id = "335" text="还未激活武将技" pak="ui"/>
+<textConfig id = "336" text="还未激活武器技" pak="ui"/>
+<textConfig id = "337" text="还未激活套装属性" pak="ui"/>
+<textConfig id = "338" text="指定的镶嵌孔不存在" pak="ui"/>
+<textConfig id = "339" text="指定的五行石和镶嵌孔的五行属性不符" pak="ui"/>
+<textConfig id = "340" text="购买装备格" pak="ui"/>
+<textConfig id = "341" text="玩家主将必须在阵上，不能下阵。" pak="ui"/>
+<textConfig id = "342" text="玩家主将必须在阵上，可以替换其他副将，不能被替换。" pak="ui"/>
+<textConfig id = "343" text="默认阵型主将必须上阵。" pak="ui"/>
+<textConfig id = "344" text="请放入要吸收的五行碎片" pak="ui"/>
+<textConfig id = "345" text="五行石已经达到最大等级" pak="ui"/>
+<textConfig id = "346" text="要吸收的碎片数量超过了五行石的极限" pak="ui"/>
+<textConfig id = "347" text="该神符已经不存在" pak="ui"/>
+<textConfig id = "348" text="该神符已经被使用" pak="ui"/>
+<textConfig id = "349" text="修建" pak="ui"/>
+<textConfig id = "350" text="功能" pak="ui"/>
+<textConfig id = "351" text="增益" pak="ui"/>
+<textConfig id = "352" text="已经与服务器断开,请刷新页面！" pak="ui"/>
+<textConfig id = "353" text="你现在正在副本队伍中，你要退出队伍吗？" pak="ui"/>
+<textConfig id = "354" text="你现在正在副本队伍中，你要解散队伍吗？" pak="ui"/>
+<textConfig id = "355" text="确定要移出这个玩家吗？" pak="ui"/>
+<textConfig id = "356" text="确定要离开队伍吗？" pak="ui"/>
+<textConfig id = "357" text="确定要解散队伍吗？" pak="ui"/>
+<textConfig id = "358" text="你还不能进入这个区域！" pak="ui"/>
+<textConfig id = "359" text="你必须达到{0}级才能进入这个区域！" pak="ui"/>
+<textConfig id = "360" text="确定要向{0}发起挑战吗？" pak="ui"/>
+<textConfig id = "361" text="{0}向你发起挑战，要接受吗？" pak="ui"/>
+<textConfig id = "362" text="确定要向{0}发起挑战吗？" pak="ui"/>
+<textConfig id = "363" text="{0}向你发起挑战，要接受吗？" pak="ui"/>
+<textConfig id = "364" text="你已经被移出队伍！" pak="ui"/>
+<textConfig id = "365" text="你所在的队伍已被解散" pak="ui"/>
+<textConfig id = "366" text="你已经在一个队伍里了，请先解散或退出所在队伍。" pak="ui"/>
+<textConfig id = "367" text="强化装备失败" pak="ui"/>
+<textConfig id = "368" text="主英雄不能训练" pak="ui"/>
+<textConfig id = "369" text="全部领取" pak="ui"/>
+<textConfig id = "370" text="英雄等级未达到提升要求" pak="ui"/>
+<textConfig id = "371" text="所有的主英雄提升任务都已经完成" pak="ui"/>
+<textConfig id = "372" text="找不到该英雄领悟信息" pak="ui"/>
+<textConfig id = "373" text="成功率刷新时间" pak="ui"/>
+<textConfig id = "374" text="解锁条件：玩家等级达到&lt;FONT color='#ff0000'&gt;{0}级&lt;/FONT&gt;或&lt;FONT color='#FFF100'&gt;VIP{1}&lt;/FONT&gt;" pak="ui"/>
+<textConfig id = "375" text="吸收" pak="ui"/>
+<textConfig id = "376" text="需要{0}{1}级" pak="ui"/>
+<textConfig id = "377" text="已经达到最高等级" pak="ui"/>
+<textConfig id = "378" text="阵型技能(技能{0}级解锁)" pak="ui"/>
+<textConfig id = "379" text="你确认要迁入{0}吗？" pak="ui"/>
+<textConfig id = "380" text="(" pak="ui"/>
+<textConfig id = "381" text=")" pak="ui"/>
+<textConfig id = "382" text="下一级" pak="ui"/>
+<textConfig id = "383" text="激活" pak="ui"/>
+<textConfig id = "384" text="奖励" pak="ui"/>
+<textConfig id = "385" text="得到新的高级装备" pak="ui"/>
+<textConfig id = "386" text="查看" pak="ui"/>
+<textConfig id = "387" text="士兵生命" pak="ui"/>
+<textConfig id = "388" text="士兵伤害" pak="ui"/>
+<textConfig id = "389" text="攻击距离" pak="ui"/>
+<textConfig id = "390" text="攻击范围" pak="ui"/>
+<textConfig id = "391" text="使用条件：消耗士气100点" pak="ui"/>
+<textConfig id = "392" text="已领取" pak="ui"/>
+<textConfig id = "393" text="永久有效" pak="ui"/>
+<textConfig id = "394" text="有效时间" pak="ui"/>
+<textConfig id = "395" text="还能单人挑战&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;次" pak="ui"/>
+<textConfig id = "396" text="必须通过&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;" pak="ui"/>
+<textConfig id = "397" text="需要&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;积分&lt;br&gt;" pak="ui"/>
+<textConfig id = "398" text="解锁条件" pak="ui"/>
+<textConfig id = "399" text="今天不能再进入这个区域" pak="ui"/>
+<textConfig id = "400" text="刷新" pak="ui"/>
+<textConfig id = "401" text="主城级别不能超过玩家级别" pak="ui"/>
+<textConfig id = "402" text="下次刷新时间：{0}" pak="ui"/>
+<textConfig id = "403" text="请先打败其他敌人！" pak="ui"/>
+<textConfig id = "404" text="你还需要强化一下的&lt;font color='#ff0000'&gt;{0}&lt;/font&gt;装备" pak="ui"/>
+<textConfig id = "405" text="战斗中疯狂的点击使用卡片" pak="ui"/>
+<textConfig id = "406" text="去强化" pak="ui"/>
+<textConfig id = "407" text="下次试试" pak="ui"/>
+<textConfig id = "408" text="输入角色名" pak="ui"/>
+<textConfig id = "409" text="我看看" pak="ui"/>
+<textConfig id = "410" text="{0}的装备太差了，快换一套吧" pak="ui"/>
+<textConfig id = "411" text="派遣" pak="ui"/>
+<textConfig id = "412" text="召回" pak="ui"/>
+<textConfig id = "413" text="已派出{0}武将" pak="ui"/>
+<textConfig id = "414" text="领取" pak="ui"/>
+<textConfig id = "415" text="寻宝" pak="ui"/>
+<textConfig id = "416" text="获得宝物" pak="ui"/>
+<textConfig id = "417" text="兑换" pak="ui"/>
+<textConfig id = "418" text="寻宝武将等级越高，收获越多，得兑换券的概率越大(剩余{1}个武将)" pak="ui"/>
+<textConfig id = "419" text="正在搜寻…" pak="ui"/>
+<textConfig id = "420" text="没有足够数量组成队伍的英雄" pak="ui"/>
+<textConfig id = "421" text="请先领取宝物，再开始寻宝" pak="ui"/>
+<textConfig id = "422" text="请先寻宝，再来领取宝物" pak="ui"/>
+<textConfig id = "423" text="耐久" pak="ui"/>
+<textConfig id = "424" text="召回所有在外寻宝的英雄" pak="ui"/>
+<textConfig id = "425" text="是否使用{0}兑换券来兑换该物品？" pak="ui"/>
+<textConfig id = "426" text="兑换券不足" pak="ui"/>
+<textConfig id = "427" text="该英雄已经出现在战斗阵型上，请先从战斗阵型卸下" pak="ui"/>
+<textConfig id = "428" text="该英雄已经出现在防御阵型上，请先从防御阵型卸下" pak="ui"/>
+<textConfig id = "429" text="目前还不能移动位置" pak="ui"/>
+<textConfig id = "430" text="资源正在生产中" pak="ui"/>
+<textConfig id = "431" text="不能再占领更多的矿场了" pak="ui"/>
+<textConfig id = "432" text="不能再掠夺这个矿场了" pak="ui"/>
+<textConfig id = "433" text="确定要搬迁到这个位置吗？" pak="ui"/>
+<textConfig id = "434" text="要占领这个矿场吗？" pak="ui"/>
+<textConfig id = "435" text="要掠夺这个矿场吗？" pak="ui"/>
+<textConfig id = "436" text="准入等级" pak="ui"/>
+<textConfig id = "437" text="战斗损失" pak="ui"/>
+<textConfig id = "438" text="迁移" pak="ui"/>
+<textConfig id = "439" text="加速" pak="ui"/>
+<textConfig id = "440" text="所有者" pak="ui"/>
+<textConfig id = "441" text="争夺" pak="ui"/>
+<textConfig id = "442" text="侵略" pak="ui"/>
+<textConfig id = "444" text="城市" pak="ui"/>
+<textConfig id = "445" text="区域" pak="ui"/>
+<textConfig id = "446" text="矿场" pak="ui"/>
+<textConfig id = "447" text="获取积分{0}" pak="ui"/>
+<textConfig id = "448" text="进入" pak="ui"/>
+<textConfig id = "449" text="等级太低还不能进行PK" pak="ui"/>
+<textConfig id = "450" text="挑战" pak="ui"/>
+<textConfig id = "451" text="额外奖励" pak="ui"/>
+<textConfig id = "452" text="累计积分" pak="ui"/>
+<textConfig id = "453" text="玩家等级" pak="ui"/>
+<textConfig id = "454" text="击败获得积分" pak="ui"/>
+<textConfig id = "455" text="我的积分" pak="ui"/>
+<textConfig id = "456" text="战斗损耗{0}" pak="ui"/>
+<textConfig id = "457" text="对手刷新时间{0}" pak="ui"/>
+<textConfig id = "458" text="刷新对手" pak="ui"/>
+<textConfig id = "459" text="排行" pak="ui"/>
+<textConfig id = "460" text="争霸" pak="ui"/>
+<textConfig id = "461" text="等级{0}～{1}" pak="ui"/>
+<textConfig id = "462" text="等级{0}以上" pak="ui"/>
+<textConfig id = "463" text="连胜榜" pak="ui"/>
+<textConfig id = "464" text="杀人榜" pak="ui"/>
+<textConfig id = "465" text="查看自己" pak="ui"/>
+<textConfig id = "466" text="领取奖励" pak="ui"/>
+<textConfig id = "467" text="(连斩)" pak="ui"/>
+<textConfig id = "468" text="请选择你的队伍" pak="ui"/>
+<textConfig id = "469" text="青龙" pak="ui"/>
+<textConfig id = "470" text="白虎" pak="ui"/>
+<textConfig id = "471" text="朱雀" pak="ui"/>
+<textConfig id = "472" text="刷新对手" pak="ui"/>
+<textConfig id = "473" text="剩余{0}空位" pak="ui"/>
+<textConfig id = "474" text="队伍已满" pak="ui"/>
+<textConfig id = "475" text="第 {0} 届争霸赛" pak="ui"/>
+<textConfig id = "476" text="开始时间" pak="ui"/>
+<textConfig id = "477" text="每周一 {0}点" pak="ui"/>
+<textConfig id = "478" text="正在进行中..." pak="ui"/>
+<textConfig id = "479" text="比赛规则" pak="ui"/>
+<textConfig id = "480" text="排行榜前{0}位获取参赛资格" pak="ui"/>
+<textConfig id = "481" text="积分排行{0}名" pak="ui"/>
+<textConfig id = "482" text="积分 {0} 分" pak="ui"/>
+<textConfig id = "483" text="距离参赛资格还差 {0} 分" pak="ui"/>
+<textConfig id = "484" text="还有 {0}" pak="ui"/>
+<textConfig id = "485" text="已经开战" pak="ui"/>
+<textConfig id = "486" text="房间已满" pak="ui"/>
+<textConfig id = "487" text="没有此房间信息" pak="ui"/>
+<textConfig id = "488" text="对手太弱了，不战而胜" pak="ui"/>
+<textConfig id = "489" text="第一名奖励" pak="ui"/>
+<textConfig id = "490" text="第二名奖励" pak="ui"/>
+<textConfig id = "491" text="第三名奖励" pak="ui"/>
+<textConfig id = "492" text="日志" pak="ui"/>
+<textConfig id = "493" text="{0}在{1}以前侵略了你的城市，" pak="ui"/>
+<textConfig id = "494" text="城防部队需要{0}进行休整。" pak="ui"/>
+<textConfig id = "495" text="攻击" pak="ui"/>
+<textConfig id = "496" text="防御" pak="ui"/>
+<textConfig id = "497" text="城防部队完好无损。" pak="ui"/>
+<textConfig id = "498" text="需要消耗{0}元宝或者{1}礼金，请确定后继续。" pak="ui"/>
+<textConfig id = "499" text="需要消耗{0}元宝，请确定后继续。" pak="ui"/>
+<textConfig id = "500" text="数量" pak="ui"/>
+<textConfig id = "501" text="你在{1}以前侵略了{0}的城市，" pak="ui"/>
+<textConfig id = "502" text="万" pak="ui"/>
+<textConfig id = "503" text="累计杀人数" pak="ui"/>
+<textConfig id = "504" text="最高连胜次数" pak="ui"/>
+<textConfig id = "505" text="我的杀人数" pak="ui"/>
+<textConfig id = "506" text="我的最高连胜次数" pak="ui"/>
+<textConfig id = "507" text="刷新时间{0}" pak="ui"/>
+<textConfig id = "508" text="频道" pak="ui"/>
+<textConfig id = "509" text="需求活跃度" pak="ui"/>
+<textConfig id = "510" text="资源量" pak="ui"/>
+<textConfig id = "511" text="目前人数" pak="ui"/>
+<textConfig id = "512" text="每天上线一次" pak="ui"/>
+<textConfig id = "513" text="2天上线一次" pak="ui"/>
+<textConfig id = "514" text="4天上线一次" pak="ui"/>
+<textConfig id = "515" text="每周上线一次" pak="ui"/>
+<textConfig id = "516" text="10天上线一次" pak="ui"/>
+<textConfig id = "517" text="我在频道{0}" pak="ui"/>
+<textConfig id = "518" text="切换" pak="ui"/>
+<textConfig id = "519" text="频道{0}" pak="ui"/>
+<textConfig id = "520" text="{2}需要消耗{0}元宝或者{1}礼金，请确定后继续。" pak="ui"/>
+<textConfig id = "521" text="{1}需要消耗{0}元宝，请确定后继续。" pak="ui"/>
+<textConfig id = "522" text="精力" pak="ui"/>
+<textConfig id = "523" text="荣誉" pak="ui"/>
+<textConfig id = "524" text="立刻充值" pak="ui"/>
+<textConfig id = "525" text="超出排行榜范围了" pak="ui"/>
+<textConfig id = "526" text="不在排行榜中" pak="ui"/>
+<textConfig id = "527" text="槽内吸收满2级五行石后{0}" pak="ui"/>
+<textConfig id = "528" text="炼金炉" pak="ui"/>
+<textConfig id = "529" text="炼金" pak="ui"/>
+<textConfig id = "530" text="{0}元宝={1}金币" pak="ui"/>
+<textConfig id = "531" text="玩家级别越高，一次炼出的金币更多" pak="ui"/>
+<textConfig id = "532" text="购买{0}精力" pak="ui"/>
+<textConfig id = "533" text="精力已经超过上限" pak="ui"/>
+<textConfig id = "534" text="放弃" pak="ui"/>
+<textConfig id = "535" text="无军团" pak="ui"/>
+<textConfig id = "536" text="收获" pak="ui"/>
+<textConfig id = "537" text="错误的对手信息" pak="ui"/>
+<textConfig id = "538" text="当前没有奖励" pak="ui"/>
+<textConfig id = "539" text="出战" pak="ui"/>
+<textConfig id = "540" text="组队" pak="ui"/>
+<textConfig id = "541" text="防御" pak="ui"/>
+<textConfig id = "542" text="你的名次前进了{0}%得到荣誉{1}点" pak="ui"/>
+<textConfig id = "543" text="PK排行榜暂不可用" pak="ui"/>
+<textConfig id = "544" text="你的阵型士兵不足" pak="ui"/>
+<textConfig id = "545" text="对方阵型有错" pak="ui"/>
+<textConfig id = "546" text="和" pak="ui"/>
+<textConfig id = "547" text="提交" pak="ui"/>
+<textConfig id = "548" text="开始下载" pak="ui"/>
+<textConfig id = "549" text="下载" pak="ui"/>
+<textConfig id = "550" text="加载错误" pak="ui"/>
+<textConfig id = "551" text="加载完成" pak="ui"/>
+<textConfig id = "552" text="精力不足，需要&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;精力" pak="ui"/>
+<textConfig id = "553" text="取得" pak="ui"/>
+<textConfig id = "554" text="创建角色" pak="ui"/>
+<textConfig id = "555" text="进入游戏" pak="ui"/>
+<textConfig id = "556" text="暂不支持,请选择第一个角色" pak="ui"/>
+<textConfig id = "557" text="没有输入名字" pak="ui"/>
+<textConfig id = "558" text="此玩家当前不能被攻击" pak="ui"/>
+<textConfig id = "559" text="不能挑战保护期内的玩家" pak="ui"/>
+<textConfig id = "560" text="此玩家正在战斗中" pak="ui"/>
+<textConfig id = "561" text="玩家不能继续参加战斗" pak="ui"/>
+<textConfig id = "562" text="兵营里面没有兵力，快去招募些吧！" pak="ui"/>
+<textConfig id = "563" text="兵营兵力为空，你被请出房间" pak="ui"/>
+<textConfig id = "564" text="阵型上没有兵，不能进入房间" pak="ui"/>
+<textConfig id = "565" text="活动没有开始,开始时间周二20:00-21:00,周四20:00-21:00,周六20:00-21:00" pak="ui"/>
+<textConfig id = "566" text="没有活动信息" pak="ui"/>
+<textConfig id = "567" text="不能攻击同组的玩家" pak="ui"/>
+<textConfig id = "568" text="派遣武将" pak="ui"/>
+<textConfig id = "569" text="内政" pak="ui"/>
+<textConfig id = "570" text="活动结束" pak="ui"/>
+<textConfig id = "571" text="没有剩余的该品质英雄了，尝试招募新的英雄" pak="ui"/>
+<textConfig id = "572" text="你不能拥有更多了" pak="ui"/>
+<textConfig id = "573" text="没有晕锤道具了" pak="ui"/>
+<textConfig id = "574" text="是否花费{0}元宝购买晕锤道具？" pak="ui"/>
+<textConfig id = "575" text="地图名称" pak="ui"/>
+<textConfig id = "576" text="英雄成长" pak="ui"/>
+<textConfig id = "577" text="攻防成长" pak="ui"/>
+<textConfig id = "578" text="道具名" pak="ui"/>
+<textConfig id = "579" text="效果" pak="ui"/>
+<textConfig id = "580" text="价格" pak="ui"/>
+<textConfig id = "581" text="冷却时间" pak="ui"/>
+<textConfig id = "582" text="历程" pak="ui"/>
+<textConfig id = "583" text="地图进度" pak="ui"/>
+<textConfig id = "584" text="招募{2}需要{0}{1}，是否继续？" pak="ui"/>
+<textConfig id = "585" text="解雇后重新招募{2}需要{0}{1}，是否确认解雇？" pak="ui"/>
+<textConfig id = "586" text="金币争夺" pak="ui"/>
+<textConfig id = "587" text="房间名称" pak="ui"/>
+<textConfig id = "588" text="剧情&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;完成后可招募{1}" pak="ui"/>
+<textConfig id = "589" text="{1}隐藏在&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;中，多多探索吧" pak="ui"/>
+<textConfig id = "590" text="这个神秘的英雄将在未来加入你的麾下" pak="ui"/>
+<textConfig id = "591" text="建筑级别不能超过玩家级别" pak="ui"/>
+<textConfig id = "592" text="准备" pak="ui"/>
+<textConfig id = "593" text="争霸赛结束倒计时" pak="ui"/>
+<textConfig id = "594" text="经验" pak="ui"/>
+<textConfig id = "595" text="出战兵力" pak="ui"/>
+<textConfig id = "596" text="找不到玩家信息" pak="ui"/>
+<textConfig id = "597" text="当前不能使用道具" pak="ui"/>
+<textConfig id = "598" text="此时不能对该玩家使用道具" pak="ui"/>
+<textConfig id = "599" text="已经拥有该徽章，不需要重复购买" pak="ui"/>
+<textConfig id = "600" text="等级奖励" pak="ui"/>
+<textConfig id = "601" text="质量" pak="ui"/>
+<textConfig id = "602" text="1/8决赛" pak="ui"/>
+<textConfig id = "603" text="八强赛" pak="ui"/>
+<textConfig id = "604" text="半决赛" pak="ui"/>
+<textConfig id = "605" text="决赛" pak="ui"/>
+<textConfig id = "606" text="倒数时间{0}" pak="ui"/>
+<textConfig id = "607" text="即将开始" pak="ui"/>
+<textConfig id = "608" text="再充值&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;元宝即可升为&lt;font color='#00ff00'&gt;VIP{1}&lt;/font&gt;" pak="ui"/>
+<textConfig id = "609" text="VIP特权介绍" pak="ui"/>
+<textConfig id = "610" text="充值金额" pak="ui"/>
+<textConfig id = "611" text="VIP{0}" pak="ui"/>
+<textConfig id = "612" text="特权介绍" pak="ui"/>
+<textConfig id = "613" text="查看全部VIP特权" pak="ui"/>
+<textConfig id = "614" text="您可以使用以下特权" pak="ui"/>
+<textConfig id = "615" text="你还没有任何特权" pak="ui"/>
+<textConfig id = "616" text="充值提升特权" pak="ui"/>
+<textConfig id = "617" text="当前&lt;font color='#00ff00'&gt;VIP{0}&lt;/font&gt;" pak="ui"/>
+<textConfig id = "618" text="累计充值达到&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;元宝可拥有（还需再充值&lt;font color='#00ff00'&gt;{1}&lt;/font&gt;元宝）" pak="ui"/>
+<textConfig id = "619" text="融合" pak="ui"/>
+<textConfig id = "620" text="你已达到最高等级VIP" pak="ui"/>
+<textConfig id = "621" text="你的特权" pak="ui"/>
+<textConfig id = "622" text="所有特权" pak="ui"/>
+<textConfig id = "623" text="累计充值达到&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;元宝可拥有（你已拥有该特权）" pak="ui"/>
+<textConfig id = "624" text="铁匠铺等级达到&lt;font color='#ff0000'&gt;{0}&lt;/font&gt;级解锁" pak="ui"/>
+<textConfig id = "625" text="&lt;font color='#00ff00'&gt;VIP{0}&lt;/font&gt;可获得&lt;font color='#00ff00'&gt;{1}&lt;/font&gt;特权" pak="ui"/>
+<textConfig id = "626" text="点击前往充值" pak="ui"/>
+<textConfig id = "627" text="放入前提装备" pak="ui"/>
+<textConfig id = "628" text="补全" pak="ui"/>
+<textConfig id = "629" text="花费{0}元宝购买{1}个{2}么？" pak="ui"/>
+<textConfig id = "630" text="您当前级别：" pak="ui"/>
+<textConfig id = "631" text="阶段一" pak="ui"/>
+<textConfig id = "632" text="阶段二" pak="ui"/>
+<textConfig id = "633" text="阶段三" pak="ui"/>
+<textConfig id = "634" text="{0}挑战奖励" pak="ui"/>
+<textConfig id = "635" text="{0}奖励" pak="ui"/>
+<textConfig id = "636" text="通关" pak="ui"/>
+<textConfig id = "637" text="阴性孔槽" pak="ui"/>
+<textConfig id = "638" text="{0}挑战完成可解锁" pak="ui"/>
+<textConfig id = "639" text="阶段四" pak="ui"/>
+<textConfig id = "640" text="习得技能" pak="ui"/>
+<textConfig id = "641" text="习得奥义" pak="ui"/>
+<textConfig id = "642" text="已习得" pak="ui"/>
+<textConfig id = "643" text="怪物量：" pak="ui"/>
+<textConfig id = "644" text="掉钱：" pak="ui"/>
+<textConfig id = "645" text="精力消耗：" pak="ui"/>
+<textConfig id = "646" text="占领者：" pak="ui"/>
+<textConfig id = "647" text="绿色品质" pak="ui"/>
+<textConfig id = "648" text="蓝色品质" pak="ui"/>
+<textConfig id = "649" text="紫色品质" pak="ui"/>
+<textConfig id = "650" text="橙色品质" pak="ui"/>
+<textConfig id = "651" text="如何取得" pak="ui"/>
+<textConfig id = "652" text="等级达到{0}可挑战" pak="ui"/>
+<textConfig id = "653" text="全卸" pak="ui"/>
+<textConfig id = "654" text="最强" pak="ui"/>
+<textConfig id = "655" text="开始打金" pak="ui"/>
+<textConfig id = "656" text="购买金币" pak="ui"/>
+<textConfig id = "657" text="刷金币" pak="ui"/>
+<textConfig id = "658" text="购买粮食" pak="ui"/>
+<textConfig id = "659" text="购买石料" pak="ui"/>
+<textConfig id = "660" text="收获粮食" pak="ui"/>
+<textConfig id = "661" text="收获石料" pak="ui"/>
+<textConfig id = "662" text="购买精力" pak="ui"/>
+<textConfig id = "663" text="领取精力" pak="ui"/>
+<textConfig id = "664" text="由于缺少{0},未达到最大造兵量" pak="ui"/>
+<textConfig id = "665" text="升级仓库" pak="ui"/>
+<textConfig id = "666" text="装备星级" pak="ui"/>
+<textConfig id = "667" text="主英雄" pak="ui"/>
+<textConfig id = "668" text="选择阵型" pak="ui"/>
+<textConfig id = "669" text="详细" pak="ui"/>
+<textConfig id = "670" text="查看武将" pak="ui"/>
+<textConfig id = "671" text="查看背包" pak="ui"/>
+<textConfig id = "672" text="排名" pak="ui"/>
+<textConfig id = "673" text="角色" pak="ui"/>
+<textConfig id = "674" text="战斗力" pak="ui"/>
+<textConfig id = "675" text="等级榜" pak="ui"/>
+<textConfig id = "676" text="战力榜" pak="ui"/>
+<textConfig id = "677" text="我的排名" pak="ui"/>
+<textConfig id = "678" text="没有排名" pak="ui"/>
+<textConfig id = "679" text="碎片" pak="ui"/>
+<textConfig id = "680" text="草药" pak="ui"/>
+<textConfig id = "681" text="高级铁矿" pak="ui"/>
+<textConfig id = "682" text="在线时间累计达到{0}分钟才能领取奖励" pak="ui"/>
+<textConfig id = "683" text="强化花费" pak="ui"/>
+<textConfig id = "684" text="点击右边材料" pak="ui"/>
+<textConfig id = "685" text="打套新的" pak="ui"/>
+<textConfig id = "686" text="从右侧背包放入装备" pak="ui"/>
+<textConfig id = "687" text="从右侧背包放入五行石" pak="ui"/>
+<textConfig id = "688" text="需要{0}级书院解锁" pak="ui"/>
+<textConfig id = "689" text="从右侧背包放入合成材料" pak="ui"/>
+<textConfig id = "690" text="需要激活{0}科技" pak="ui"/>
+<textConfig id = "691" text="现在不能访问该建筑物" pak="ui"/>
+<textConfig id = "692" text="目标正在被攻击" pak="ui"/>
+<textConfig id = "693" text="没有相应的五行石点击购买" pak="ui"/>
+<textConfig id = "694" text="没有可使用的前置装备" pak="ui"/>
+<textConfig id = "695" text="恭喜你习得以下技能" pak="ui"/>
+<textConfig id = "696" text="恭喜你习得以下奥义" pak="ui"/>
+<textConfig id = "697" text="原始" pak="ui"/>
+<textConfig id = "698" text="英雄品质" pak="ui"/>
+<textConfig id = "699" text="刷怪点内空空如也" pak="ui"/>
+<textConfig id = "700" text="解锁条件：玩家等级达到&lt;FONT color='#ff0000'&gt;{0}级&lt;/FONT&gt;级" pak="ui"/>
+<textConfig id = "701" text="物理免疫 + {0}%" pak="ui"/>
+<textConfig id = "702" text="魔法免疫 + {0}%" pak="ui"/>
+<textConfig id = "703" text="物理免疫 - {0}%" pak="ui"/>
+<textConfig id = "704" text="魔法免疫 - {0}%" pak="ui"/>
+<textConfig id = "705" text="伤害 + {0}%" pak="ui"/>
+<textConfig id = "706" text="伤害 - {0}%" pak="ui"/>
+<textConfig id = "707" text="暴击 + {0}%" pak="ui"/>
+<textConfig id = "708" text="暴击 - {0}%" pak="ui"/>
+<textConfig id = "709" text="闪避 + {0}%" pak="ui"/>
+<textConfig id = "710" text="闪避 - {0}%" pak="ui"/>
+<textConfig id = "711" text="生命值上限 + {0}" pak="ui"/>
+<textConfig id = "712" text="生命值上限 - {0}" pak="ui"/>
+<textConfig id = "713" text="阴" pak="ui"/>
+<textConfig id = "714" text="阳" pak="ui"/>
+<textConfig id = "715" text="所有兵力都已经投入战斗了！" pak="ui"/>
+<textConfig id = "716" text="{0}的主英雄不在阵上，战斗需要" pak="ui"/>
+<textConfig id = "717" text="伤害值 + {0}" pak="ui"/>
+<textConfig id = "718" text="伤害值 - {0}" pak="ui"/>
+<textConfig id = "719" text="队友的阵型有错" pak="ui"/>
+<textConfig id = "720" text="&lt;FONT color='#ff0000'&gt;{0}级&lt;/FONT&gt;的你就能和别人一起{1}了，加油哟" pak="ui"/>
+<textConfig id = "721" text="组队打副本" pak="ui"/>
+<textConfig id = "722" text="目标无法被攻击" pak="ui"/>
+<textConfig id = "723" text="保护期内无法抢夺" pak="ui"/>
+<textConfig id = "724" text="争夺中" pak="ui"/>
+<textConfig id = "725" text="抢夺" pak="ui"/>
+<textConfig id = "726" text="{0}抢夺了你的打金点" pak="ui"/>
+<textConfig id = "727" text="输入玩家姓名" pak="ui"/>
+<textConfig id = "728" text="恢复时间：" pak="ui"/>
+<textConfig id = "729" text="{0}试图抢夺打金点，但是失败了！" pak="ui"/>
+<textConfig id = "730" text="未知玩家" pak="ui"/>
+<textConfig id = "731" text="不能对自己使用此道具" pak="ui"/>
+<textConfig id = "732" text="主人在线，物资已被对方收走" pak="ui"/>
+<textConfig id = "733" text="被人捷足先登，物资已被别人掠夺" pak="ui"/>
+<textConfig id = "734" text="你已经掠夺过这里" pak="ui"/>
+<textConfig id = "735" text="副本中掉落" pak="ui"/>
+<textConfig id = "736" text="盗贼的营地副本掉落" pak="ui"/>
+<textConfig id = "737" text="野蛮村落副本掉落" pak="ui"/>
+<textConfig id = "738" text="决战平原副本掉落" pak="ui"/>
+<textConfig id = "739" text="邮件标题" pak="ui"/>
+<textConfig id = "740" text="发件人" pak="ui"/>
+<textConfig id = "741" text="发件人名称" pak="ui"/>
+<textConfig id = "742" text="剩余时间：{0}" pak="ui"/>
+<textConfig id = "743" text="回复" pak="ui"/>
+<textConfig id = "744" text="全选" pak="ui"/>
+<textConfig id = "745" text="好友" pak="ui"/>
+<textConfig id = "746" text="主题：" pak="ui"/>
+<textConfig id = "747" text="发送" pak="ui"/>
+<textConfig id = "748" text="写邮件" pak="ui"/>
+<textConfig id = "749" text="删除" pak="ui"/>
+<textConfig id = "750" text="收件箱" pak="ui"/>
+<textConfig id = "751" text="收件人" pak="ui"/>
+<textConfig id = "752" text="输入主题" pak="ui"/>
+<textConfig id = "753" text="输入内容" pak="ui"/>
+<textConfig id = "754" text="昵称不能为空！" pak="ui"/>
+<textConfig id = "755" text="该昵称已存在！" pak="ui"/>
+<textConfig id = "756" text="消耗" pak="ui"/>
+<textConfig id = "757" text="没有足够的{0}" pak="ui"/>
+<textConfig id = "758" text="已过期" pak="ui"/>
+<textConfig id = "759" text="自己不能发邮件给自己" pak="ui"/>
+<textConfig id = "760" text="请选择要删除的邮件" pak="ui"/>
+<textConfig id = "761" text="找不到该奖励信息" pak="ui"/>
+<textConfig id = "762" text="该任务已经过期" pak="ui"/>
+<textConfig id = "763" text="请选择一个好友" pak="ui"/>
+<textConfig id = "764" text="已经连接到聊天服务器" pak="ui"/>
+<textConfig id = "765" text="补充{0}金币满仓" pak="ui"/>
+<textConfig id = "766" text="不存在此队伍信息" pak="ui"/>
+<textConfig id = "767" text="金币已满" pak="ui"/>
+<textConfig id = "768" text="当前退伍已被解散" pak="ui"/>
+<textConfig id = "769" text="已退出当前队伍" pak="ui"/>
+<textConfig id = "770" text="当前在队伍中，不能发起挑战" pak="ui"/>
+<textConfig id = "771" text="请求已发出,正在等待{0}的回复" pak="ui"/>
+<textConfig id = "772" text="{0}拒绝了你的挑战" pak="ui"/>
+<textConfig id = "773" text="{0}接受了你的挑战" pak="ui"/>
+<textConfig id = "774" text="{0}已经下线，挑战失效" pak="ui"/>
+<textConfig id = "775" text="找不到此玩家信息" pak="ui"/>
+<textConfig id = "776" text="正在冷却中,不能挑战其他玩家" pak="ui"/>
+<textConfig id = "777" text="挑战冷却中:{0}" pak="ui"/>
+<textConfig id = "778" text="{0}正在副本中厮杀，请等待" pak="ui"/>
+<textConfig id = "779" text="{0}正在挑战中，请稍后再试" pak="ui"/>
+<textConfig id = "780" text="应战" pak="ui"/>
+<textConfig id = "781" text="拒绝" pak="ui"/>
+<textConfig id = "782" text="此副本尚未解锁，不能加入队伍" pak="ui"/>
+<textConfig id = "783" text="兵营已满" pak="ui"/>
+<textConfig id = "784" text="伤兵营满员后即可恢复伤兵" pak="ui"/>
+<textConfig id = "785" text="升级可以缩短资源生产时间" pak="ui"/>
+<textConfig id = "786" text="打一些" pak="ui"/>
+<textConfig id = "787" text="缺少{0}碎片" pak="ui"/>
+<textConfig id = "788" text="邮件" pak="ui"/>
+<textConfig id = "789" text="金属性可增加物理防御、金属性的武将技能偏向增加我方单位的防御" pak="ui"/>
+<textConfig id = "790" text="木属性可增加物理攻击、木属性的武将技能偏向增加我方单位的伤害" pak="ui"/>
+<textConfig id = "791" text="水属性可增加魔法攻击、水属性的武将技能偏向控制敌人单位或恢复自己" pak="ui"/>
+<textConfig id = "792" text="火属性可增加英雄伤害、火属性的武将技能偏向直接击杀敌人单位" pak="ui"/>
+<textConfig id = "793" text="土属性可增加法术防御、土属性的武将技能偏向辅助我方英雄或单位" pak="ui"/>
+<textConfig id = "794" text="冰原雪林副本掉落" pak="ui"/>
+<textConfig id = "795" text="镇龙城副本掉落" pak="ui"/>
+<textConfig id = "796" text="五行石强化" pak="ui"/>
+<textConfig id = "797" text="镶嵌高级别五行石，可以大幅增加武将的五行属性和战斗力" pak="ui"/>
+<textConfig id = "798" text="退出战斗" pak="ui"/>
+<textConfig id = "799" text="购买加血" pak="ui"/>
+<textConfig id = "800" text="刷新次数已达上限" pak="ui"/>
+<textConfig id = "801" text="没有相应的任务信息" pak="ui"/>
+<textConfig id = "802" text="不能重复接受同一个任务" pak="ui"/>
+<textConfig id = "803" text="请先放弃或完成当前接受的任务" pak="ui"/>
+<textConfig id = "804" text="接受" pak="ui"/>
+<textConfig id = "805" text="剩余刷新次数{0}" pak="ui"/>
+<textConfig id = "806" text="找不到每日任务信息" pak="ui"/>
+<textConfig id = "807" text="不能接受被放弃的任务" pak="ui"/>
+<textConfig id = "808" text="已完成" pak="ui"/>
+<textConfig id = "809" text="已放弃" pak="ui"/>
+<textConfig id = "810" text="年" pak="ui"/>
+<textConfig id = "811" text="月" pak="ui"/>
+<textConfig id = "812" text="日" pak="ui"/>
+<textConfig id = "813" text="每天" pak="ui"/>
+<textConfig id = "814" text="每周" pak="ui"/>
+<textConfig id = "815" text="每月" pak="ui"/>
+<textConfig id = "816" text="每年" pak="ui"/>
+<textConfig id = "817" text="尚未开始" pak="ui"/>
+<textConfig id = "818" text="已结束" pak="ui"/>
+<textConfig id = "819" text="随机掉落{0}级五行碎片" pak="ui"/>
+<textConfig id = "820" text="今日剩余交易次数" pak="ui"/>
+<textConfig id = "821" text="交易次数超过限制" pak="ui"/>
+<textConfig id = "822" text="每日任务奖励" pak="ui"/>.
+<textConfig id = "823" text="玩家长期不上线,你可以挑战他的爵位" pak="ui"/>
+<textConfig id = "824" text="搬迁" pak="ui"/>
+<textConfig id = "825" text="你的网络好像有点问题" pak="ui"/>
+<textConfig id = "826" text="唔，战斗出错了" pak="ui"/>
+<textConfig id = "827" text="正在初始化场景{0}%" pak="ui"/>
+<textConfig id = "828" text="正在加载 {0}% 加载速度 {1}% kb/s" pak="ui"/>
+<textConfig id = "829" text="不能挑战保护期内的玩家" pak="ui"/>
+<textConfig id = "830" text="怪物尚未刷新" pak="ui"/>
+<textConfig id = "831" text="此怪物正在厮杀中" pak="ui"/>
+<textConfig id = "832" text="怪物攻击次数已达上限" pak="ui"/>
+<textConfig id = "833" text="已吸收{0}个五行石(共需{1}个)，还需吸收{2}个升级" pak="ui"/>
+<textConfig id = "834" text="你必须达到{0}级才可以侵略其他玩家" pak="ui"/>
+<textConfig id = "835" text="你的等级还不足以进入这个多人副本！" pak="ui"/>
+<textConfig id = "836" text="这个多人副本尚未开启！" pak="ui"/>
+<textConfig id = "837" text="团队尚未准备就绪！" pak="ui"/>
+<textConfig id = "838" text="今天不能再进入这个多人副本了！" pak="ui"/>
+<textConfig id = "839" text="多人副本列表" pak="ui"/>
+<textConfig id = "840" text="团队成员" pak="ui"/>
+<textConfig id = "841" text="当前没有任务可接" pak="ui"/>
+<textConfig id = "842" text="您的账号已经在别处登录" pak="ui"/>
+<textConfig id = "843" text="服务器将在{0}秒后关闭，请稍后按F5刷新浏览器重新登录" pak="ui"/>
+<textConfig id = "844" text="出售" pak="ui"/>
+<textConfig id = "845" text="唔，游戏出现异常，请刷新页面" pak="ui"/>
+<textConfig id = "846" text="缺少{0}{1}个,快去招募些吧" pak="ui"/>
+<textConfig id = "847" text="缺少资源{0}{1}个,赶紧生产吧" pak="ui"/>
+<textConfig id = "848" text="服务器和客户端版本不一致！" pak="ui"/>
+<textConfig id = "849" text="由于您是未成年人，将被纳入防沉迷系统，{0}小时内收益经验正常，{0}-{1}小时内收益经验减半，{1}小时后收益经验为零。" pak="ui"/>
+<textConfig id = "850" text="您已累计在线{0}小时，请合理安排游戏时间。" pak="ui"/>
+<textConfig id = "851" text="您已累计在线{0}小时，您已进入疲劳游戏时间，游戏收益变为正常的{1}%，请您下线休息。" pak="ui"/>
+<textConfig id = "852" text="您已累计在线{0}小时，您已进入不健康游戏时间，游戏收益变为{1}，请下线休息。" pak="ui"/>
+<textConfig id = "853" text="抵制不良游戏，拒绝盗版游戏。" pak="ui"/>
+<textConfig id = "854" text="注意自我保护，谨防受骗上当。" pak="ui"/>
+<textConfig id = "855" text="适度游戏益脑，沉迷游戏伤身。" pak="ui"/>
+<textConfig id = "856" text="合理安排时间，享受健康生活。" pak="ui"/>
+<textConfig id = "857" text="1. 通过金币争夺战可以取得大量的游戏币奖励。" pak="ui"/>
+<textConfig id = "858" text="2. 金币争夺战中损失的单位系统最终会返还给玩家。" pak="ui"/>
+<textConfig id = "859" text="3. 全歼敌队即可取胜，斩杀敌队玩家可以获取大量的游戏币。" pak="ui"/>
+<textConfig id = "860" text="基础增长{0}" pak="ui"/>
+<textConfig id = "861" text="基础增长{0}%" pak="ui"/>
+<textConfig id = "862" text="保护期内不能攻击其他玩家" pak="ui"/>
+<textConfig id = "863" text="昵称包含非法字符！" pak="ui"/>
+<textConfig id = "864" text="复活中" pak="ui"/>
+<textConfig id = "865" text="等待中" pak="ui"/>
+<textConfig id = "866" text="兵力不足，不能进入副本厮杀" pak="ui"/>
+<textConfig id = "867" text="兵力不足，不能创建队伍" pak="ui"/>
+<textConfig id = "868" text="由于数据更新，您的账号被GM从游戏中踢出" pak="ui"/>
+<textConfig id = "869" text="昵称长度不能超过{0}个汉字！" pak="ui"/>
+<textConfig id = "870" text="已经退出副本队伍" pak="ui"/>
+<textConfig id = "871" text="已经从多人副本队伍中退出" pak="ui"/>
+<textConfig id = "872" text="已经从争霸战中退出" pak="ui"/>
+<textConfig id = "873" text=" +{0}" pak="ui"/>
+<textConfig id = "874" text="1：副本可以2人组队或4人组队。" pak="ui"/>
+<textConfig id = "875" text="2：2人组队可以使用卡片，操作强度高但奖励丰富。" pak="ui"/>
+<textConfig id = "876" text="3：4人组队不能使用卡片，可以挂机，自动打但奖励较少。" pak="ui"/>
+<textConfig id = "877" text="副本内可以取得大量的五行碎片副本通关更会有丰富奖励，副本每日定时开放。" pak="ui"/>
+<textConfig id = "878" text="已经解散多人副本队伍" pak="ui"/>
+<textConfig id = "879" text="已经解散副本队伍" pak="ui"/>
+<textConfig id = "880" text="不能攻击不同频道的玩家" pak="ui"/>
+<textConfig id = "881" text="正在等待其他玩家" pak="ui"/>
+<textConfig id = "882" text="解散士兵返还以下资源" pak="ui"/>
+<textConfig id = "883" text="进入了新的阶段" pak="ui"/>
+<textConfig id = "884" text="已经退出打金战斗" pak="ui"/>
+<textConfig id = "885" text="vip礼金奖励" pak="ui"/>
+<textConfig id = "886" text="争霸赛奖励" pak="ui"/>
+<textConfig id = "887" text="排行榜奖励" pak="ui"/>
+<textConfig id = "888" text="系统赠送" pak="ui"/>
+<textConfig id = "889" text="军团分配" pak="ui"/>
+<textConfig id = "890" text="升级至该级别需要{0}级{1}" pak="ui"/>
+<textConfig id = "891" text="随机五行石" pak="ui"/>
+<textConfig id = "892" text="金块" pak="ui"/>
+<textConfig id = "893" text="红宝石" pak="ui"/>
+<textConfig id = "894" text="在副本冰原雪林中或精英BOSS多人副本中取得" pak="ui"/>
+<textConfig id = "895" text="在副本镇龙之城中取得" pak="ui"/>
+<textConfig id = "896" text="在副本赤血乌林中或精英BOSS多人副本中取得" pak="ui"/>
+<textConfig id = "897" text="只能侵略{0}级以上的玩家" pak="ui"/>
+<textConfig id = "898" text="荣誉不足，需要&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;荣誉" pak="ui"/>
+<textConfig id = "899" text="你必须达到{0}级才可以占领其他玩家的矿场" pak="ui"/>
+
+<textConfig id = "900" text="点击攻击" pak="wizard"/>
+<textConfig id = "901" text="点击绿字" pak="wizard"/>
+<textConfig id = "902" text="点击按钮" pak="wizard"/>
+<textConfig id = "903" text="点击拾取" pak="wizard"/>
+<textConfig id = "904" text="点击进入" pak="wizard"/>
+<textConfig id = "905" text="点击对话" pak="wizard"/>
+<textConfig id = "906" text="点击使用" pak="wizard"/>
+<textConfig id = "907" text="点击放下" pak="wizard"/>
+<textConfig id = "908" text="点击装备" pak="wizard"/>
+<textConfig id = "909" text="点击升级" pak="wizard"/>
+<textConfig id = "910" text="点击" pak="wizard"/>
+<textConfig id = "911" text="点击关闭" pak="wizard"/>
+<textConfig id = "912" text="连续点击" pak="wizard"/>
+<textConfig id = "913" text="没事就点" pak="wizard"/>
+<textConfig id = "914" text="收获金币" pak="wizard"/>
+
+<textConfig id = "915" text="多人副本每日定时开放，副本内有丰富的奖励。" pak="wizard"/>
+<textConfig id = "916" text="建立一个队伍，或加入其它人的队伍" pak="wizard"/>
+<textConfig id = "917" text="4：4人组队的损兵只有平时的50%。" pak="wizard"/>
+
+
+
+<textConfig id = "920" text="只能占领{0}级以上的玩家的矿场" pak="ui"/>
+<textConfig id = "921" text="攻击冷却中，剩余时间：{0}" pak="ui"/>
+<textConfig id = "922" text="剩余攻击次数：{0}" pak="ui"/>
+<textConfig id = "923" text="攻击冷却中：{0}" pak="ui"/>
+<textConfig id = "924" text="邀请" pak="ui"/>
+<textConfig id = "925" text="从19种五行石中随机购买一块" pak="ui"/>
+<textConfig id = "926" text="&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;邀请你加入征战[&lt;FONT color='#00ff00'&gt;{1}&lt;/FONT&gt;]的队伍" pak="ui"/>
+<textConfig id = "927" text="&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;拒绝了你的邀请" pak="ui"/>
+<textConfig id = "928" text="&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;加入了队伍" pak="ui"/>
+<textConfig id = "929" text="&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;离开了队伍" pak="ui"/>
+<textConfig id = "930" text="&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;进入了房间" pak="ui"/>
+<textConfig id = "931" text="&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;离开了房间" pak="ui"/>
+<textConfig id = "932" text="&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;无法接受你的邀请" pak="ui"/>
+<textConfig id = "933" text="你已经加入了[&lt;FONT color='#00ff00'&gt;{0}&lt;/FONT&gt;]的队伍，要退出吗？" pak="ui"/>
+<textConfig id = "934" text="你已经创建了[&lt;FONT color='#00ff00'&gt;{0}&lt;/FONT&gt;]的队伍，要解散吗？" pak="ui"/>
+<textConfig id = "935" text="{0}正被邀请组队，不能发起挑战" pak="ui"/>
+<textConfig id = "936" text="有人网速太慢，战斗无法开始" pak="ui"/>
+<textConfig id = "937" text="{0}的{1}神符已经损坏" pak="ui"/>
+<textConfig id = "938" text="{0}的{1}神符损坏，已自动装配了新的神符" pak="ui"/>
+<textConfig id = "939" text="保护期" pak="ui"/>
+<textConfig id = "940" text="正在初始化战斗场景" pak="ui"/>
+<textConfig id = "941" text="队友没有在指定时间内恢复，战斗结束" pak="ui"/>
+<textConfig id = "942" text="队友的所有兵力全部阵亡，战斗结束" pak="ui"/>
+<textConfig id = "943" text="队友退出战斗，战斗结束" pak="ui"/>
+<textConfig id = "944" text="今日剩余组队次数：&lt;FONT color='#00ff00'&gt;{0}&lt;/FONT&gt; 次" pak="ui"/>
+<textConfig id = "945" text="恢复副本每日组队次数" pak="ui"/>
+<textConfig id = "946" text="已经退出当前副本" pak="ui"/>
+<textConfig id = "947" text="你还不能进入这个副本" pak="ui"/>
+<textConfig id = "948" text="&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;还不能进入这个副本" pak="ui"/>
+<textConfig id = "949" text="本日副本组队次数已用完" pak="ui"/>
+<textConfig id = "950" text="正在登陆" pak="ui"/>
+<textConfig id = "951" text="您已累计在线超过{0}小时，您已进入不健康游戏时间，游戏收益变为{1}，请下线休息。" pak="ui"/>
+<textConfig id = "952" text="已经向&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;发送组队邀请" pak="ui"/>
+<textConfig id = "953" text="解除防沉迷" pak="ui"/>
+<textConfig id = "954" text="队员尚未就绪" pak="ui"/>
+<textConfig id = "955" text="查看防御" pak="ui"/>
+<textConfig id = "956" text="每天进入次数：{0}次" pak="ui"/>
+<textConfig id = "957" text="编辑阵型" pak="ui"/>
+<textConfig id = "958" text="请不要使用非法的辅助工具" pak="ui"/>
+<textConfig id = "959" text="激活码" pak="ui"/>
+<textConfig id = "960" text="兑换" pak="ui"/>
+<textConfig id = "961" text="您输入的礼品码错误，请仔细核对后再进行输入。" pak="ui"/>
+<textConfig id = "962" text="您输入的礼品码已经被使用，请输入新的礼品码。" pak="ui"/>
+<textConfig id = "963" text="您输入的礼品码并未绑定您的游戏账户。" pak="ui"/>
+<textConfig id = "964" text="五行石已经吸收到顶。" pak="ui"/>
+<textConfig id = "965" text="确定使用{0}元宝或礼金刷新任务吗？" pak="ui"/>
+<textConfig id = "966" text="您的账号已经被冻结，请联系游戏管理员" pak="ui"/>
+<textConfig id = "967" text="背包已满，英雄装备无法卸下，请购买装备背包" pak="ui"/>
+<textConfig id = "968" text="现在处于挑战冷却中，是否使用{0}元宝直接进行挑战。" pak="ui"/>
+<textConfig id = "969" text="是否要使用{0}元宝消除挑战冷却时间。" pak="ui"/>
+<textConfig id = "970" text="士兵数量已超出上限，请修建更多的{0}提高上限" pak="ui"/>
+<textConfig id = "971" text="这个玩家今天已经被侵略过了" pak="ui"/>
+<textConfig id = "972" text="(物)" pak="ui"/>
+<textConfig id = "973" text="(法)" pak="ui"/>
+<textConfig id = "974" text="材料不足，请补全或查看提示。" pak="ui"/>
+<textConfig id = "975" text="提示" pak="ui"/>
+<textConfig id = "976" text="需要&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;积分&lt;br&gt;才能进入这个副本,请多打几次其他副本" pak="ui"/>
+<textConfig id = "977" text="必须通过&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;才能进入这个副本" pak="ui"/>
+<textConfig id = "978" text="在线时间累计已达一小时，点击确定领取礼包" pak="ui"/>
+<textConfig id = "979" text="排行榜结束时间" pak="ui"/>
+<textConfig id = "980" text="和聊天服务器断开，正在重连" pak="ui"/>
+<textConfig id = "981" text="你在{1}以前掠夺了{0}的矿场，" pak="ui"/>
+<textConfig id = "982" text="{0}在{1}以前掠夺了你的矿场，" pak="ui"/>
+<textConfig id = "983" text="但是失败了。" pak="ui"/>
+<textConfig id = "984" text="获得" pak="ui"/>
+<textConfig id = "985" text="损失" pak="ui"/>
+<textConfig id = "986" text="{0}在{1}以前占领了你的矿场。" pak="ui"/>
+<textConfig id = "987" text="你在{1}以前占领了{0}的矿场。" pak="ui"/>
+<textConfig id = "988" text="{0}在{1}以前企图占领你的矿场，但是失败了。" pak="ui"/>
+<textConfig id = "989" text="你在{1}以前企图占领了{0}的矿场，但是失败了。" pak="ui"/>
+<textConfig id = "990" text="确定要放弃该任务吗？" pak="ui"/>
+
+<textConfig id = "991" text="近战类" pak="armytype"/>
+<textConfig id = "992" text="弓弩类" pak="armytype"/>
+<textConfig id = "993" text="法术类" pak="armytype"/>
+<textConfig id = "994" text="机械类" pak="armytype"/>
+<textConfig id = "995" text="箭楼" pak="wizard"/>
+<textConfig id = "996" text="城墙" pak="wizard"/>
+
+<textConfig id = "1000" text="刀盾兵" pak="army"/>
+<textConfig id = "1001" text="长戟兵" pak="army"/>
+<textConfig id = "1002" text="铁锤兵" pak="army"/>
+<textConfig id = "1003" text="重装步兵" pak="army"/>
+<textConfig id = "1004" text="剑客" pak="army"/>
+<textConfig id = "1005" text="魔人兵" pak="army"/>
+<textConfig id = "1006" text="轻弓兵" pak="army"/>
+<textConfig id = "1007" text="弩箭兵" pak="army"/>
+<textConfig id = "1008" text="大弓兵" pak="army"/>
+<textConfig id = "1009" text="重弩手" pak="army"/>
+<textConfig id = "1010" text="标枪手" pak="army"/>
+<textConfig id = "1011" text="炮兵" pak="army"/>
+<textConfig id = "1012" text="光波法师" pak="army"/>
+<textConfig id = "1013" text="暴烈法师" pak="army"/>
+<textConfig id = "1014" text="千兵法师" pak="army"/>
+<textConfig id = "1015" text="邪魔法师" pak="army"/>
+<textConfig id = "1016" text="苍生法师" pak="army"/>
+<textConfig id = "1017" text="弩炮车" pak="army"/>
+<textConfig id = "1018" text="投石车" pak="army"/>
+<textConfig id = "1019" text="攻城车" pak="army"/>
+<textConfig id = "1020" text="魔王兵" pak="army"/>
+<textConfig id = "1021" text="巨炮手" pak="army"/>
+<textConfig id = "1022" text="野猪" pak="army"/>
+<textConfig id = "1023" text="弩箭车" pak="army"/>
+<textConfig id = "1024" text="大盾兵" pak="army"/>
+<textConfig id = "1025" text="女法师" pak="army"/>
+<textConfig id = "1026" text="大炮" pak="army"/>
+<textConfig id = "1027" text="魔虫" pak="army"/>
+<textConfig id = "1028" text="野猪王" pak="army"/>
+
+
+<textConfig id = "1950" text="城墙" pak="defence"/>
+<textConfig id = "1951" text="箭楼" pak="defence"/>
+
+<textConfig id = "2000" text="太史慈" pak="hero"/>
+<textConfig id = "2001" text="夏侯渊" pak="hero"/>
+<textConfig id = "2002" text="孙尚香" pak="hero"/>
+<textConfig id = "2003" text="徐庶" pak="hero"/>
+<textConfig id = "2004" text="貂蝉" pak="hero"/>
+<textConfig id = "2005" text="黄月英" pak="hero"/>
+<textConfig id = "2006" text="孟获" pak="hero"/>
+<textConfig id = "2007" text="徐晃" pak="hero"/>
+<textConfig id = "2008" text="庞统" pak="hero"/>
+<textConfig id = "2009" text="祝融" pak="hero"/>
+<textConfig id = "2010" text="典韦" pak="hero"/>
+<textConfig id = "2011" text="张飞" pak="hero"/>
+<textConfig id = "2012" text="庞德" pak="hero"/>
+<textConfig id = "2013" text="许褚" pak="hero"/>
+<textConfig id = "2014" text="魏延" pak="hero"/>
+<textConfig id = "2015" text="黄忠" pak="hero"/>
+<textConfig id = "2016" text="马超" pak="hero"/>
+<textConfig id = "2017" text="诸葛亮" pak="hero"/>
+<textConfig id = "2018" text="夏侯惇" pak="hero"/>
+<textConfig id = "2019" text="张辽" pak="hero"/>
+<textConfig id = "2020" text="赵云" pak="hero"/>
+<textConfig id = "2021" text="关羽" pak="hero"/>
+<textConfig id = "2022" text="张角" pak="hero"/>
+<textConfig id = "2023" text="董卓" pak="hero"/>
+<textConfig id = "2024" text="吕布" pak="hero"/>
+<textConfig id = "2025" text="袁绍" pak="hero"/>
+<textConfig id = "2026" text="周瑜" pak="hero"/>
+<textConfig id = "2027" text="吕蒙" pak="hero"/>
+<textConfig id = "2028" text="陆逊" pak="hero"/>
+<textConfig id = "2029" text="司马懿" pak="hero"/>
+<textConfig id = "2030" text="千年树精" pak="hero"/>
+<textConfig id = "2031" text="曹操" pak="hero"/>
+<textConfig id = "2032" text="左慈" pak="hero"/>
+
+<textConfig id = "3001" text="官府" pak="city"/>
+<textConfig id = "3002" text="客栈" pak="city"/>
+<textConfig id = "3003" text="军营" pak="city"/>
+<textConfig id = "3004" text="机械场" pak="city"/>
+<textConfig id = "3005" text="铁匠铺" pak="city"/>
+<textConfig id = "3006" text="书院" pak="city"/>
+<textConfig id = "3007" text="仓库" pak="city"/>
+<textConfig id = "3008" text="市场" pak="city"/>
+<textConfig id = "3009" text="资源开采局" pak="city"/>
+<textConfig id = "3010" text="贸易中心" pak="city"/>
+<textConfig id = "3011" text="商店" pak="city"/>
+<textConfig id = "3012" text="初级民房" pak="city"/>
+<textConfig id = "3013" text="中级民房" pak="city"/>
+<textConfig id = "3014" text="高级民房" pak="city"/>
+<textConfig id = "3015" text="金矿" pak="city"/>
+<textConfig id = "3016" text="农田" pak="city"/>
+<textConfig id = "3017" text="矿山" pak="city"/>
+<textConfig id = "3018" text="战争旗帜" pak="city"/>
+<textConfig id = "3019" text="宝剑雕像" pak="city"/>
+<textConfig id = "3020" text="战争祭坦" pak="city"/>
+<textConfig id = "3021" text="古木" pak="city"/>
+<textConfig id = "3022" text="法师雕像" pak="city"/>
+<textConfig id = "3023" text="法阵" pak="city"/>
+<textConfig id = "3024" text="兵器冢" pak="city"/>
+<textConfig id = "3025" text="英雄祭坦" pak="city"/>
+<textConfig id = "3026" text="智慧古树" pak="city"/>
+<textConfig id = "3027" text="大型战车" pak="city"/>
+<textConfig id = "3028" text="皇权" pak="city"/>
+<textConfig id = "3029" text="奇迹1" pak="city"/>
+<textConfig id = "3030" text="奇迹2" pak="city"/>
+<textConfig id = "3031" text="奇迹3" pak="city"/>
+<textConfig id = "3032" text="奇迹4" pak="city"/>
+<textConfig id = "3033" text="商店" pak="city"/>
+<textConfig id = "3034" text="民房" pak="city"/>
+<textConfig id = "3035" text="矿产" pak="city"/>
+<textConfig id = "3036" text="祭坛" pak="city"/>
+<textConfig id = "3037" text="神像" pak="city"/>
+<textConfig id = "3038" text="奇迹" pak="city"/>
+<textConfig id = "3039" text="竞技场" pak="city"/>
+<textConfig id = "3040" text="伤兵营" pak="city"/>
+<textConfig id = "3041" text="精力矿" pak="city"/>
+
+<textConfig id = "3190" text="增加可以拥有的最大士兵数" pak="citytips"/>
+<textConfig id = "3191" text="定时生产金钱、粮食和矿石" pak="citytips"/>
+<textConfig id = "3192" text="定时生产卡片和五行碎片" pak="citytips"/>
+<textConfig id = "3193" text="为你的英雄、士兵和矿产带来增益" pak="citytips"/>
+<textConfig id = "3194" text="盘古时代的遗迹，带来天神的庇佑" pak="citytips"/>
+
+<textConfig id = "3200" text="城市存兵上限增加{0}" pak="citytips"/>
+<textConfig id = "3201" text="每{0}生产一批金币" pak="citytips"/>
+<textConfig id = "3202" text="每{0}生产一批粮食" pak="citytips"/>
+<textConfig id = "3203" text="每{0}生产一批矿石" pak="citytips"/>
+<textConfig id = "3204" text="增加所有英雄的物理攻击力{0}" pak="citytips"/>
+<textConfig id = "3205" text="增加所有英雄的物理防御力{0}" pak="citytips"/>
+<textConfig id = "3206" text="增加所有英雄的法术攻击力{0}" pak="citytips"/>
+<textConfig id = "3207" text="增加所有英雄的法术防御力{0}" pak="citytips"/>
+<textConfig id = "3208" text="增加所有士兵的生命上限{0}" pak="citytips"/>
+<textConfig id = "3209" text="增加所有士兵的伤害{0}" pak="citytips"/>
+<textConfig id = "3210" text="增加所有士兵的抗性{0}" pak="citytips"/>
+<textConfig id = "3211" text="增加所所有英雄的带兵量{0}" pak="citytips"/>
+<textConfig id = "3212" text="增加所有英雄的技能伤害{0}" pak="citytips"/>
+<textConfig id = "3213" text="增加主城内所有农田的粮食产量{0}" pak="citytips"/>
+<textConfig id = "3214" text="增加主城内所有金矿的金币产量{0}" pak="citytips"/>
+<textConfig id = "3215" text="增加主城内所有矿山的矿石产量{0}" pak="citytips"/>
+<textConfig id = "3216" text="每{2}生产{0}张{1}卡片" pak="citytips"/>
+<textConfig id = "3217" text="每{2}生产{0}张{1}卡片" pak="citytips"/>
+<textConfig id = "3218" text="每{2}生产{0}张{1}卡片" pak="citytips"/>
+<textConfig id = "3219" text="每{2}生产{0}张{1}卡片" pak="citytips"/>
+<textConfig id = "3220" text="每{1}随机生产{0}张卡片" pak="citytips"/>
+<textConfig id = "3221" text="每{1}生产{0}个五行碎片" pak="citytips"/>
+<textConfig id = "3222" text="每{2}生产{0}张&lt;font color='#00ff00'&gt;{1}&lt;/font&gt;卡片" pak="citytips"/>
+<textConfig id = "3223" text="升级解锁其它建筑物" pak="citytips"/>
+<textConfig id = "3224" text="升级可制造更高级装备" pak="citytips"/>
+<textConfig id = "3225" text="升级增加英雄训练经验" pak="citytips"/>
+<textConfig id = "3226" text="升级增加资源存放量" pak="citytips"/>
+<textConfig id = "3227" text="升级增加资源产量,可盖更多矿产" pak="citytips"/>
+<textConfig id = "3228" text="升级增加日资源买卖量" pak="citytips"/>
+<textConfig id = "3229" text="升级增加单次造兵量" pak="citytips"/>
+<textConfig id = "3230" text="升级增加单位造兵量" pak="citytips"/>
+<textConfig id = "3231" text="升级解锁新科技" pak="citytips"/>
+<textConfig id = "3232" text="可以恢复50%损失的步兵、弓手、法师" pak="citytips"/>
+<textConfig id = "3233" text="每{0}生产{1}精力" pak="citytips"/>
+
+<textConfig id = "1003200" text="城市存兵上限增加{0}" pak=""/>
+<textConfig id = "1003201" text="金币" pak=""/>
+<textConfig id = "1003202" text="粮食" pak=""/>
+<textConfig id = "1003203" text="矿石" pak=""/>
+<textConfig id = "1003204" text="所有英雄的物理攻击力+{0}" pak=""/>
+<textConfig id = "1003205" text="所有英雄的物理防御力+{0}" pak=""/>
+<textConfig id = "1003206" text="所有英雄的法术攻击力+{0}" pak=""/>
+<textConfig id = "1003207" text="所有英雄的法术防御力+{0}" pak=""/>
+<textConfig id = "1003208" text="所有士兵的生命上限+{0}" pak=""/>
+<textConfig id = "1003209" text="所有士兵的伤害+{0}" pak=""/>
+<textConfig id = "1003210" text="所有士兵的抗性+{0}" pak=""/>
+<textConfig id = "1003211" text="所所有英雄的带兵量+{0}" pak=""/>
+<textConfig id = "1003212" text="所有英雄的技能伤害+{0}" pak=""/>
+<textConfig id = "1003213" text="主城内所有农田的粮食产量+{0}" pak=""/>
+<textConfig id = "1003214" text="主城内所有金矿的金币产量+{0}" pak=""/>
+<textConfig id = "1003215" text="主城内所有矿山的矿石产量+{0}" pak=""/>
+<textConfig id = "1003216" text="{1}x{0}" pak=""/>
+<textConfig id = "1003217" text="{1}x{0}" pak=""/>
+<textConfig id = "1003218" text="{1}x{0}" pak=""/>
+<textConfig id = "1003219" text="{1}x{0}" pak=""/>
+<textConfig id = "1003220" text="随机卡片x{0}" pak=""/>
+<textConfig id = "1003221" text="五行碎片x{0}" pak=""/>
+<textConfig id = "1003222" text="&lt;font color='#00ff00'&gt;{1}&lt;/font&gt;卡片x{0}" pak=""/>
+<textConfig id = "1003223" text="升级解锁其它建筑物" pak=""/>
+<textConfig id = "1003224" text="升级可制造更高级装备" pak=""/>
+<textConfig id = "1003225" text="升级增加英雄训练经验" pak=""/>
+<textConfig id = "1003226" text="升级增加资源存放量" pak=""/>
+<textConfig id = "1003227" text="升级增加资源产量" pak=""/>
+<textConfig id = "1003228" text="升级增加日资源买卖量" pak=""/>
+<textConfig id = "1003229" text="升级增加单次造兵量" pak=""/>
+<textConfig id = "1003230" text="升级增加单位造兵量" pak=""/>
+<textConfig id = "1003231" text="升级解锁新科技" pak=""/>
+<textConfig id = "1003232" text="士兵" pak=""/>
+<textConfig id = "1003233" text="精力" pak=""/>
+
+
+<textConfig id = "3400" text="金属性主要增加武将的物理防御力，其它属性得到一般成长。" pak="uitips"/>
+<textConfig id = "3401" text="木属性主要增加武将的物理攻击力，其它属性得到一般成长。" pak="uitips"/>
+<textConfig id = "3402" text="水属性主要增加武将的法术攻击力，其它属性得到一般成长。" pak="uitips"/>
+<textConfig id = "3403" text="火属性特别增加武将的技能伤害，其它属性得到一般成长。" pak="uitips"/>
+<textConfig id = "3404" text="土属性主要增加武将的法术防御力，其它属性得到一般成长。" pak="uitips"/>
+
+<textConfig id = "3405" text="增加士兵生命{0}点" pak="uitips"/>
+<textConfig id = "3406" text="增加士兵攻击力{0}点" pak="uitips"/>
+<textConfig id = "3407" text="增加士兵技能触发概率{0}%" pak="uitips"/>
+<textConfig id = "3408" text="武将等级{0}解锁" pak="uitips"/>
+<textConfig id = "3409" text="{0}属性达到{1}解锁" pak="uitips"/>
+<textConfig id = "3410" text="{0}（{1}/{2}）解锁" pak="uitips"/>
+<textConfig id = "3411" text="增加该武将的物理攻击{0}点" pak="uitips"/>
+<textConfig id = "3412" text="增加该武将的物理防御{0}点" pak="uitips"/>
+<textConfig id = "3413" text="增加该武将的法术攻击{0}点" pak="uitips"/>
+<textConfig id = "3414" text="增加该武将的法术防御{0}点" pak="uitips"/>
+<textConfig id = "3415" text="增加该武将的带兵量{0}" pak="uitips"/>
+<textConfig id = "3416" text="增加该武将所带领的士兵的伤害{0}点" pak="uitips"/>
+<textConfig id = "3417" text="增加该武将所带领的士兵生命上限{0}点" pak="uitips"/>
+<textConfig id = "3418" text="增加该武将所带领的士兵暴击率{0}%" pak="uitips"/>
+<textConfig id = "3419" text="增加该武将所带领的士兵闪避率{0}%" pak="uitips"/>
+<textConfig id = "3420" text="增加该武将的技能伤害{0}点" pak="uitips"/>
+<textConfig id = "3421" text="卡牌冷却时间：{0}秒" pak="uitips"/>
+<textConfig id = "3422" text="强化等级{0}解锁" pak="uitips"/>
+<textConfig id = "3423" text="Lv{0}级" pak="uitips"/>
+<textConfig id = "3424" text="（{0}/{1}）" pak="uitips"/>
+<textConfig id = "3425" text="近战类" pak="uitips"/>
+<textConfig id = "3426" text="远程类" pak="uitips"/>
+<textConfig id = "3427" text="法术类" pak="uitips"/>
+<textConfig id = "3428" text="机械类" pak="uitips"/>
+<textConfig id = "3429" text="士兵伤害{0}" pak="uitips"/>
+<textConfig id = "3430" text="{0}%" pak="uitips"/>
+<textConfig id = "3431" text="{0}件开启" pak="uitips"/>
+<textConfig id = "3432" text="神符等级：{0}" pak="uitips"/>
+<textConfig id = "3433" text="耐久度：{0}/{1}" pak="uitips"/>
+<textConfig id = "3434" text="使用条件：消耗士气{0}点" pak="uitips"/>
+<textConfig id = "3435" text="装备等级：{0}" pak="uitips"/>
+<textConfig id = "3436" text="武器" pak="uitips"/>
+<textConfig id = "3437" text="肩甲" pak="uitips"/>
+<textConfig id = "3438" text="胸甲" pak="uitips"/>
+<textConfig id = "3439" text="腿甲" pak="uitips"/>
+<textConfig id = "3440" text="头盔" pak="uitips"/>
+<textConfig id = "3441" text="手腕甲" pak="uitips"/>
+<textConfig id = "3442" text="鞋子" pak="uitips"/>
+<textConfig id = "3443" text="披风" pak="uitips"/>
+<textConfig id = "3444" text="坐骑" pak="uitips"/>
+<textConfig id = "3445" text="附加属性" pak="uitips"/>
+<textConfig id = "3446" text="出售价格：" pak="uitips"/>
+<textConfig id = "3447" text="无" pak="uitips"/>
+<textConfig id = "3448" text="孔槽" pak="uitips"/>
+<textConfig id = "3449" text="五行石等级：{0}" pak="uitips"/>
+<textConfig id = "3450" text="增加{0}属性{1}点" pak="uitips"/>
+<textConfig id = "3451" text="装备中" pak="uitips"/>
+<textConfig id = "3452" text="=" pak="uitips"/>
+<textConfig id = "3453" text="需求等级{0}" pak="uitips"/>
+<textConfig id = "3454" text="每{0}秒全体单位恢复{1}%的生命,每天免费3小时,购买有效24小时" pak="uitips"/>
+<textConfig id = "3455" text="{0}后恢复{1}精力" pak="uitips"/>
+<textConfig id = "3456" text="{0}后可以领取。" pak="uitips"/>
+<textConfig id = "3457" text="每半小时恢复{0}精力" pak="uitips"/>
+<textConfig id = "3458" text="每{0}秒全体单位恢复{1}%的生命,有效时间3小时,每日第一次购买免费" pak="uitips"/>
+
+<textConfig id = "4001" text="刀盾兵徽章" pak="medal"/>
+<textConfig id = "4002" text="攻城车徽章" pak="medal"/>
+<textConfig id = "4003" text="铁锤兵徽章" pak="medal"/>
+<textConfig id = "4004" text="重装步兵徽章" pak="medal"/>
+<textConfig id = "4005" text="剑客徽章" pak="medal"/>
+<textConfig id = "4006" text="魔人兵徽章" pak="medal"/>
+<textConfig id = "4007" text="轻弓兵徽章" pak="medal"/>
+<textConfig id = "4008" text="弩箭兵徽章" pak="medal"/>
+<textConfig id = "4009" text="大弓兵徽章" pak="medal"/>
+<textConfig id = "4010" text="重弩手徽章" pak="medal"/>
+<textConfig id = "4011" text="标枪手徽章" pak="medal"/>
+<textConfig id = "4012" text="炮兵徽章" pak="medal"/>
+<textConfig id = "4013" text="法师徽章" pak="medal"/>
+<textConfig id = "4014" text="暴烈法师徽章" pak="medal"/>
+<textConfig id = "4015" text="光波法师徽章" pak="medal"/>
+<textConfig id = "4016" text="邪魔法师徽章" pak="medal"/>
+<textConfig id = "4017" text="苍生法师徽章" pak="medal"/>
+<textConfig id = "4018" text="长戟兵徽章" pak="medal"/>
+<textConfig id = "4019" text="弩箭兵徽章" pak="medal"/>
+<textConfig id = "4020" text="魔王兵" pak="medal"/>
+<textConfig id = "4021" text="重炮手" pak="medal"/>
+<textConfig id = "4022" text="弩炮车徽章" pak="medal"/>
+<textConfig id = "4023" text="投石车徽章" pak="medal"/>
+<textConfig id = "4024" text="攻城车徽章" pak="medal"/>
+<textConfig id = "4025" text="大盾兵" pak="medal"/>
+<textConfig id = "4026" text="女法师" pak="medal"/>
+<textConfig id = "4027" text="大炮" pak="medal"/>
+<textConfig id = "4028" text="魔虫" pak="medal"/>
+<textConfig id = "4029" text="野猪" pak="medal"/>
+<textConfig id = "4030" text="弩箭车" pak="medal"/>
+
+
+
+
+<textConfig id = "4101" text="五行石金" pak="wuxingshi"/>
+<textConfig id = "4102" text="五行石木" pak="wuxingshi"/>
+<textConfig id = "4103" text="五行石水" pak="wuxingshi"/>
+<textConfig id = "4104" text="五行石火" pak="wuxingshi"/>
+<textConfig id = "4105" text="五行石土" pak="wuxingshi"/>
+
+<textConfig id = "4200" text="金" pak="material"/>
+<textConfig id = "4201" text="木" pak="material"/>
+<textConfig id = "4202" text="水" pak="material"/>
+<textConfig id = "4203" text="火" pak="material"/>
+<textConfig id = "4204" text="土" pak="material"/>
+<textConfig id = "4205" text="紫水晶" pak="material"/>
+<textConfig id = "4206" text="猫眼石" pak="material"/>
+<textConfig id = "4207" text="熔岩石" pak="material"/>
+<textConfig id = "4208" text="冰晶" pak="material"/>
+<textConfig id = "4209" text="玉石" pak="material"/>
+<textConfig id = "4210" text="翡翠石" pak="material"/>
+<textConfig id = "4211" text="紫水晶" pak="material"/>
+<textConfig id = "4212" text="龙骨" pak="material"/>
+<textConfig id = "4213" text="玄铁矿" pak="material"/>
+<textConfig id = "4214" text="大地结晶" pak="material"/>
+<textConfig id = "4215" text="乌石" pak="material"/>
+<textConfig id = "4216" text="凤羽" pak="material"/>
+<textConfig id = "4217" text="清泉甘草" pak="material"/>
+<textConfig id = "4218" text="冰雪兰花" pak="material"/>
+<textConfig id = "4219" text="冰盐" pak="material"/>
+<textConfig id = "4220" text="芦苇" pak="material"/>
+<textConfig id = "4221" text="鱼饵" pak="material"/>
+<textConfig id = "4222" text="金2级" pak="material"/>
+<textConfig id = "4223" text="木2级" pak="material"/>
+<textConfig id = "4224" text="水2级" pak="material"/>
+<textConfig id = "4225" text="火2级" pak="material"/>
+<textConfig id = "4226" text="土2级" pak="material"/>
+<textConfig id = "4227" text="银块" pak="material"/>
+<textConfig id = "4228" text="金块" pak="material"/>
+<textConfig id = "4229" text="红宝石" pak="material"/>
+<textConfig id = "4230" text="黑铁矿" pak="material"/>
+<textConfig id = "4231" text="神木" pak="material"/>
+<textConfig id = "4232" text="凤羽" pak="material"/>
+
+
+<textConfig id = "4300" text="好人套装" pak="suit"/>
+<textConfig id = "4301" text="新兵套装" pak="suit"/>
+<textConfig id = "4302" text="护军套装" pak="suit"/>
+<textConfig id = "4303" text="射手套装" pak="suit"/>
+<textConfig id = "4304" text="冲锋套装" pak="suit"/>
+<textConfig id = "4305" text="百步套装" pak="suit"/>
+<textConfig id = "4306" text="古树套装" pak="suit"/>
+<textConfig id = "4307" text="奇械套装" pak="suit"/>
+<textConfig id = "4308" text="人斩套装" pak="suit"/>
+<textConfig id = "4309" text="穿石套装" pak="suit"/>
+<textConfig id = "4310" text="干将套装" pak="suit"/>
+<textConfig id = "4311" text="元气套装" pak="suit"/>
+<textConfig id = "4312" text="万马套装" pak="suit"/>
+<textConfig id = "4313" text="将斩套装" pak="suit"/>
+<textConfig id = "4314" text="裂弓套装" pak="suit"/>
+<textConfig id = "4315" text="领军套装" pak="suit"/>
+<textConfig id = "4316" text="魔血套装" pak="suit"/>
+<textConfig id = "4317" text="猛士套装" pak="suit"/>
+<textConfig id = "4318" text="勇将套装" pak="suit"/>
+<textConfig id = "4319" text="千人敌套装" pak="suit"/>
+
+
+<textConfig id = "4400" text="攻击提升" pak="uitips"/>
+<textConfig id = "4401" text="防御增加" pak="uitips"/>
+<textConfig id = "4402" text="魔力提升" pak="uitips"/>
+<textConfig id = "4403" text="法术护盾" pak="uitips"/>
+<textConfig id = "4404" text="士兵增加" pak="uitips"/>
+<textConfig id = "4405" text="士兵伤害" pak="uitips"/>
+<textConfig id = "4406" text="士兵铠甲" pak="uitips"/>
+<textConfig id = "4407" text="暴击提升" pak="uitips"/>
+<textConfig id = "4408" text="闪避提升" pak="uitips"/>
+<textConfig id = "4409" text="技能提升" pak="uitips"/>
+
+<textConfig id = "5000" text="内政科技" pak="tech"/>
+<textConfig id = "5001" text="战争科技" pak="tech"/>
+<textConfig id = "5002" text="阵型科技" pak="tech"/>
+<textConfig id = "5003" text="士兵神符" pak="tech"/>
+<textConfig id = "5004" text="金币产量" pak="tech"/>
+<textConfig id = "5005" text="粮食产量" pak="tech"/>
+<textConfig id = "5006" text="矿石产量" pak="tech"/>
+<textConfig id = "5007" text="战争掠夺" pak="tech"/>
+<textConfig id = "5008" text="大量生产" pak="tech"/>
+<textConfig id = "5009" text="英雄技能伤害" pak="tech"/>
+<textConfig id = "5010" text="士兵伤害" pak="tech"/>
+<textConfig id = "5011" text="士兵生命" pak="tech"/>
+<textConfig id = "5012" text="城墙防御" pak="tech"/>
+<textConfig id = "5013" text="箭塔攻击" pak="tech"/>
+<textConfig id = "5014" text="防御阵形" pak="tech"/>
+<textConfig id = "5015" text="弓手阵形" pak="tech"/>
+<textConfig id = "5016" text="法术阵形" pak="tech"/>
+<textConfig id = "5017" text="机械阵形" pak="tech"/>
+<textConfig id = "5018" text="中路突破" pak="tech"/>
+<textConfig id = "5019" text="攻击神符" pak="tech"/>
+<textConfig id = "5020" text="生命神符" pak="tech"/>
+<textConfig id = "5021" text="技能神符" pak="tech"/>
+<textConfig id = "5022" text="坚韧的护甲" pak="neizheng"/>
+<textConfig id = "5023" text="锋利的武器" pak="neizheng"/>
+<textConfig id = "5024" text="坚固的城墙" pak="neizheng"/>
+<textConfig id = "5025" text="锋利的武器" pak="neizheng"/>
+<textConfig id = "5026" text="资源的生产" pak="neizheng"/>
+<textConfig id = "5027" text="快速升级" pak="neizheng"/>
+<textConfig id = "5028" text="人海战术" pak="neizheng"/>
+<textConfig id = "5029" text="英雄的武器" pak="neizheng"/>
+
+<textConfig id = "5300" text="金币产量提高{0}%。" pak="techtips"/>
+<textConfig id = "5301" text="粮食产量提高{0}%。" pak="techtips"/>
+<textConfig id = "5302" text="矿石产量提高{0}%" pak="techtips"/>
+<textConfig id = "5303" text="提高{0}%的打怪金钱。" pak="techtips"/>
+<textConfig id = "5304" text="提升造兵最大产量{0}个" pak="techtips"/>
+<textConfig id = "5305" text="英雄技能伤害提高{0}。" pak="techtips"/>
+<textConfig id = "5305" text="英雄技能伤害提高{0}。" pak="techtips"/>
+<textConfig id = "5306" text="士兵伤害提高{0}。" pak="techtips"/>
+<textConfig id = "5307" text="士兵生命提高{0}。" pak="techtips"/>
+<textConfig id = "5308" text="城墙防御提高{0}" pak="techtips"/>
+<textConfig id = "5309" text="箭塔攻击提高{0}。" pak="techtips"/>
+<textConfig id = "5310" text="增加第一排的带兵{0}%" pak="techtips"/>
+<textConfig id = "5311" text="第一排单位生命+{0}" pak="techtips"/>
+<textConfig id = "5312" text="第一排单位伤害+{0}" pak="techtips"/>
+<textConfig id = "5313" text="增加第二排的带兵{0}%" pak="techtips"/>
+<textConfig id = "5314" text="第二排生命+{0},第二排单位攻击+{1}" pak="techtips"/>
+<textConfig id = "5315" text="第二排生命+{0},第二排单位攻击+{1}" pak="techtips"/>
+<textConfig id = "5316" text="增加第三排的带兵{0}%" pak="techtips"/>
+<textConfig id = "5317" text="第三排攻击力+{0}" pak="techtips"/>
+<textConfig id = "5318" text="第三排攻击力+{0}" pak="techtips"/>
+<textConfig id = "5319" text="增加第四排的带兵{0}%" pak="techtips"/>
+<textConfig id = "5320" text="第四排攻击力+{0}" pak="techtips"/>
+<textConfig id = "5321" text="第四排攻击力+{0}" pak="techtips"/>
+<textConfig id = "5322" text="增加第中间列的带兵{0}%" pak="techtips"/>
+<textConfig id = "5323" text="第一排生命+{0}" pak="techtips"/>
+<textConfig id = "5324" text="第二排伤害+{0},暴击+{1}%" pak="techtips"/>
+<textConfig id = "5325" text="增加第二排某些格子带兵{0}%&lt;br&gt;增加第三、四排某些格子带兵{1}%" pak="techtips"/>
+<textConfig id = "5326" text="第一排生命+{0}" pak="techtips"/>
+<textConfig id = "5327" text="第三排 暴击+{0}%" pak="techtips"/>
+<textConfig id = "5328" text="增加所有阵型第一排单位生命100*武将数。" pak="neizhengtips"/>
+<textConfig id = "5329" text="增加所有阵型第二排单位攻击力16*武将数。" pak="neizhengtips"/>
+<textConfig id = "5330" text="增加城墙生命8000*武将数。" pak="neizhengtips"/>
+<textConfig id = "5331" text="增加所有阵型第三排单位攻击力22*武将数。" pak="neizhengtips"/>
+<textConfig id = "5332" text="增加所有资源生产建筑的产量20*武将数" pak="neizhengtips"/>
+<textConfig id = "5333" text="增加训练与打怪经验15%*武将数" pak="neizhengtips"/>
+<textConfig id = "5334" text="增加所有英雄的带兵数量25*武将数。" pak="neizhengtips"/>
+<textConfig id = "5335" text="增加所有英雄的技能攻击力30*武将数" pak="neizhengtips"/>
+<textConfig id = "5336" text="制造增加士兵生命的士兵神符，基础增长{0}" pak="neizhengtips"/>
+<textConfig id = "5337" text="制造增加士兵攻击的士兵神符，基础增长{0}" pak="neizhengtips"/>
+<textConfig id = "5338" text="制造增加士兵技能触发率的士兵神符，基础增长{0}%" pak="neizhengtips"/>
+
+<textConfig id = "5701" text="炼金" pak="viptitle"/>
+<textConfig id = "5702" text="赠送元宝" pak="viptitle"/>
+<textConfig id = "5703" text="炼金减价" pak="viptitle"/>
+<textConfig id = "5704" text="武将训练" pak="viptitle"/>
+<textConfig id = "5705" text="战力增幅" pak="viptitle"/>
+<textConfig id = "5706" text="赠送武将" pak="viptitle"/>
+<textConfig id = "5707" text="更多武将" pak="viptitle"/>
+<textConfig id = "5708" text="每日礼金" pak="viptitle"/>
+<textConfig id = "5709" text="经验增加" pak="viptitle"/>
+<textConfig id = "5710" text="快速造兵" pak="viptitle"/>
+<textConfig id = "5711" text="更多占领" pak="viptitle"/>
+<textConfig id = "5712" text="装备强化" pak="viptitle"/>
+<textConfig id = "5713" text="更多精力" pak="viptitle"/>
+<textConfig id = "5714" text="建立军团" pak="viptitle"/>
+<textConfig id = "5715" text="荣誉增加" pak="viptitle"/>
+<textConfig id = "5716" text="免费金币" pak="viptitle"/>
+<textConfig id = "5717" text="任意侵略" pak="viptitle"/>
+<textConfig id = "5718" text="无限精力" pak="viptitle"/>
+<textConfig id = "5719" text="坚固的城防" pak="viptitle"/>
+<textConfig id = "5720" text="购买精力" pak="viptitle"/>
+<textConfig id = "5721" text="战力增幅" pak="viptitle"/>
+<textConfig id = "5722" text="五行材料" pak="viptitle"/>
+<textConfig id = "5723" text="刷新副本" pak="viptitle"/>
+<textConfig id = "5724" text="装备增强" pak="viptitle"/>
+<textConfig id = "5725" text="更多的资源" pak="viptitle"/>
+<textConfig id = "5726" text="伤亡减少" pak="viptitle"/>
+<textConfig id = "5727" text="生产增幅" pak="viptitle"/>
+<textConfig id = "5728" text="大量的交易" pak="viptitle"/>
+<textConfig id = "5729" text="每日任务增加" pak="viptitle"/>
+<textConfig id = "5730" text="坚固的城防" pak="viptitle"/>
+<textConfig id = "5731" text="更多的组队" pak="viptitle"/>
+<textConfig id = "5732" text="更多的英雄" pak="viptitle"/>
+<textConfig id = "5733" text="更多的训练" pak="viptitle"/>
+<textConfig id = "5734" text="赠送礼品" pak="viptitle"/>
+<textConfig id = "5735" text="大量的精力" pak="viptitle"/>
+<textConfig id = "5736" text="每日奖励" pak="viptitle"/>
+<textConfig id = "5737" text="金币赠送" pak="viptitle"/>
+<textConfig id = "5738" text="任务一键完成" pak="viptitle"/>
+<textConfig id = "5739" text="解锁配方" pak="viptitle"/>
+
+<textConfig id = "5801" text="赠送强力武器真斩马一把" pak="ui"/>
+<textConfig id = "5802" text="赠送强力武器真夺命枪一把" pak="ui"/>
+<textConfig id = "5803" text="赠送强力武器无双之刃一把" pak="ui"/>
+<textConfig id = "5804" text="赠送强力武器赤血关刀一把及猫眼石" pak="ui"/>
+<textConfig id = "5805" text="赠送神装魔血套装一套" pak="ui"/>
+<textConfig id = "5806" text="赠送战斗披风一件与战斗卡片一套" pak="ui"/>
+<textConfig id = "5807" text="赠送强力武器【真斩马】锻造配方" pak="ui"/>
+<textConfig id = "5808" text="赠送强力武器【真夺命枪】锻造配方" pak="ui"/>
+<textConfig id = "5809" text="赠送强力武器【无双之刃】、【无双战戟】锻造配方" pak="ui"/>
+<textConfig id = "5810" text="赠送强力武器【无双战戟】锻造配方" pak="ui"/>
+<textConfig id = "5811" text="赠送强力武器【赤血关刀】锻造配方" pak="ui"/>
+<textConfig id = "5812" text="赠送战斗卡片一套" pak="ui"/>
+
+<textConfig id = "5901" text="可购买金币" pak="vip"/>
+<textConfig id = "5902" text="赠送{0}元宝" pak="vip"/>
+<textConfig id = "5903" text="购买金币价格永久-{0}元宝" pak="vip"/>
+<textConfig id = "5904" text="赠送{0}个训练队列" pak="vip"/>
+<textConfig id = "5905" text="主英雄金属性+{0}" pak="vip"/>
+<textConfig id = "5906" text="赠送英雄{0}" pak="vip"/>
+<textConfig id = "5907" text="购买金币量+{0}%" pak="vip"/>
+<textConfig id = "5908" text="赠送{0}英雄格子" pak="vip"/>
+<textConfig id = "5909" text="每天赠送{0}个礼金" pak="vip"/>
+<textConfig id = "5910" text="英雄训练经验增加{0}%" pak="vip"/>
+<textConfig id = "5911" text="步兵制造时间-{0}%" pak="vip"/>
+<textConfig id = "5912" text="可以多占{0}块野外矿" pak="vip"/>
+<textConfig id = "5913" text="装备强化成功率{0}%" pak="vip"/>
+<textConfig id = "5914" text="每日前{0}次购买精力免费" pak="vip"/>
+<textConfig id = "5915" text="拥有建立一个军团的权力" pak="vip"/>
+<textConfig id = "5916" text="每次荣誉取得+{0}%" pak="vip"/>
+<textConfig id = "5917" text="每天前{0}次购买金币免费" pak="vip"/>
+<textConfig id = "5918" text="取得仇恨点-{0}%" pak="vip"/>
+<textConfig id = "5919" text="精力无限使用" pak="vip"/>
+<textConfig id = "5920" text="主城被攻击后只需{0}秒恢复" pak="vip"/>
+<textConfig id = "5921" text="20元宝增加300精力" pak="vip"/>
+<textConfig id = "5922" text="主英雄木属性永久+{0}" pak="vip"/>
+<textConfig id = "5923" text="主英雄土属性永久+{0}" pak="vip"/>
+<textConfig id = "5924" text="主英雄水属性永久+{0}" pak="vip"/>
+<textConfig id = "5925" text="主英雄火属性永久+{0}" pak="vip"/>
+<textConfig id = "5926" text="主英雄物理攻击永久+{0}" pak="vip"/>
+<textConfig id = "5927" text="主英雄法术防御永久+{0}" pak="vip"/>
+<textConfig id = "5928" text="可以购买五行碎片" pak="vip"/>
+<textConfig id = "5929" text="可以恢复副本每日攻打次数" pak="vip"/>
+<textConfig id = "5930" text="初始装备强化次数上限增加{0}次" pak="vip"/>
+<textConfig id = "5931" text="可以额外多造{0}块农田" pak="vip"/>
+<textConfig id = "5932" text="可以建造伤兵营减少50%士兵损失" pak="vip"/>
+<textConfig id = "5933" text="可以升级矿产至{0}级" pak="vip"/>
+<textConfig id = "5934" text="市场每日最多交易{0}次" pak="vip"/>
+<textConfig id = "5935" text="每日任务可以刷新{0}次" pak="vip"/>
+<textConfig id = "5936" text="可以解锁第3列箭塔" pak="vip"/>
+<textConfig id = "5937" text="可以解锁第4列箭塔" pak="vip"/>
+<textConfig id = "5938" text="可以恢复副本每日组队次数" pak="vip"/>
+<textConfig id = "5939" text="可以购买更多的英雄格子" pak="vip"/>
+<textConfig id = "5940" text="可以购买更多的训练位" pak="vip"/>
+<textConfig id = "5941" text="赠送礼品" pak="vip"/>
+<textConfig id = "5942" text="每天赠送{0}点精力 " pak="vip"/>
+<textConfig id = "5943" text="每天可领取{0}次在线奖励" pak="vip"/>
+<textConfig id = "5944" text="赠送{0}金币" pak="vip"/>
+<textConfig id = "5945" text="使用{0}元宝一键完成日常任务" pak="vip"/>
+<textConfig id = "5946" text="解锁高级装备配方" pak="vip"/>
+<textConfig id = "5947" text="弓箭手制造时间-{0}%" pak="vip"/>
+<textConfig id = "5948" text="法师制造时间-{0}%" pak="vip"/>
+
+
+<textConfig id = "6000" text="凝神" pak="card"/>
+<textConfig id = "6001" text="激发" pak="card"/>
+<textConfig id = "6002" text="增援[1]" pak="card"/>
+<textConfig id = "6003" text="增援[2]" pak="card"/>
+<textConfig id = "6004" text="增援[3]" pak="card"/>
+<textConfig id = "6005" text="勇猛[1]" pak="card"/>
+<textConfig id = "6006" text="勇猛[2]" pak="card"/>
+<textConfig id = "6007" text="勇猛[3]" pak="card"/>
+<textConfig id = "6008" text="急救[1]" pak="card"/>
+<textConfig id = "6009" text="急救[2]" pak="card"/>
+<textConfig id = "6010" text="急救[3]" pak="card"/>
+<textConfig id = "6011" text="鼓舞" pak="card"/>
+<textConfig id = "6012" text="奥义" pak="card"/>
+<textConfig id = "6013" text="血祭" pak="card"/>
+<textConfig id = "6014" text="治疗" pak="card"/>
+<textConfig id = "6015" text="俘虏" pak="card"/>
+<textConfig id = "6016" text="狂暴" pak="card"/>
+<textConfig id = "6017" text="火•火炎阵" pak="card"/>
+<textConfig id = "6018" text="奥义" pak="card"/>
+<textConfig id = "6019" text="援军" pak="card"/>
+<textConfig id = "6020" text="协力" pak="card"/>
+<textConfig id = "6021" text="冻结" pak="card"/>
+<textConfig id = "6022" text="压制" pak="card"/>
+<textConfig id = "6023" text="去浊" pak="card"/>
+<textConfig id = "6024" text="破竹" pak="card"/>
+<textConfig id = "6025" text="恢复" pak="card"/>
+<textConfig id = "6026" text="屏障" pak="card"/>
+<textConfig id = "6027" text="英灵" pak="card"/>
+
+<textConfig id = "6100" text="急救[1]：对第一排友军进行急救，恢复15个单位的士兵生命。" pak="carddesc"/>
+<textConfig id = "6101" text="急救[2]：对第一排友军进行急救，恢复45个单位的士兵生命。" pak="carddesc"/>
+<textConfig id = "6102" text="急救[3]：对第一排友军进行急救，恢复110个单位的士兵生命。" pak="carddesc"/>
+<textConfig id = "6103" text="增援[1]：对全体友军进行增援，从兵营补充60个单位的士兵(当兵营士兵不足时无法生效)。" pak="carddesc"/>
+<textConfig id = "6104" text="增援[2]：对全体友军进行增援，从兵营补充120个单位的士兵(当兵营士兵不足时无法生效)。" pak="carddesc"/>
+<textConfig id = "6105" text="增援[4]：对全体友军进行增援，从兵营补充220个单位的士兵(当兵营士兵不足时无法生效)。" pak="carddesc"/>
+<textConfig id = "6106" text="勇猛[1]：我方全体单位的攻击伤害提高25点，效果维持2个回合。" pak="carddesc"/>
+<textConfig id = "6107" text="勇猛[2]：我方全体单位的攻击伤害提高35点，效果维持2个回合。" pak="carddesc"/>
+<textConfig id = "6108" text="勇猛[3]：我方全体单位的攻击伤害提高50点，效果维持2个回合。" pak="carddesc"/>
+<textConfig id = "6109" text="激发：选择己方唯排单位100%触发自己的技能，维持3个回合。" pak="carddesc"/>
+<textConfig id = "6110" text="血祭：自己的攻击单位伤害提高1倍，维持3个回合，但每次攻击减少30点生命" pak="carddesc"/>
+<textConfig id = "6111" text="治疗：自己受伤害所有单位恢复35点生命" pak="carddesc"/>
+<textConfig id = "6112" text="凝神：所有单位的暴击率变为100%。持续2个回合。" pak="carddesc"/>
+<textConfig id = "6113" text="火•火炎阵：从天空中的火阵中不停的掉下来火球攻击敌人第一排单位。伤害三次10、10、15，造成 30%的破甲持续1个回合。" pak="carddesc"/>
+<textConfig id = "6114" text="鼓舞：使用回合起自己全体单位每次得到士气增加10点，维持3个回合。" pak="carddesc"/>
+<textConfig id = "6115" text="奥义：激发武将所有五行潜能，释放奥义。" pak="carddesc"/>
+
+<textConfig id = "6116" text="英灵：使自己在场的已经阵亡的非机械单位立刻复活重返战场。" pak="carddesc"/>
+
+<textConfig id = "6117" text="冻结：选择敌人一个单位，选择成功的下个回合这个单位被冻结3回合。" pak="carddesc"/>
+
+<textConfig id = "6118" text="屏障：在我方第一排单位前面建立一个保护墙可以防止敌人攻击第一排单位，维持3个回合。" pak="carddesc"/>
+
+<textConfig id = "6119" text="压制：使用强大的力量使敌人所有单位不包括武在3个回合内无法施法技能。" pak="carddesc"/>
+
+<textConfig id = "6120" text="协力：在2回合内我方后排单位受到的伤害的70%转移到第一排单位身上。" pak="carddesc"/>
+
+<textConfig id = "6121" text="援军：召唤援军来帮助杀敌维持4个回合。" pak="carddesc"/>
+
+<textConfig id = "6180" text="箭塔加强" pak="citydfbuff"/>
+<textConfig id = "6181" text="距离加成" pak="citydfbuff"/>
+<textConfig id = "6182" text="城防生命" pak="citydfbuff"/>
+
+<textConfig id = "6190" text="所有箭塔的攻击伤害增加{0},可累积" pak="citydfbuffbuff"/>
+<textConfig id = "6191" text="士兵攻击距离增加{0}" pak="citydfbuffbuff"/>
+<textConfig id = "6192" text="城墙生命可以增加{0},可累积" pak="citydfbuffbuff"/>
+
+
+<textConfig id = "6226" text="&lt;font color='#00ff00'&gt;[被动]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加自己的法术伤害免疫&lt;/font&gt;&lt;font color='#ffff00'&gt;20%&lt;/font&gt;&lt;font color='#ffffff'&gt;，物理伤害免疫&lt;/font&gt;&lt;font color='#ffff00'&gt;20%&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br'&gt;" pak="skilldesc"/>
+<textConfig id = "6227" text="&lt;font color='#00ff00'&gt;&lt;font&gt;[光环]&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;增加所有我方弓手&lt;/font&gt;&lt;font color='#ffff00'&gt;4点&lt;/font&gt;&lt;font color='#ffffff'&gt;伤害。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6228" text="&lt;font color='#000000'&gt;&lt;font color='#00ff00'&gt;[被动]&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;内，对方对自己造成的法术伤害免疫&lt;/font&gt;&lt;font color='#ffff00'&gt;25%&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6229" text="&lt;font color='#000000'&gt;&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;每次攻击有2&lt;/font&gt;&lt;font color='#ffff00'&gt;2%&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;的吸血效果。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6230" text="&lt;font color='#00ff00'&gt;[近程被动]&lt;font color='#ffffff'&gt;以&lt;/font&gt;&lt;font color='#ffff00'&gt;60%&lt;font color='#ffffff'&gt;伤害反击攻击自己的近战单位并&lt;/font&gt;&lt;font color='#ffff00'&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;冰冻&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;BR'&gt;" pak="skilldesc"/>
+<textConfig id = "6231" text="&lt;font color='#000000'&gt;&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方所有弓手&lt;/font&gt;&lt;font color='#ffff00'&gt;4点伤害&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6232" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;被攻击时反弹&lt;/font&gt;&lt;font color='#ffff00'&gt;11%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6233" text="&lt;font color='#00ff00'&gt;[被动]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加同排单位包括自己&lt;/font&gt;&lt;font color='#ffff00'&gt;25%&lt;/font&gt;&lt;font color='#ffffff'&gt;物理伤害免疫&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6234" text="&lt;font color='#00ff00'&gt;[被动]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加自己魔法伤害免疫3&lt;/font&gt;&lt;font color='#ffff00'&gt;0%&lt;/font&gt;&lt;font color='#ffffff'&gt;维持&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;BR'&gt;" pak="skilldesc"/>
+<textConfig id = "6235" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffff00'&gt;2连击&lt;/font&gt;&lt;font color='#ffffff'&gt;，对目标造成两次&lt;/font&gt;&lt;font color='#ffff00'&gt;150%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害并吸血&lt;/font&gt;&lt;font color='#ffff00'&gt;100%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6236" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;对目标造成&lt;/font&gt;&lt;font color='#ffff00'&gt;250%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害，并获得&lt;/font&gt;&lt;font color='#ffff00'&gt;10&lt;/font&gt;&lt;font color='#ffffff'&gt;点士气。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6237" text="&lt;font color='#00ff00'&gt;[被动]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加自己的法术伤害免疫&lt;/font&gt;&lt;font color='#ffff00'&gt;30%&lt;/font&gt;&lt;font color='#ffffff'&gt;，物理伤害免疫&lt;/font&gt;&lt;font color='#ffff00'&gt;30%&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6238" text="&lt;font color='#00ff00'&gt;[被动]&lt;/font&gt;&lt;font color='#ffffff'&gt;反击攻击自己的单位，造成基础攻击6&lt;/font&gt;&lt;font color='#ffff00'&gt;0%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害，并使目标单位燃烧，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6240" text="&lt;font color='#00ff00'&gt;[被动]&lt;/font&gt;&lt;font color='#ffffff'&gt;反击攻击自己的单位，造成基础攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;100%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害、并使目标单位&lt;/font&gt;&lt;font color='#ffff00'&gt;虚弱&lt;/font&gt;&lt;font color='#ffffff'&gt;，伤害减少&lt;/font&gt;&lt;font color='#ffff00'&gt;30%&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6241" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffff00'&gt;2连击&lt;/font&gt;&lt;font color='#ffffff'&gt;，对目标造成第一次&lt;/font&gt;&lt;font color='#00ff00'&gt;110%&lt;/font&gt;&lt;font color='#ffffff'&gt;第二次&lt;/font&gt;&lt;font color='#ffff00'&gt;90%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害，并使对方的物理防御减少&lt;/font&gt;&lt;font color='#ffff00'&gt;30%&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;BR'&gt;" pak="skilldesc"/>
+<textConfig id = "6244" text="&lt;font color='#00ff00'&gt;[被动]&lt;/font&gt;&lt;font color='#ffffff'&gt;反击攻击自己的单位，造成基础攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;100%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害，并有&lt;/font&gt;&lt;font color='#ffff00'&gt;50%&lt;/font&gt;&lt;font color='#ffffff'&gt;的几率使目标单位冻结，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br'&gt;" pak="skilldesc"/>
+<textConfig id = "6245" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;单次伤害提高4&lt;/font&gt;&lt;font color='#ffff00'&gt;0%&lt;/font&gt;&lt;font color='#ffffff'&gt;，并使对方的法术与物理防御降低&lt;/font&gt;&lt;font color='#ffff00'&gt;30%&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;BR'&gt;" pak="skilldesc"/>
+<textConfig id = "6246" text="&lt;font color='#000000'&gt;&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;对当前目标造成&lt;/font&gt;&lt;font color='#ffff00'&gt;150%&lt;/font&gt;&lt;font color='#ffffff'&gt;基础攻击伤害、对一个&lt;/font&gt;&lt;font color='#ffffff'&gt;随机格子造成&lt;/font&gt;&lt;font color='#ffff00'&gt;200%&lt;/font&gt;&lt;font color='#ffffff'&gt;伤害、并降低被攻击目标&lt;/font&gt;&lt;font color='#ffff00'&gt;60%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6248" text="&lt;font color='#000000'&gt;&lt;font color='#00ff00'&gt;[主动]&lt;font color='#ffffff'&gt;使用自己&lt;/font&gt;&lt;font color='#ffff00'&gt;10%&lt;/font&gt;&lt;font color='#ffffff'&gt;生命值进行&lt;/font&gt;&lt;font color='#ffff00'&gt;血祭&lt;/font&gt;&lt;font color='#ffffff'&gt;，对正对目标造成&lt;/font&gt;&lt;font color='#ffff00'&gt;100%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害，并额&lt;/font&gt;&lt;font color='#ffffff'&gt;外对&lt;/font&gt;&lt;font color='#ffff00'&gt;2个&lt;/font&gt;&lt;font color='#ffffff'&gt;随机格子造成&lt;/font&gt;&lt;font color='#ffff00'&gt;200%&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6249" text="&lt;font color='#000000'&gt;&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;攻击时附带&lt;/font&gt;&lt;font color='#ffff00'&gt;30%&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;的吸血效果并且开战时给我方所有弓手增加伤害&lt;/font&gt;&lt;font color='#000000'&gt;&lt;font color='#00ff00'&gt;&lt;font color='#ffff00'&gt;4点&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6250" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;使敌方最后一竖排单位燃烧，同时目标虚弱，伤害减少&lt;/font&gt;&lt;font color='#ffff00'&gt;25%&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br'&gt;" pak="skilldesc"/>
+
+<textConfig id = "6251" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;开战时增加我方所有弓手&lt;/font&gt;&lt;font color='#ffff00'&gt;4点&lt;/font&gt;&lt;font color='#ffffff'&gt;伤害&lt;/font&gt;&lt;span style='color: rgb(255, 255, 0);'&gt;，&lt;/span&gt;&lt;span style='color: rgb(255, 255, 255);'&gt;每&lt;/span&gt;&lt;font color='#ffffff'&gt;次获得士气时额外多获得&lt;/font&gt;&lt;font color='#ffff00'&gt;3点&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+
+<textConfig id = "6252" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;自己的&lt;/font&gt;&lt;font color='#ffffff'&gt;增加生命值上限&lt;/font&gt;&lt;font color='#ffff00'&gt;50&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6253" text="&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;自己的闪避增加&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffff00'&gt;2.5%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6254" text="&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;自己的伤害&lt;/font&gt;&lt;font color='#ffffff'&gt;增加&lt;/font&gt;&lt;font color='#ffff00'&gt;6点&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6255" text="&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;我方全体部队伤害增加&lt;/font&gt;&lt;font color='#ffff00'&gt;2点&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6256" text="&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;我方全体单位法术伤害免疫提高&lt;/font&gt;&lt;font color='#ffff00'&gt;3%&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6257" text="&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;我方全体弓手伤害提高4&lt;/font&gt;&lt;font color='#ffff00'&gt;%&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6258" text="&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;我方全体步兵物理与法术防御提高4&lt;/font&gt;&lt;font color='#ffff00'&gt;%&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6259" text="&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;我方全体单位伤害提高3点&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6260" text="&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;我方第一排单位生命提高&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffff00'&gt;70点&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6261" text="&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;我方第一排单位每回合生命恢复&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffff00'&gt;2%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6262" text="&lt;font color='#00ff00'&gt;[光环]&lt;font color='#ffffff'&gt;我方全体单位生命增加&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffff00'&gt;40点&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6263" text="&lt;font color='#00ff00'&gt;[主动]&lt;font color='#ffffff'&gt;对敌方造成&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffff00'&gt;160%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害，&lt;/font&gt; &lt;font color='#ffffff'&gt;并使被攻击单位燃烧&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6264" text="&lt;font color='#00ff00'&gt;[主动]&lt;font color='#ffffff'&gt;对敌方造成&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffff00'&gt;300%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害，&lt;/font&gt; &lt;font color='#ffffff'&gt;并使被攻击单位的物理防御下降&lt;font color='#ffff00'&gt;50%&lt;font color='#ffffff'&gt;维持&lt;/font&gt;3回合&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+
+
+<textConfig id = "6268" text="&lt;font color='#000000'&gt;&lt;font color='#00ff00'&gt;[主动&lt;font color='#ffffff'&gt;]英雄单次伤害提高&lt;/font&gt;&lt;font color='#ffff00'&gt;250%&lt;/font&gt;&lt;font color='#ffffff'&gt;、并在&lt;/font&gt;&lt;font color='#ffff00'&gt;1回合&lt;/font&gt;&lt;font color='#ffffff'&gt;内，使我方第一竖排物理伤害免疫&lt;/font&gt;&lt;font color='#ffff00'&gt;20%&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6270" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;自己&lt;/font&gt;&lt;font color='#ffff00'&gt;每回合&lt;/font&gt;&lt;font color='#ffffff'&gt;增加&lt;/font&gt;&lt;font color='#ffff00'&gt;10点&lt;/font&gt;&lt;font color='#ffffff'&gt;士气。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6271" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;自己&lt;/font&gt;&lt;font color='#ffff00'&gt;每回合&lt;/font&gt;&lt;font color='#ffffff'&gt;增加&lt;/font&gt;&lt;font color='#ffff00'&gt;15点&lt;/font&gt;&lt;font color='#ffffff'&gt;士气。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6327" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;对敌方&lt;/font&gt;&lt;font color='#ffff00'&gt;全体&lt;/font&gt;&lt;font color='#ffffff'&gt;单位每回合减血&lt;/font&gt;&lt;font color='#ffff00'&gt;4%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害。&lt;/font&gt;" pak="skilldesc"/>
+<textConfig id = "6328" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;对敌方随机&lt;/font&gt;&lt;font color='#ffff00'&gt;3个&lt;/font&gt;&lt;font color='#ffffff'&gt;目标造成&lt;/font&gt;&lt;font color='#ffff00'&gt;234%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害，并附加&lt;/font&gt;&lt;font color='#ffff00'&gt;燃烧&lt;/font&gt;&lt;font color='#ffffff'&gt;效果，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak="skilldesc"/>
+<textConfig id = "6329" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;对敌方随机&lt;/font&gt;&lt;font color='#ffff00'&gt;3个&lt;/font&gt;&lt;font color='#ffffff'&gt;目标造成&lt;/font&gt;&lt;font color='#ffff00'&gt;281%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害，并附加&lt;/font&gt;&lt;font color='#ffff00'&gt;燃烧&lt;/font&gt;&lt;font color='#ffffff'&gt;效果，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak="skilldesc"/>
+<textConfig id = "6366" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;对被攻击的单位造成物理与法术破甲&lt;/font&gt;&lt;font color='#ffff00'&gt;14%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6367" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;对敌方第一排单位造成物理与法术破甲&lt;/font&gt;&lt;font color='#ffff00'&gt;15%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6368" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;对敌方第一排单位造成物理与法术破甲&lt;/font&gt;&lt;font color='#ffff00'&gt;30%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;1回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6369" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;以自身攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;40%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害追加攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;敌方第二排单位&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6370" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;造成敌人第一排单位物理与法术破甲&lt;/font&gt;&lt;font color='#ffff00'&gt;17%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6371" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;以自身攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;45%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害追加攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;敌方第二排单位&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6372" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;以自身攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;60%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;随机的一个敌人目标&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6373" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;使敌人随机2个格子内的单位攻击下降&lt;/font&gt;&lt;font color='#ffff00'&gt;42%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6374" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;被攻击的目标物法术防御降低&lt;/font&gt;&lt;font color='#ffff00'&gt;11%&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6375" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;使敌人随机3个格子内的单位攻击下降&lt;/font&gt;&lt;font color='#ffff00'&gt;35%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6376" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;随机使2个格子内的敌人单位&lt;/font&gt;&lt;font color='#ffff00'&gt;燃烧&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6377" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;随机使敌方2个格子内的单位攻击下降&lt;/font&gt;&lt;font color='#ffff00'&gt;45%&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6378" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;随机使敌方3个格子内的单位&lt;/font&gt;&lt;font color='#ffff00'&gt;燃烧&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6379" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;随机使敌方某个格子内的单位&lt;/font&gt;&lt;font color='#ffff00'&gt;80%&lt;/font&gt;&lt;font color='#ffffff'&gt;概率冻结持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+
+<textConfig id = "6380" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;恢复我方第一排单位生命&lt;/font&gt;&lt;font color='#ffff00'&gt;10%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak=""/>
+
+<textConfig id = "6381" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;以自身攻击的&lt;/font&gt;&lt;font color='#ffff00'&gt;85%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害追加攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;随机的3个敌人&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+
+<textConfig id = "6382" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;随机对敌方&lt;/font&gt;&lt;font color='#ffff00'&gt;2个目标&lt;/font&gt;&lt;font color='#ffffff'&gt;造成目前攻击力&lt;/font&gt;&lt;font color='#ffff00'&gt;40%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害。&lt;/font&gt;&lt;br&gt;" pak=""/>
+
+<textConfig id = "6382" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;随机对敌方2个格子内的单位以&lt;/font&gt;&lt;font color='#ffff00'&gt;80%&lt;/font&gt;&lt;font color='#ffffff'&gt;的概率形成冻结，维持&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+
+<textConfig id = "6383" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方第三排士兵永久增加&lt;/font&gt;&lt;font color='#ffff00'&gt;7点&lt;/font&gt;&lt;font color='#ffffff'&gt;伤害。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6384" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方第一排士兵法术防御永久提高&lt;/font&gt;&lt;font color='#ffff00'&gt;8%&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6385" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方第一排士兵物理防御永久提高&lt;/font&gt;&lt;font color='#ffff00'&gt;5%&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6386" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方第二排士兵永久增加&lt;/font&gt;&lt;font color='#ffff00'&gt;6点&lt;/font&gt;&lt;font color='#ffffff'&gt;伤害。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6387" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方第一排士兵在获取士气时，可以额外得到&lt;/font&gt;&lt;font color='#ffff00'&gt;4点&lt;/font&gt;&lt;font color='#ffffff'&gt;加成。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6388" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方第三排士兵永久增加&lt;/font&gt;&lt;font color='#ffff00'&gt;10点&lt;/font&gt;&lt;font color='#ffffff'&gt;伤害。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6389" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;对敌方第一、二排单位造成物理与法术破甲&lt;/font&gt;&lt;font color='#ffff00'&gt;18%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6390" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;以自身攻击的&lt;/font&gt;&lt;font color='#ffff00'&gt;50%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害追加攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;敌方第二排单位&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+
+<textConfig id = "6391" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;使敌方第二排单位攻击下降&lt;/font&gt;&lt;font color='#ffff00'&gt;38%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+
+<textConfig id = "6392" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;我方第二排士兵伤害增加&lt;/font&gt;&lt;font color='#ffff00'&gt;14%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;4回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6393" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;我方最后一排士兵伤害增加&lt;/font&gt;&lt;font color='#ffff00'&gt;12%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;3回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6394" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方第一排和第二排士兵法术防御永久提高&lt;/font&gt;&lt;font color='#ffff00'&gt;9%&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6395" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方第一排士兵物理防御永久提高&lt;/font&gt;&lt;font color='#ffff00'&gt;14%&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6396" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方第二排士兵永久增加&lt;/font&gt;&lt;font color='#ffff00'&gt;12点&lt;/font&gt;&lt;font color='#ffffff'&gt;伤害。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6397" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;被攻击的目标物理破甲&lt;/font&gt;&lt;font color='#ffff00'&gt;12%&lt;/font&gt;&lt;font color='#ffffff'&gt;,持续&lt;/font&gt;&lt;font color='#ffff00'&gt;1回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6398" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方全体士兵增加&lt;/font&gt;&lt;font color='#ffff00'&gt;100点&lt;/font&gt;&lt;font color='#ffffff'&gt;生命上限。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6399" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使我方全体士兵增加&lt;/font&gt;&lt;font color='#ffff00'&gt;10%&lt;/font&gt;&lt;font color='#ffffff'&gt;伤害。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6400" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使自己物理防御永久提高&lt;/font&gt;&lt;font color='#ffff00'&gt;10%&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6401" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使自己法术防御永久提高&lt;/font&gt;&lt;font color='#ffff00'&gt;10%&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6402" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使自己永久增加&lt;/font&gt;&lt;font color='#ffff00'&gt;10%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6403" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使自己永久增加&lt;/font&gt;&lt;font color='#ffff00'&gt;5%&lt;/font&gt;&lt;font color='#ffffff'&gt;的吸血。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6404" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;使自己获取士气时，可以额外得到&lt;/font&gt;&lt;font color='#ffff00'&gt;5点&lt;/font&gt;&lt;font color='#ffffff'&gt;加成。&lt;/font&gt;&lt;br&gt;" pak=""/>
+
+<textConfig id = "6405" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方第一排&lt;/font&gt;&lt;font color='#ffff00'&gt;5%&lt;/font&gt;&lt;font color='#ffffff'&gt;法术防御免疫。&lt;/font&gt;&lt;span style='background-color: rgb(0, 0, 0);'&gt;&lt;/span&gt;&lt;font color='#ffffff'&gt;&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6406" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方所有步兵单位&lt;/font&gt;&lt;font color='#ffff00'&gt;50&lt;/font&gt;&lt;font color='#ffffff'&gt;点生命。&lt;/font&gt;&lt;span style='background-color: rgb(0, 0, 0);'&gt;&lt;/span&gt;&lt;font color='#ffffff'&gt;&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6407" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方所有机械单位&lt;/font&gt;&lt;font color='#ffff00'&gt;6&lt;/font&gt;&lt;font color='#ffffff'&gt;点伤害。&lt;/font&gt;&lt;span style='background-color: rgb(0, 0, 0);'&gt;&lt;/span&gt;&lt;font color='#ffffff'&gt;&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6408" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方所有法师单位&lt;/font&gt;&lt;font color='#ffff00'&gt;6&lt;/font&gt;&lt;font color='#ffffff'&gt;点伤害。&lt;/font&gt;&lt;span style='background-color: rgb(0, 0, 0);'&gt;&lt;/span&gt;&lt;font color='#ffffff'&gt;&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6409" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方所有弓手单位&lt;/font&gt;&lt;font color='#ffff00'&gt;6&lt;/font&gt;&lt;font color='#ffffff'&gt;点伤害。&lt;/font&gt;&lt;span style='background-color: rgb(0, 0, 0);'&gt;&lt;/span&gt;&lt;font color='#ffffff'&gt;&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6410" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;减少敌方第一排单位物理防御&lt;/font&gt;&lt;font color='#ffff00'&gt;10%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;span style='background-color: rgb(0, 0, 0);'&gt;&lt;/span&gt;&lt;font color='#ffffff'&gt;&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6411" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方第一排单位物理与法术防御&lt;/font&gt;&lt;font color='#ffff00'&gt;10%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;span style='background-color: rgb(0, 0, 0);'&gt;&lt;/span&gt;&lt;font color='#ffffff'&gt;&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6412" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;我方第一排单位每回合恢复&lt;/font&gt;&lt;font color='#ffff00'&gt;3%&lt;/font&gt;&lt;font color='#ffffff'&gt;的生命。&lt;/font&gt;&lt;span style='background-color: rgb(0, 0, 0);'&gt;&lt;/span&gt;&lt;font color='#ffffff'&gt;&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6413" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;我方第一排单位每次获得士气时可额外多得&lt;/font&gt;&lt;font color='#ffff00'&gt;3&lt;/font&gt;&lt;font color='#ffffff'&gt;点。&lt;/font&gt;&lt;span style='background-color: rgb(0, 0, 0);'&gt;&lt;/span&gt;&lt;font color='#ffffff'&gt;&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6414" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方第一排单位生命&lt;/font&gt;&lt;font color='#ffff00'&gt;100点&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6415" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方第二排单位暴击&lt;/font&gt;&lt;font color='#ffff00'&gt;100%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6416" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;每回合恢复我方第一排单位生命&lt;/font&gt;&lt;font color='#ffff00'&gt;4%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6417" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方第二第三排单位伤害&lt;/font&gt;&lt;font color='#ffff00'&gt;10%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6418" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;减少敌方第二第三排单位伤害&lt;/font&gt;&lt;font color='#ffff00'&gt;15%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+<textConfig id = "6419" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方全部单位的物理防御与法术防御&lt;/font&gt;&lt;font color='#ffff00'&gt;15%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak=""/>
+<textConfig id = "6420" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;降低敌方全体单位伤害&lt;/font&gt;&lt;font color='#ffff00'&gt;15%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak=""/>
+
+<textConfig id = "6421" text="&lt;font color='#00ff00'&gt;[光环]&lt;/font&gt;&lt;font color='#ffffff'&gt;增加我方所有步兵单位生命&lt;/font&gt;&lt;font color='#ffff00'&gt;45点&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak=""/>
+
+<textConfig id = "6422" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;随机使敌人某格子内的单位攻击下降&lt;/font&gt;&lt;font color='#ffff00'&gt;16%&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+
+<textConfig id = "6423" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;随机使敌人某3格子内的单位攻击下降&lt;/font&gt;&lt;font color='#ffff00'&gt;30%&lt;/font&gt;&lt;font color='#ffffff'&gt;，持续&lt;/font&gt;&lt;font color='#ffff00'&gt;2回合&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+
+<textConfig id = "6424" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;恢复我方第一排单位生命&lt;/font&gt;&lt;font color='#ffff00'&gt;7%&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;" pak=""/>
+
+<textConfig id = "6425" text="&lt;font color='#00ff00'&gt;[主动]&lt;/font&gt;&lt;font color='#ffffff'&gt;以自身攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;50%&lt;/font&gt;&lt;font color='#ffffff'&gt;的伤害随机攻击&lt;/font&gt;&lt;font color='#ffff00'&gt;敌方2个单位&lt;/font&gt;&lt;font color='#ffffff'&gt;。&lt;/font&gt;&lt;br&gt;" pak=""/>
+
+
+
+
+
+
+<textConfig id = "7001" text="晕锤" pak="daoju"/>
+<textConfig id = "7002" text="加血" pak="daoju"/>
+
+<textConfig id = "7101" text="使被选中玩家停止行动{0}秒" pak="daojutips"/>
+
+<textConfig id = "8000" text="综合" pak="chat"/>
+<textConfig id = "8001" text="世界" pak="chat"/>
+<textConfig id = "8002" text="军团" pak="chat"/>
+<textConfig id = "8003" text="私聊" pak="chat"/>
+<textConfig id = "8004" text="查看信息" pak="chat"/>
+<textConfig id = "8005" text="加为好友" pak="chat"/>
+<textConfig id = "8006" text="发起私聊" pak="chat"/>
+<textConfig id = "8007" text="屏蔽玩家" pak="chat"/>
+<textConfig id = "8008" text="系统" pak="chat"/>
+<textConfig id = "8009" text="【{0}】" pak="chat"/>
+<textConfig id = "8010" text="发送目标不在线" pak="chat"/>
+<textConfig id = "8011" text="发送频率太快，禁止发言" pak="chat"/>
+<textConfig id = "8012" text="频道不存在" pak="chat"/>
+<textConfig id = "8013" text="发送的字符串不符合规定" pak="chat"/>
+<textConfig id = "8014" text="物品不存在" pak="chat"/>
+<textConfig id = "8015" text="队伍" pak="chat"/>
+<textConfig id = "8016" text="场景" pak="chat"/>
+<textConfig id = "8017" text="玩家不存在" pak="chat"/>
+<textConfig id = "8018" text="{0}：{1}" pak="chat"/>
+<textConfig id = "8019" text="{0}对你说:{1}" pak="chat"/>
+<textConfig id = "8020" text="你对{0}说：{1}" pak="chat"/>
+<textConfig id = "8021" text="不能对自己发言" pak="chat"/>
+<textConfig id = "8022" text="发送的字符串超过了规定的长度" pak="chat"/>
+<textConfig id = "8023" text="等级低于{0}级不能在世界频道发言" pak="chat"/>
+
+<textConfig id = "9000" text="系统军团" pak="guild"/>
+<textConfig id = "9001" text="玩家军团" pak="guild"/>
+<textConfig id = "9002" text="建立自己的军团" pak="guild"/>
+<textConfig id = "9003" text="输入军团名称" pak="guild"/>
+<textConfig id = "9004" text="点击选择军团图标" pak="guild"/>
+<textConfig id = "9005" text="创建军团需要&lt;font color='#cc9933'&gt;{0}&lt;/font&gt;的金币" pak="guild"/>
+<textConfig id = "9006" text="我要发言" pak="guild"/>
+<textConfig id = "9007" text="提高在副本地图中的经验获得{0}%" pak="guild"/>
+<textConfig id = "9008" text="提高在战斗获得的游戏币{0}%" pak="guild"/>
+<textConfig id = "9009" text="主城防守单位伤害提高{0}" pak="guild"/>
+<textConfig id = "9010" text="主城城墙量血提高{0}" pak="guild"/>
+<textConfig id = "9011" text="所有出战阵上机械单位伤害提高{0}" pak="guild"/>
+<textConfig id = "9012" text="卡片价格降低{0}%" pak="guild"/>
+<textConfig id = "9013" text="{0}物理防御力提高{1}" pak="guild"/>
+<textConfig id = "9014" text="{0}法术防御力提高{1}" pak="guild"/>
+<textConfig id = "9015" text="{0}法术攻击力提高{1}" pak="guild"/>
+<textConfig id = "9016" text="{0}带兵量提高{1}" pak="guild"/>
+<textConfig id = "9017" text="{0}物理攻击力提高{1}" pak="guild"/>
+<textConfig id = "9018" text="当军团达到{0}级时，" pak="guild"/>
+<textConfig id = "9019" text="大于{0}级的玩家" pak="guild"/>
+<textConfig id = "9020" text="军团名" pak="guild"/>
+<textConfig id = "9021" text="团长" pak="guild"/>
+<textConfig id = "9022" text="人数" pak="guild"/>
+<textConfig id = "9023" text="我的贡献" pak="guild"/>
+<textConfig id = "9024" text="捐钱" pak="guild"/>
+<textConfig id = "9025" text="捐款金额" pak="guild"/>
+<textConfig id = "9026" text="{0}金币={1}贡献" pak="guild"/>
+<textConfig id = "9027" text="上钱" pak="guild"/>
+<textConfig id = "9028" text="活动发言板" pak="guild"/>
+<textConfig id = "9029" text="发言" pak="guild"/>
+<textConfig id = "9030" text="贡献" pak="guild"/>
+<textConfig id = "9031" text="目前状态" pak="guild"/>
+<textConfig id = "9032" text="活跃度" pak="guild"/>
+<textConfig id = "9033" text="在线" pak="guild"/>
+<textConfig id = "9034" text="不在线" pak="guild"/>
+<textConfig id = "9035" text="发邮件" pak="guild"/>
+<textConfig id = "9036" text="加入军团" pak="guild"/>
+<textConfig id = "9037" text="指定的军团不存在" pak="guild"/>
+<textConfig id = "9038" text="军团名不能为空" pak="guild"/>
+<textConfig id = "9039" text="军团名已经重复" pak="guild"/>
+<textConfig id = "9040" text="军团名不符合规定" pak="guild"/>
+<textConfig id = "9041" text="军团名称超过最大限定数" pak="guild"/>
+<textConfig id = "9042" text="出错了，军团创建不成功" pak="guild"/>
+<textConfig id = "9043" text="拥有{0}其中{1}人且等级大于{2}" pak="guild"/>
+<textConfig id = "9044" text="军团功能{0}" pak="guild"/>
+<textConfig id = "9045" text="加入条件" pak="guild"/>
+<textConfig id = "9046" text="军团成员" pak="guild"/>
+<textConfig id = "9047" text="{1}{2}属性+{3}" pak="guild"/>
+<textConfig id = "9048" text="{0}技能攻击提升{1}" pak="guild"/>
+<textConfig id = "9049" text="{0}物理、法术攻击力{1}" pak="guild"/>
+<textConfig id = "9050" text="{0}物理、法术防御力{1}" pak="guild"/>
+<textConfig id = "9051" text="玩家名" pak="guild"/>
+<textConfig id = "9052" text="发言不能为空" pak="guild"/>
+<textConfig id = "9053" text="发言长度超过了最大限定数" pak="guild"/>
+<textConfig id = "9054" text="不是指定军团的成员" pak="guild"/>
+<textConfig id = "9055" text="每天发言次数不得超过{0}次" pak="guild"/>
+<textConfig id = "9056" text="只有军团长才有权限删除留言" pak="guild"/>
+<textConfig id = "9057" text="只有军团长才有权限开除成员" pak="guild"/>
+<textConfig id = "9058" text="一个人只能加入一个用户军团" pak="guild"/>
+<textConfig id = "9059" text="只有活跃度低于{0}%的军团成员才可以被开除" pak="guild"/>
+<textConfig id = "9060" text="捐款额不足一个贡献点" pak="guild"/>
+<textConfig id = "9061" text="不符合入团条件" pak="guild"/>
+<textConfig id = "9062" text="军团成员已经满了" pak="guild"/>
+<textConfig id = "9063" text="{0}申请加入军团" pak="guild"/>
+<textConfig id = "9064" text="入团申请已经发送" pak="guild"/>
+<textConfig id = "9065" text="申请加入此军团的人数过多，您的申请未成功" pak="guild"/>
+<textConfig id = "9066" text="不是军团长没有权利处理入团申请" pak="guild"/>
+<textConfig id = "9067" text="军团长不能开除自己" pak="guild"/>
+<textConfig id = "9068" text="退出军团" pak="guild"/>
+<textConfig id = "9069" text="解散军团" pak="guild"/>
+<textConfig id = "9070" text="不是军团长不能解散军团" pak="guild"/>
+<textConfig id = "9071" text="确定解散军团吗？解散后的军团将不能恢复。" pak="guild"/>
+<textConfig id = "9072" text="确定要退出军团么？" pak="guild"/>
+<textConfig id = "9073" text="您的发言中包含非法字符" pak="guild"/>
+<textConfig id = "9074" text="您今日的捐款金额已经到达{0}上限。" pak="guild"/>
+<textConfig id = "9075" text="军团人数已满。" pak="guild"/>
+<textConfig id = "9076" text="加入的军团不能超过{0}个。" pak="guild"/>
+<textConfig id = "9077" text="捐款金额不能超过{0}上限。" pak="guild"/>
+<textConfig id = "9078" text="地址" pak="guild"/>
+<textConfig id = "9079" text="频道" pak="guild"/>
+<textConfig id = "9080" text="职务" pak="guild"/>
+<textConfig id = "9081" text="副团长" pak="guild"/>
+<textConfig id = "9082" text="军团工资" pak="guild"/>
+
+
+
+<textConfig id = "10000" text="物攻增益1级" pak="suitskill"/>
+<textConfig id = "10001" text="物攻增益2级" pak="suitskill"/>
+<textConfig id = "10002" text="物攻增益3级" pak="suitskill"/>
+<textConfig id = "10003" text="物攻增益4级" pak="suitskill"/>
+<textConfig id = "10004" text="物攻增益5级" pak="suitskill"/>
+<textConfig id = "10005" text="物防增益1级" pak="suitskill"/>
+<textConfig id = "10006" text="物防增益2级" pak="suitskill"/>
+<textConfig id = "10007" text="物防增益3级" pak="suitskill"/>
+<textConfig id = "10008" text="物防增益4级" pak="suitskill"/>
+<textConfig id = "10009" text="物防增益5级" pak="suitskill"/>
+<textConfig id = "10010" text="法攻增益1级" pak="suitskill"/>
+<textConfig id = "10011" text="法攻增益2级" pak="suitskill"/>
+<textConfig id = "10012" text="法攻增益3级" pak="suitskill"/>
+<textConfig id = "10013" text="法攻增益4级" pak="suitskill"/>
+<textConfig id = "10014" text="法攻增益5级" pak="suitskill"/>
+<textConfig id = "10015" text="法抗增益1级" pak="suitskill"/>
+<textConfig id = "10016" text="法抗增益2级" pak="suitskill"/>
+<textConfig id = "10017" text="法抗增益3级" pak="suitskill"/>
+<textConfig id = "10018" text="法抗增益4级" pak="suitskill"/>
+<textConfig id = "10019" text="法抗增益5级" pak="suitskill"/>
+<textConfig id = "10020" text="带兵增益1级" pak="suitskill"/>
+<textConfig id = "10021" text="带兵增益2级" pak="suitskill"/>
+<textConfig id = "10022" text="带兵增益3级" pak="suitskill"/>
+<textConfig id = "10023" text="带兵增益4级" pak="suitskill"/>
+<textConfig id = "10024" text="带兵增益5级" pak="suitskill"/>
+<textConfig id = "10025" text="士兵伤害1级" pak="suitskill"/>
+<textConfig id = "10026" text="士兵伤害2级" pak="suitskill"/>
+<textConfig id = "10027" text="士兵伤害3级" pak="suitskill"/>
+<textConfig id = "10028" text="士兵伤害4级" pak="suitskill"/>
+<textConfig id = "10029" text="士兵伤害5级" pak="suitskill"/>
+<textConfig id = "10030" text="士兵生命1级" pak="suitskill"/>
+<textConfig id = "10031" text="士兵生命2级" pak="suitskill"/>
+<textConfig id = "10032" text="士兵生命3级" pak="suitskill"/>
+<textConfig id = "10033" text="士兵生命4级" pak="suitskill"/>
+<textConfig id = "10034" text="士兵生命5级" pak="suitskill"/>
+<textConfig id = "10035" text="暴击增益1级" pak="suitskill"/>
+<textConfig id = "10036" text="暴击增益2级" pak="suitskill"/>
+<textConfig id = "10037" text="暴击增益3级" pak="suitskill"/>
+<textConfig id = "10038" text="暴击增益4级" pak="suitskill"/>
+<textConfig id = "10039" text="暴击增益5级" pak="suitskill"/>
+<textConfig id = "10040" text="闪避增益1级" pak="suitskill"/>
+<textConfig id = "10041" text="闪避增益2级" pak="suitskill"/>
+<textConfig id = "10042" text="闪避增益3级" pak="suitskill"/>
+<textConfig id = "10043" text="闪避增益4级" pak="suitskill"/>
+<textConfig id = "10044" text="闪避增益5级" pak="suitskill"/>
+<textConfig id = "10045" text="技能增益1级" pak="suitskill"/>
+<textConfig id = "10046" text="技能增益2级" pak="suitskill"/>
+<textConfig id = "10047" text="技能增益3级" pak="suitskill"/>
+<textConfig id = "10048" text="技能增益4级" pak="suitskill"/>
+<textConfig id = "10049" text="技能增益5级" pak="suitskill"/>
+
+<textConfig id = "20000" text="宝箱里空空如也" pak="ui"/>
+<textConfig id = "20001" text="敌人还在休息" pak="ui"/>
+<textConfig id = "20002" text="" pak="ui"/>
+<textConfig id = "20003" text="充值{0}元宝成功！{1}" pak="ui"/>
+<textConfig id = "20004" text="寻宝武将等级越高，收获越多，得兑换券的概率越大(武将寻宝冷却中，主将寻宝)" pak="ui"/>
+<textConfig id = "20005" text="派出自己寻宝" pak="ui"/>
+<textConfig id = "20006" text="充值达到VIP{0}" pak="ui"/>
+<textConfig id = "20007" text="确定要将主将技恢复到原始状态吗？确定后将无法恢复。" pak="ui"/>
+<textConfig id = "20008" text="防御加成最多只能拥有{1}个" pak="ui"/>
+<textConfig id = "20009" text="{0}加成不能拥有多个，请等现有的过期后再试" pak="ui"/>
+<textConfig id = "20010" text="持续时间" pak="ui"/>
+<textConfig id = "20011" text="更换守将后会重新开始生产，确定吗？" pak="ui"/>
+<textConfig id = "20012" text="要放弃这个城吗？" pak="ui"/>
+<textConfig id = "20013" text="不能发送空白邮件" pak="ui"/>
+<textConfig id = "20014" text="星期日" pak="ui"/>
+<textConfig id = "20015" text="星期一" pak="ui"/>
+<textConfig id = "20016" text="星期二" pak="ui"/>
+<textConfig id = "20017" text="星期三" pak="ui"/>
+<textConfig id = "20018" text="星期四" pak="ui"/>
+<textConfig id = "20019" text="星期五" pak="ui"/>
+<textConfig id = "20020" text="星期六" pak="ui"/>
+<textConfig id = "20021" text="确定" pak="ui"/>
+<textConfig id = "20022" text="取消" pak="ui"/>
+<textConfig id = "20023" text="请选择守将" pak="ui"/>
+<textConfig id = "20024" text="全部删除" pak="ui"/>
+<textConfig id = "20025" text="编辑" pak="ui"/>
+<textConfig id = "20026" text="请至少选择一封邮件删除" pak="ui"/>
+<textConfig id = "20027" text="将会删除与该玩家的所有邮件，确定继续吗？" pak="ui"/>
+
+<textConfig id = "20029" text="排行榜前16名可以参加下一届争霸赛" pak="ui"/>
+<textConfig id = "20030" text="争霸赛已结束" pak="ui"/>
+<textConfig id = "20031" text="你不在上一届排行的前16位，无法参加争霸赛，请在这一届排行榜多多努力。" pak="ui"/>
+<textConfig id = "20032" text="每日" pak="ui"/>
+<textConfig id = "20033" text="排行榜不足{0}人无法开赛" pak="ui"/>
+<textConfig id = "20034" text="兑换券" pak="ui"/>
+<textConfig id = "20035" text="今日已领完" pak="ui"/>
+<textConfig id = "20036" text="第{0}届" pak="ui"/>
+<textConfig id = "20037" text="Vip精力赠送" pak="ui"/>
+<textConfig id = "20038" text="该城已被放弃" pak="ui"/>
+<textConfig id = "20039" text="所有武将都已出战或在忙，已经没有可用的武将。" pak="ui"/>
+<textConfig id = "20040" text="{0}" pak="ui"/>
+<textConfig id = "20041" text="再开一次" pak="ui"/>
+<textConfig id = "20042" text="快去客栈里面镶嵌五行石吧" pak="ui"/>
+<textConfig id = "20043" text="编辑" pak="ui"/>
+<textConfig id = "20044" text="今天还以参加{0}次" pak="ui"/>
+<textConfig id = "20045" text="退出房间" pak="ui"/>
+<textConfig id = "20046" text="今天不能再参加此活动了" pak="ui"/>
+<textConfig id = "20047" text="充值奖励" pak="ui"/>
+<textConfig id = "20048" text="{0}占领的野城被放弃了" pak="ui"/>
+<textConfig id = "20049" text="{0}被解除了内政职务" pak="ui"/>
+<textConfig id = "20050" text="{0}挑战了你" pak="ui"/>
+<textConfig id = "20051" text="你被{0}斩杀了，征程结束，一共取得{1}金币" pak="ui"/>
+<textConfig id = "20052" text="目前没有可以被邀请的玩家" pak="ui"/>
+<textConfig id = "20053" text="今天不能再刷新玩家了" pak="ui"/>
+<textConfig id = "20054" text="已经是你的联系人了，请勿重复添加" pak="ui"/>
+<textConfig id = "20055" text="添加联系人成功！" pak="ui"/>
+<textConfig id = "20056" text="最多只能添加{0}联系人。" pak="ui"/>
+<textConfig id = "20057" text="想要的东西没从宝箱里拿到？" pak="ui"/>
+<textConfig id = "20058" text="删除该玩家的所有邮件后，他将不再是你的好友，确定继续么？" pak="ui"/>
+<textConfig id = "20059" text="该玩家还不是你的好友，删除后将无法在联系人中找到他，确定继续么？" pak="ui"/>
+<textConfig id = "20060" text="昨天" pak="ui"/>
+<textConfig id = "20061" text="在线好友" pak="ui"/>
+<textConfig id = "20062" text="在线玩家" pak="ui"/>
+<textConfig id = "20063" text="是否花费{0}元宝购买晕锤道具？" pak="ui"/>
+<textConfig id = "20064" text="没有加血道具了" pak="ui"/>
+<textConfig id = "20065" text="收藏游戏到&lt;font size='20px' color='#00ff00'&gt;收藏夹&lt;/font&gt;可以获得&lt;font color='#00ff00'&gt;{0}元宝&lt;/font&gt;奖励。" pak="ui"/>
+<textConfig id = "20066" text="是否收藏游戏到&lt;font size='20px' color='#00ff00'&gt;收藏夹&lt;/font&gt;？" pak="ui"/>
+<textConfig id = "20067" text="阵型上所有单位生命回复{0}%" pak="ui"/>
+<textConfig id = "20068" text="分享部分好友" pak="ui"/>
+<textConfig id = "20069" text="分享所有好友" pak="ui"/>
+<textConfig id = "20070" text="此任务需要手动提交" pak="ui"/>
+<textConfig id = "20071" text="完成" pak="ui"/>
+<textConfig id = "20072" text="是否使用{0}元宝或礼金完成此任务？" pak="ui"/>
+<textConfig id = "20073" text="只能完成日常任务" pak="ui"/>
+<textConfig id = "20074" text="你没有此项特权" pak="ui"/>
+<textConfig id = "20075" text="活动奖励" pak="ui"/>
+<textConfig id = "20076" text="继承吸收属性的装备" pak="ui"/>
+<textConfig id = "20077" text="被吸收的装备" pak="ui"/>
+<textConfig id = "20078" text="吸收成功" pak="ui"/>
+<textConfig id = "20079" text="选择被吸收的装备" pak="ui"/>
+<textConfig id = "20080" text="试穿效果" pak="ui"/>
+<textConfig id = "20081" text="兵营缺兵" pak="ui"/>
+<textConfig id = "20082" text="&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;的精力不足，战斗开始失败" pak="ui"/>
+<textConfig id = "20083" text="队友" pak="ui"/>
+<textConfig id = "20084" text="正在获取系统信息..." pak="ui"/>
+<textConfig id = "20085" text="vip&lt;FONT color='#FFF100'&gt;{0}级&lt;/FONT&gt;直接解锁" pak="ui"/>
+<textConfig id = "20086" text="收藏" pak="ui"/>
+<textConfig id = "20087" text="&lt;FONT size='12'&gt;忘记游戏地址搜索【{0} 谁主三国】,并请您牢记帐号【&lt;FONT color='#ff0000'&gt;{1}&lt;/FONT&gt;】。&lt;/FONT&gt;" pak="ui"/>
+<textConfig id = "20088" text="&lt;FONT color='#ff0000'&gt;{0}&lt;/FONT&gt;的精力不足，需要&lt;FONT color='#ff0000'&gt;{1}&lt;/FONT&gt;精力" pak="ui"/>
+<textConfig id = "20089" text="消耗&lt;FONT color='#00ff00'&gt;{0}&lt;/FONT&gt;精力" pak="ui"/>
+<textConfig id = "20090" text="活跃度奖励" pak="ui"/>
+<textConfig id = "20091" text="招募条件" pak="ui"/>
+<textConfig id = "20092" text="招募条件尚未完成" pak="ui"/>
+<textConfig id = "20093" text="点活跃度" pak="ui"/>
+<textConfig id = "20094" text="当前兵种" pak="ui"/>
+<textConfig id = "20095" text="可升至{0}级" pak="ui"/>
+<textConfig id = "20096" text="即将开放" pak="ui"/>
+<textConfig id = "20097" text="&lt;FONT color='#ff0000'&gt;明天&lt;/FONT&gt;登陆，可获得&lt;FONT color='#00ff00'&gt;{0}&lt;/FONT&gt;次免费炼金机会" pak="ui"/>
+<textConfig id = "20098" text="请先领取低级别奖励" pak="ui"/>
+<textConfig id = "20100" text="组队进入时精力消耗减半" pak="ui"/>
+<textConfig id = "20101" text="主英雄训练不能加速" pak="ui"/>
+<textConfig id = "20102" text="等级超过主英雄的副英雄训练无法加速" pak="ui"/>
+<textConfig id = "20103" text="{0}元宝立刻完成训练，将获得{1}经验，升至&lt;FONT color='#19fe19'&gt;{2}级&lt;/FONT&gt;！" pak="ui"/>
+<textConfig id = "20104" text="士兵徽章不能出售！" pak="ui"/>
+<textConfig id = "20105" text="触发概率{0}%" pak="ui"/>
+<textConfig id = "20106" text="升级成功" pak="ui"/>
+<textConfig id = "20107" text="已拥有" pak="ui"/>
+<textConfig id = "20108" text="已装备" pak="ui"/>
+<textConfig id = "20109" text="第{0}天" pak="ui"/>
+<textConfig id = "20110" text="解除技能等级限制" pak="ui"/>
+<textConfig id = "20111" text="未达成" pak="ui"/>
+<textConfig id = "20112" text=",使用{0}元宝可解除该技能等级限制" pak="ui"/>
+<textConfig id = "20113" text="雇佣兵" pak="ui"/>
+<textConfig id = "20114" text="即将开启" pak="ui"/>
+<textConfig id = "20115" text="恭喜你开启了 &lt;FONT color='#19fe19'&gt;{0}&lt;/FONT&gt; 功能" pak="ui"/>
+<textConfig id = "20116" text="得到了新的兵种纹章" pak="ui"/>
+<textConfig id = "20117" text="得到了新的五行石" pak="ui"/>
+<textConfig id = "20118" text="得到了新的卡片" pak="ui"/>
+<textConfig id = "20119" text="还有{0}件装备可强化" pak="ui"/>
+<textConfig id = "20200" text="还可解锁{0}个阵形格子" pak="ui"/>
+<textConfig id = "20201" text="可升级" pak="ui"/>
+<textConfig id = "20202" text="还有{0}个战斗科技未升级" pak="ui"/>
+<textConfig id = "20203" text="还有{0}个战斗科技未解锁" pak="ui"/>
+<textConfig id = "20204" text="兵力不足" pak="ui"/>
+<textConfig id = "20205" text="还可上阵{0}个英雄" pak="ui"/>
+<textConfig id = "20206" text="还可上阵{0}个士兵" pak="ui"/>
+<textConfig id = "20207" text="尝试锻造新的武器获得能力的提升" pak="ui"/>
+<textConfig id = "20208" text="可招募" pak="ui"/>
+<textConfig id = "20209" text="尝试给武将镶嵌五行石" pak="ui"/>
+<textConfig id = "20210" text="可以尝试新的兵种" pak="ui"/>
+<textConfig id = "20211" text="未训练升级" pak="ui"/>
+<textConfig id = "20212" text="还有{0}件装备可穿着" pak="ui"/>
+<textConfig id = "20213" text="我要变强" pak="ui"/>
+<textConfig id = "20214" text="状元" pak="ui"/>
+<textConfig id = "20215" text="榜眼" pak="ui"/>
+<textConfig id = "20216" text="探花" pak="ui"/>
+<textConfig id = "20217" text="有新装备可锻造" pak="ui"/>
+<textConfig id = "20218" text="锻造" pak="ui"/>
+<textConfig id = "20219" text="该技能没有等级限制" pak="ui"/>
+<textConfig id = "20220" text="当前没有此排行榜奖励" pak="ui"/>
+<textConfig id = "20221" text="3级解锁" pak="ui"/>
+<textConfig id = "20222" text="完成名匠任务大概10级解锁" pak="ui"/>
+<textConfig id = "20223" text="解救长戟兵大概12级解锁" pak="ui"/>
+<textConfig id = "20224" text="击败董卓大概15级解锁" pak="ui"/>
+<textConfig id = "20225" text="35级解锁" pak="ui"/>
+<textConfig id = "20226" text="完成名匠任务大概10级解锁" pak="ui"/>
+<textConfig id = "20227" text="官府升级到31级解锁" pak="ui"/>
+<textConfig id = "20228" text="&lt;FONT color='#00ff00'&gt;材料&lt;/FONT&gt;不足，您可以" pak="ui"/>
+
+<textConfig id = "20229" text="使用" pak="ui"/>
+<textConfig id = "20230" text="该兵种纹章尚未获得" pak="ui"/>
+<textConfig id = "20231" text="尚未获得" pak="ui"/>
+<textConfig id = "20232" text="选择目标" pak="ui"/>
+<textConfig id = "20233" text="等待生效" pak="ui"/>
+<textConfig id = "20234" text="可以通过以下方式获得" pak="ui"/>
+<textConfig id = "20235" text="{0}%" pak="ui"/>
+<textConfig id = "20236" text="-{0}%" pak="ui"/>
+<textConfig id = "20237" text="{0}" pak="ui"/>
+<textConfig id = "20238" text="-{0}" pak="ui"/>
+
+<textConfig id = "20239" text="你的实力太弱了，先提高自己的实力吧" pak="ui"/>
+<textConfig id = "20240" text="{0}已经可以制造&lt;font size='18px' color='#00ff00'&gt;{1}&lt;/font&gt;，时间有限，赶紧开始吧！" pak="ui"/>
+
+<textConfig id = "20241" text="15级解锁" pak="ui"/>
+<textConfig id = "20242" text="完成刘备的任务大概20级解锁" pak="ui"/>
+<textConfig id = "20243" text="18级解锁" pak="ui"/>
+<textConfig id = "20244" text="25级解锁" pak="ui"/>
+<textConfig id = "20245" text="VIP等级不够" pak="ui"/>
+<textConfig id = "20246" text="，是否花费{0}元宝购买背包？" pak="ui"/>
+<textConfig id = "20247" text="{0}元宝立刻完成训练，将获得{1}经验！" pak="ui"/>
+<textConfig id = "20248" text="王" pak="ui"/>
+<textConfig id = "20249" text="王侯" pak="ui"/>
+<textConfig id = "20250" text="列侯" pak="ui"/>
+<textConfig id = "20251" text="大都督" pak="ui"/>
+<textConfig id = "20252" text="骠骑将军" pak="ui"/>
+<textConfig id = "20253" text="车骑将军" pak="ui"/>
+<textConfig id = "20254" text="镇国将军" pak="ui"/>
+<textConfig id = "20255" text="中郎将" pak="ui"/>
+<textConfig id = "20256" text="校尉" pak="ui"/>
+<textConfig id = "20257" text="军侯" pak="ui"/>
+<textConfig id = "20258" text="布衣" pak="ui"/>
+<textConfig id = "20259" text="皇族" pak="ui"/>
+<textConfig id = "20260" text="士族" pak="ui"/>
+<textConfig id = "20261" text="阶" pak="ui"/>
+<textConfig id = "20262" text="级" pak="ui"/>
+<textConfig id = "20263" text="品" pak="ui"/>
+<textConfig id = "20264" text="排名在{0}名之内可得到神秘奖励！" pak="ui"/>
+<textConfig id = "20265" text="精力不足，除钱币以外其他奖励不能获得，点击购买" pak="ui"/>
+<textConfig id = "20266" text="&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;解锁条件达成" pak="ui"/>
+<textConfig id = "20267" text="还没有奖励可以领" pak="ui"/>
+<textConfig id = "20268" text="，是否花费{0}元宝购买英雄位？" pak="ui"/>
+<textConfig id = "20269" text="，是否花费{0}元宝购买训练位？" pak="ui"/>
+<textConfig id = "20270" text="还有&lt;FONT color='#00ff00'&gt;{0}&lt;/FONT&gt;次免费炼金次数" pak="ui"/>
+<textConfig id = "20271" text="&lt;FONT color='#00ff00'&gt;金币&lt;/FONT&gt;" pak="ui"/>
+<textConfig id = "20272" text="&lt;FONT color='#00ff00'&gt;粮食&lt;/FONT&gt;" pak="ui"/>
+<textConfig id = "20273" text="只能挑战相差7阶以内的玩家" pak="ui"/>
+<textConfig id = "20274" text="&lt;FONT color='#ffffff'&gt;{0}&lt;/FONT&gt;" pak="ui"/>
+<textConfig id = "20275" text="&lt;FONT color='#00ff00'&gt;{0}&lt;/FONT&gt;" pak="ui"/>
+<textConfig id = "20276" text="&lt;FONT color='#0099ff'&gt;{0}&lt;/FONT&gt;" pak="ui"/>
+<textConfig id = "20277" text="&lt;FONT color='#b515ff'&gt;{0}&lt;/FONT&gt;" pak="ui"/>
+<textConfig id = "20278" text="&lt;FONT color='#ff6c00'&gt;{0}&lt;/FONT&gt;" pak="ui"/>
+<textConfig id = "20279" text="已装备齐全" pak="ui"/>
+<textConfig id = "20280" text="已拥有齐全" pak="ui"/>
+<textConfig id = "20281" text="此装备在其他副本中掉落" pak="ui"/>
+<textConfig id = "20282" text="魂·" pak="ui"/>
+<textConfig id = "20283" text="神·" pak="ui"/>
+<textConfig id = "20284" text="斩杀他" pak="ui"/>
+<textConfig id = "20285" text="今日已被斩杀&lt;FONT color='#FF0000'&gt;{0}&lt;/FONT&gt;次" pak="ui"/>
+<textConfig id = "20286" text="此玩家今天已被斩杀{0}次，不能再斩杀了" pak="ui"/>
+<textConfig id = "20287" text="{0}可以抢占！" pak="ui"/>
+<textConfig id = "20288" text="{0}已经连续斩杀{1}人！" pak="ui"/>
+<textConfig id = "20289" text="没有可以抢占的位置" pak="ui"/>
+<textConfig id = "20290" text="爵位" pak="ui"/>
+<textConfig id = "20291" text="此人爵位比你低可以侵略" pak="ui"/>
+<textConfig id = "20292" text="可以挑战比自己爵位高的玩家" pak="ui"/>
+<textConfig id = "20293" text="{0}不能再进入这个副本了" pak="ui"/>
+<textConfig id = "20294" text="由于等级限制，{0}不能进入这个副本" pak="ui"/>
+<textConfig id = "20295" text="{0} {1} 前在副本中战胜了你，获得了 {2} 荣誉。" pak="ui"/>
+<textConfig id = "20296" text="{0}在{1}前挑战了你的爵位，" pak="ui"/>
+<textConfig id = "20297" text="并且成功了。" pak="ui"/>
+<textConfig id = "20298" text="确定进入通天塔吗？" pak="ui"/>
+<textConfig id = "20299" text="重要的卡片不足，去商店买一些吧。" pak="ui"/>
+<textConfig id = "20300" text="阵上士兵不足，去兵营造一些补充吧。" pak="ui"/>
+<textConfig id = "20301" text="通天塔副本列表" pak="ui"/>
+<textConfig id = "20302" text="今日剩余挑战次数：&lt;FONT color='#00ff00'&gt;{0}&lt;/FONT&gt; 次" pak="ui"/>
+<textConfig id = "20303" text="英雄集结地" pak="ui"/>
+<textConfig id = "20304" text="征兵" pak="ui"/>
+<textConfig id = "20305" text="买卡" pak="ui"/>
+<textConfig id = "20306" text="卡片" pak="ui"/>
+<textConfig id = "20307" text="31级解锁" pak="ui"/>
+<textConfig id = "20308" text="爵位榜" pak="ui"/>
+<textConfig id = "20309" text="活动期间已经充值&lt;FONT color='#00ff00'&gt;{0}&lt;/FONT&gt; 元宝,剩余时间：{1}" pak="ui"/>
+<textConfig id = "20310" text="爵位" pak="ui"/>
+<textConfig id = "20311" text="请选择目标" pak="ui"/>
+<textConfig id = "20312" text="建造更多的民房可以增加最大兵数" pak="ui"/>
+<textConfig id = "20313" text="玩家长期不上线，你可以侵略并拆除" pak="ui"/>
+<textConfig id = "20314" text="该建筑物不能抢夺" pak="ui"/>
+<textConfig id = "20315" text="你的阵型上兵力不足，确定要继续吗？" pak="ui"/>
+<textConfig id = "20316" text="你的阵型上有空位" pak="ui"/>
+<textConfig id = "20317" text="你还不能切换频道，冷却时间{0}" pak="ui"/>
+<textConfig id = "20318" text="不能掠夺不同频道的矿场" pak="ui"/>
+<textConfig id = "20319" text="拆除" pak="ui"/>
+<textConfig id = "20320" text="没有找到有效目标" pak="ui"/>
+<textConfig id = "20321" text="可以招募&lt;font color='#00ff00'&gt;{0}&lt;/font&gt;" pak="ui"/>
+<textConfig id = "20322" text="加强成功率" pak="ui"/>
+<textConfig id = "20323" text="下次强化率刷新时间前，强化率将增加{0}%。" pak="ui"/>
+<textConfig id = "20324" text="{0}成为了&lt;font color='#ff9900'&gt;VIP&lt;/font&gt;&lt;font color='#0099ff'&gt;{1}&lt;/font&gt;" pak="ui"/>
+<textConfig id = "20325" text="这个玩家和你不在同一个城市" pak="ui"/>
+<textConfig id = "20326" text="没有找到可以复活单位" pak="ui"/>
+<textConfig id = "20327" text="是否使用{0}元宝或礼金完成{1}个日常任务？" pak="ui"/>
+<textConfig id = "20328" text="全部完成" pak="ui"/>
+<textConfig id = "20329" text="2倍经验积累" pak="ui"/>
+<textConfig id = "20330" text="收获经验" pak="ui"/>
+<textConfig id = "20331" text="活动期间已经充值&lt;FONT color='#00ff00'&gt;{0}&lt;/FONT&gt; 元宝" pak="ui"/>
+<textConfig id = "20332" text="活动剩余时间：{0}" pak="ui"/>
+<textConfig id = "20333" text="你的城市正在被攻击" pak="ui"/>
+<textConfig id = "20334" text="打坐中…" pak="ui"/>
+
+</root>

@@ -1,0 +1,15 @@
+<!--x1 y1 = right face
+	x2 y2 = left face
+	x3 y3 = right back
+	x4 y4 = left back-->
+<ModelFixConfig>
+  <modela>
+  	<config mountid="24" x1="115" y1="27" x2="60" y2="25" x3="115" y3="30" x4="60" y4="30"/>
+  </modela>
+  <modelb>
+  </modelb>
+  <modelc>
+  </modelc>
+  <modeld>
+  </modeld>
+</ModelFixConfig>

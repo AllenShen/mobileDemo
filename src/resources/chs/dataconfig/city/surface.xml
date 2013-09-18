@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<surface>
+  <1>
+    <battlebg/>
+    <bk>810</bk>
+    <bkmode>3</bkmode>
+    <datapakid>0</datapakid>
+    <entryx>0</entryx>
+    <entryy>0</entryy>
+    <gridheight>12</gridheight>
+    <gridwidth>24</gridwidth>
+    <guideitems/>
+    <height>245</height>
+    <landscope>2</landscope>
+    <levellimit>0</levellimit>
+    <mapid>1</mapid>
+    <mapname>city1</mapname>
+    <mapnameid>0</mapnameid>
+    <maptype>0</maptype>
+    <mistpt/>
+    <preloadx>1</preloadx>
+    <preloady>1</preloady>
+    <questcount>0</questcount>
+    <respak>0</respak>
+    <roadpt/>
+    <seapt/>
+    <specialpt/>
+    <splitcol>6</splitcol>
+    <splitrow>6</splitrow>
+    <width>103</width>
+  </1>
+</surface>

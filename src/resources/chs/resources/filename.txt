@@ -1,0 +1,53 @@
+ 驱动器 X 中的卷是 项目资料
+ 卷的序列号是 BA7F-A79F
+
+ X:\webserver\sggame\chs\resources\uiresource\temp 的目录
+
+2012/11/16  15:50    <DIR>          .
+2012/11/16  15:50    <DIR>          ..
+2012/11/16  15:50             1,580 anniu.png
+2012/11/16  15:50             2,259 anniu1.png
+2012/11/16  15:50             6,903 aoyikuang.png
+2012/11/16  15:50             3,818 biankuang.png
+2012/11/16  15:50             4,990 biaoti.png
+2012/11/16  15:50             3,369 bigpanel.png
+2012/11/16  15:50             2,047 cha.png
+2012/11/16  15:50             5,986 dakuang.png
+2012/11/16  15:50             2,052 hui.png
+2012/11/16  15:50             4,330 huoshuxing.png
+2012/11/16  15:50             1,331 jiantouyou.png
+2012/11/16  15:50             3,979 jiantouzuo.png
+2012/11/16  15:50             4,370 jinshuxing.png
+2012/11/16  15:50             4,410 kuang1.png
+2012/11/16  15:50             7,660 kuang2.png
+2012/11/16  15:50             3,943 kuang4.png
+2012/11/16  15:50             6,139 kuangcheng.png
+2012/11/16  15:50             6,118 lan.png
+2012/11/16  15:50             6,141 lv.png
+2012/11/16  15:50             4,270 lvseanniu.png
+2012/11/16  15:50             8,668 moji.png
+2012/11/16  15:50             8,553 moji2.png
+2012/11/16  15:50             4,352 mushuxing.png
+2012/11/16  15:50             5,366 paizi.png
+2012/11/16  15:50             3,086 shangkuang.png
+2012/11/16  15:50             4,399 shuishuxing.png
+2012/11/16  15:50               188 shuxing.png
+2012/11/16  15:50             2,864 shuxing1.png
+2012/11/16  15:50             2,862 shuxing2.png
+2012/11/16  15:50             2,856 shuxing3.png
+2012/11/16  15:50             2,862 shuxing4.png
+2012/11/16  15:50               453 smallinput.png
+2012/11/16  15:50             6,526 toukuang.png
+2012/11/16  15:50               190 transback.png
+2012/11/16  15:50               950 tubiao.png
+2012/11/16  15:50             3,634 tubiao1.png
+2012/11/16  15:50             3,567 tubiao2.png
+2012/11/16  15:50             4,265 tushuxing.png
+2012/11/16  15:50             2,872 wujiangkuang.png
+2012/11/16  15:50             2,871 wujiangkuang1 .png
+2012/11/16  15:50             4,819 xiaokuang.png
+2012/11/16  15:50             2,042 zhan.png
+2012/11/16  15:50             3,283 zhujiang.png
+2012/11/16  15:50             6,116 zi.png
+              44 个文件        173,339 字节
+               2 个目录 120,296,022,016 可用字节

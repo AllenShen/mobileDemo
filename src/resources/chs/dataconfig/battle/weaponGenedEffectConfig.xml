@@ -1,0 +1,1329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infos>			
+	<singleConfig modeltype = "0" weaponType = "1" id ="10000" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "1" weaponType = "1" id ="10000" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "2" weaponType = "1" id ="10000" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>	
+											
+	<singleConfig modeltype = "0" weaponType = "1" id ="1" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="1" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="1" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="2" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="2" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="2" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="3" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="3" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="3" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="4" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="4" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="4" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="5" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="5" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="5" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="6" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="6" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="6" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="7" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="7" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="7" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="8" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="8" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="8" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="9" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="9" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="9" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="10" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="10" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="10" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="11" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="11" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="11" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="12" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="12" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="12" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="13" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="13" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="13" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="14" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="14" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="14" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "2" id ="15" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12001"/>
+			<effect type = "6" resource = "12001"/>
+			<effect type = "11" resource = "12001"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "2" id ="15" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12012"/>
+			<effect type = "6" resource = "12012"/>
+			<effect type = "11" resource = "12012"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "2" id ="15" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "2" id ="16" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12001"/>
+			<effect type = "6" resource = "12001"/>
+			<effect type = "11" resource = "12001"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "2" id ="16" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12012"/>
+			<effect type = "6" resource = "12012"/>
+			<effect type = "11" resource = "12012"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "2" id ="16" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "2" id ="17" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12001"/>
+			<effect type = "6" resource = "12001"/>
+			<effect type = "11" resource = "12001"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "2" id ="17" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12012"/>
+			<effect type = "6" resource = "12012"/>
+			<effect type = "11" resource = "12012"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "2" id ="17" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "4" id ="18" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12003"/>
+			<effect type = "6" resource = "12003"/>
+			<effect type = "11" resource = "12003"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "4" id ="18" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12014"/>
+			<effect type = "6" resource = "12014"/>
+			<effect type = "11" resource = "12014"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "4" id ="18" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="19" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="19" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="19" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="20" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="20" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="20" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="21" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="21" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="21" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="22" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="22" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="22" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="23" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="23" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="23" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "3" id ="24" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12002"/>
+			<effect type = "6" resource = "12002"/>
+			<effect type = "11" resource = "12002"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "3" id ="24" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12013"/>
+			<effect type = "6" resource = "12013"/>
+			<effect type = "11" resource = "12013"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "3" id ="24" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "3" id ="25" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12002"/>
+			<effect type = "6" resource = "12002"/>
+			<effect type = "11" resource = "12002"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "3" id ="25" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12013"/>
+			<effect type = "6" resource = "12013"/>
+			<effect type = "11" resource = "12013"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "3" id ="25" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="26" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="26" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="26" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="27" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="27" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="27" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="28" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="28" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="28" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="29" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="29" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="29" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="30" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="30" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="30" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="31" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="31" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="31" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="32" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="32" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="32" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="33" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="33" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="33" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="34" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="34" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="34" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="35" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="35" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="35" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="253" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="253" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="253" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "2" id ="254" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12001"/>
+			<effect type = "6" resource = "12001"/>
+			<effect type = "11" resource = "12001"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "2" id ="254" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12012"/>
+			<effect type = "6" resource = "12012"/>
+			<effect type = "11" resource = "12012"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "2" id ="254" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="255" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="255" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="255" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="256" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="256" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="256" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="257" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="257" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="257" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="258" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="258" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="258" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="259" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="259" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="259" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="260" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="260" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="260" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="261" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="261" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="261" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="262" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "1" id ="262" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "1" id ="262" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="299" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "1" weaponType = "1" id ="299" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "2" weaponType = "1" id ="299" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>	
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="280" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "1" weaponType = "1" id ="280" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "2" weaponType = "1" id ="280" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>	
+	
+	<singleConfig modeltype = "0" weaponType = "1" id ="300" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "1" weaponType = "1" id ="300" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12011"/>
+			<effect type = "6" resource = "12011"/>
+			<effect type = "11" resource = "12011"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "2" weaponType = "1" id ="300" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>	
+	
+	<singleConfig modeltype = "0" weaponType = "2" id ="302" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12001"/>
+			<effect type = "6" resource = "12001"/>
+			<effect type = "11" resource = "12001"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "1" weaponType = "2" id ="302" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12012"/>
+			<effect type = "6" resource = "12012"/>
+			<effect type = "11" resource = "12012"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "2" weaponType = "2" id ="302" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12001"/>
+			<effect type = "6" resource = "12001"/>
+			<effect type = "11" resource = "12001"/>
+		</heroattackeffect>
+	</singleConfig>	
+	
+	<singleConfig modeltype = "0" weaponType = "4" id ="304" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12003"/>
+			<effect type = "6" resource = "12003"/>
+			<effect type = "11" resource = "12003"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "1" weaponType = "4" id ="304" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12014"/>
+			<effect type = "6" resource = "12014"/>
+			<effect type = "11" resource = "12014"/>
+		</heroattackeffect>
+	</singleConfig>	
+	<singleConfig modeltype = "2" weaponType = "4" id ="304" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201" 
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>	
+	
+	<singleConfig modeltype = "0" weaponType = "2" id ="303" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12001"/>
+			<effect type = "6" resource = "12001"/>
+			<effect type = "11" resource = "12001"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "2" id ="303" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12012"/>
+			<effect type = "6" resource = "12012"/>
+			<effect type = "11" resource = "12012"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "2" id ="303" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+	<singleConfig modeltype = "0" weaponType = "3" id ="305" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12002"/>
+			<effect type = "6" resource = "12002"/>
+			<effect type = "11" resource = "12002"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "1" weaponType = "3" id ="305" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "12013"/>
+			<effect type = "6" resource = "12013"/>
+			<effect type = "11" resource = "12013"/>
+		</heroattackeffect>
+	</singleConfig>
+	<singleConfig modeltype = "2" weaponType = "3" id ="305" missile = "0" beareffect = "1432" seconBearEffect = "1431" aoyieffect = "7415" aoyiportrait = "7201"
+	aoyibottomeffect = "1411" aoyibackeffect = "1407" aoyiportraitcontainer="1410" aoyihongkuang="1409">
+		<heroattackeffect singleeffect = "1426">
+			<effect type = "1" resource = "1443"/>
+			<effect type = "6" resource = "1444"/>
+			<effect type = "11" resource = "1444"/>
+		</heroattackeffect>
+	</singleConfig>
+	
+</infos>

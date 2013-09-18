@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infos>
+	
+	<animatorRes id ="469" totalFrames = "39">
+		<action type = "0" startFrame = "1" endFrame = "1" />
+		<action type = "1" startFrame = "2" endFrame = "11" />
+		<action type = "2" startFrame = "12" endFrame = "27" />
+		<action type = "3" startFrame = "28" endFrame = "39" />
+	</animatorRes>	
+	
+	<animatorRes id ="471" totalFrames = "13">
+		<action type = "0" startFrame = "1" endFrame = "1" />
+		<action type = "1" startFrame = "2" endFrame = "12" />
+		<action type = "2" startFrame = "13" endFrame = "21" />
+		<action type = "3" startFrame = "22" endFrame = "35" />
+	</animatorRes>	
+	
+	<animatorRes id ="367" totalFrames = "13">
+		<action type = "0" startFrame = "1" endFrame = "1" />
+		<action type = "1" startFrame = "3" endFrame = "18" />
+	</animatorRes>	
+	<animatorRes id ="368" totalFrames = "13">
+		<action type = "0" startFrame = "1" endFrame = "1" />
+		<action type = "1" startFrame = "2" endFrame = "13" />
+	</animatorRes>	
+	<animatorRes id ="369" totalFrames = "13">
+		<action type = "0" startFrame = "1" endFrame = "1" />
+		<action type = "1" startFrame = "2" endFrame = "13" />
+	</animatorRes>	
+	
+	<animatorRes id ="593" totalFrames = "13">
+		<action type = "0" startFrame = "1" endFrame = "1" />
+		<action type = "1" startFrame = "2" endFrame = "13" />
+	</animatorRes>	
+
+	<animatorRes id ="5001" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>	
+	<animatorRes id ="5002" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5003" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5004" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5005" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5006" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5007" totalFrames = "78">
+		<action type = "2" startFrame = "40" endFrame = "65">
+			<logicFrame>49</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "77">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5008" totalFrames = "78">
+		<action type = "2" startFrame = "40" endFrame = "65">
+			<logicFrame>49</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "77">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5009" totalFrames = "78">
+		<action type = "2" startFrame = "46" endFrame = "65">
+			<logicFrame>55</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "77">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5010" totalFrames = "78">
+		<action type = "2" startFrame = "46" endFrame = "65">
+			<logicFrame>55</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "77">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5011" totalFrames = "83">
+		<action type = "0" startFrame = "1" endFrame = "21"/>
+		<action type = "1" startFrame = "22" endFrame = "35"/>
+		<action type = "2" startFrame = "36" endFrame = "50">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "9" startFrame = "51" endFrame = "76">
+			<logicFrame>56</logicFrame>
+		</action>
+		<action type = "3" startFrame = "77" endFrame = "86">
+			<logicFrame>79</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5012" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5013" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5014" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5015" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5016" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5017" totalFrames = "70">
+		<action type = "2" startFrame = "30" endFrame = "57">
+			<logicFrame>39</logicFrame>
+		</action>
+		<action type = "3" startFrame = "58" endFrame = "69">
+			<logicFrame>60</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5018" totalFrames = "84">
+		<action type = "2" startFrame = "46" endFrame = "73">
+			<logicFrame>57</logicFrame>
+		</action>
+		<action type = "3" startFrame = "74" endFrame = "83">
+			<logicFrame>76</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5019" totalFrames = "84">
+		<action type = "2" startFrame = "58" endFrame = "59">
+			<logicFrame>58</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "61">
+			<logicFrame>60</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5020" totalFrames = "84">
+		<action type = "2" startFrame = "48" endFrame = "73">
+			<logicFrame>59</logicFrame>
+		</action>
+		<action type = "3" startFrame = "74" endFrame = "83">
+			<logicFrame>76</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5021" totalFrames = "84">
+		<action type = "2" startFrame = "26" endFrame = "51">
+			<logicFrame>37</logicFrame>
+		</action>
+		<action type = "3" startFrame = "52" endFrame = "61">
+			<logicFrame>54</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5022" totalFrames = "84">
+		<action type = "2" startFrame = "26" endFrame = "51">
+			<logicFrame>33</logicFrame>
+		</action>
+		<action type = "3" startFrame = "52" endFrame = "61">
+			<logicFrame>54</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5023" totalFrames = "84">
+		<action type = "2" startFrame = "26" endFrame = "51">
+			<logicFrame>33</logicFrame>
+		</action>
+		<action type = "3" startFrame = "52" endFrame = "61">
+			<logicFrame>54</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5024" totalFrames = "84">
+		<action type = "2" startFrame = "26" endFrame = "51">
+			<logicFrame>37</logicFrame>
+		</action>
+		<action type = "3" startFrame = "52" endFrame = "61">
+			<logicFrame>54</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5025" totalFrames = "84">
+		<action type = "2" startFrame = "24" endFrame = "45">
+			<logicFrame>35</logicFrame>
+		</action>
+		<action type = "3" startFrame = "46" endFrame = "55">
+			<logicFrame>48</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5026" totalFrames = "84">
+		<action type = "2" startFrame = "54" endFrame = "55">
+			<logicFrame>54</logicFrame>
+		</action>
+		<action type = "3" startFrame = "56" endFrame = "57">
+			<logicFrame>57</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5027" totalFrames = "84">
+		<action type = "2" startFrame = "76" endFrame = "77">
+			<logicFrame>77</logicFrame>
+		</action>
+		<action type = "3" startFrame = "78" endFrame = "79">
+			<logicFrame>78</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5028" totalFrames = "84">
+		<action type = "2" startFrame = "42" endFrame = "43">
+			<logicFrame>42</logicFrame>
+		</action>
+		<action type = "3" startFrame = "44" endFrame = "45">
+			<logicFrame>45</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5029" totalFrames = "84">
+		<action type = "2" startFrame = "46" endFrame = "47">
+			<logicFrame>46</logicFrame>
+		</action>
+		<action type = "3" startFrame = "48" endFrame = "49">
+			<logicFrame>49</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5030" totalFrames = "83">
+		<action type = "0" startFrame = "1" endFrame = "24"/>
+		<action type = "1" startFrame = "25" endFrame = "38"/>
+		<action type = "2" startFrame = "39" endFrame = "57">
+			<logicFrame>50</logicFrame>
+		</action>
+		<action type = "9" startFrame = "58" endFrame = "76">
+			<logicFrame>68</logicFrame>
+		</action>
+		<action type = "3" startFrame = "77" endFrame = "85">
+			<logicFrame>79</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5031" totalFrames = "85">
+		<action type = "0" startFrame = "1" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "31"/>
+		<action type = "2" startFrame = "32" endFrame = "46">
+			<logicFrame>40</logicFrame>
+		</action>
+		<action type = "9" startFrame = "47" endFrame = "73">
+			<logicFrame>67</logicFrame>
+		</action>
+		<action type = "3" startFrame = "74" endFrame = "85">
+			<logicFrame>76</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5032" totalFrames = "85">
+		<action type = "0" startFrame = "1" endFrame = "23"/>
+		<action type = "1" startFrame = "24" endFrame = "48"/>
+		<action type = "2" startFrame = "49" endFrame = "71">
+			<logicFrame>57</logicFrame>
+		</action>
+		<action type = "9" startFrame = "72" endFrame = "115">
+			<logicFrame>100</logicFrame>
+		</action>
+		<action type = "3" startFrame = "116" endFrame = "122">
+			<logicFrame>118</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5033" totalFrames = "85">
+		<action type = "2" startFrame = "32" endFrame = "63">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "64" endFrame = "73">
+			<logicFrame>66</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5034" totalFrames = "85">
+		<action type = "2" startFrame = "32" endFrame = "65">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5035" totalFrames = "85">
+		<action type = "2" startFrame = "32" endFrame = "67">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "68" endFrame = "77">
+			<logicFrame>70</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5036" totalFrames = "85">
+		<action type = "2" startFrame = "32" endFrame = "67">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "68" endFrame = "77">
+			<logicFrame>70</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5037" totalFrames = "85">
+		<action type = "2" startFrame = "24" endFrame = "57">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "58" endFrame = "67">
+			<logicFrame>60</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5038" totalFrames = "85">
+		<action type = "2" startFrame = "28" endFrame = "63">
+			<logicFrame>41</logicFrame>
+		</action>
+		<action type = "3" startFrame = "64" endFrame = "73">
+			<logicFrame>66</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5810" totalFrames = "85">
+		<action type = "2" startFrame = "38" endFrame = "87">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "88" endFrame = "97">
+			<logicFrame>90</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5042" totalFrames = "83">
+		<action type = "0" startFrame = "1" endFrame = "12"/>
+		<action type = "1" startFrame = "13" endFrame = "23"/>
+		<action type = "2" startFrame = "24" endFrame = "38">
+			<logicFrame>27</logicFrame>
+		</action>
+		<action type = "9" startFrame = "39" endFrame = "73">
+			<logicFrame>50</logicFrame>
+		</action>
+		<action type = "3" startFrame = "74" endFrame = "80">
+			<logicFrame>76</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5043" totalFrames = "83">
+		<action type = "2" startFrame = "36" endFrame = "67">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "68" endFrame = "77">
+			<logicFrame>70</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5044" totalFrames = "83">
+		<action type = "2" startFrame = "34" endFrame = "61">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "62" endFrame = "71">
+			<logicFrame>64</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5045" totalFrames = "83">
+		<action type = "2" startFrame = "32" endFrame = "75">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "76" endFrame = "85">
+			<logicFrame>78</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5046" totalFrames = "83">
+		<action type = "2" startFrame = "30" endFrame = "65">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5047" totalFrames = "83">
+		<action type = "2" startFrame = "32" endFrame = "59">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "69">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5048" totalFrames = "83">
+		<action type = "2" startFrame = "32" endFrame = "63">
+			<logicFrame>49</logicFrame>
+		</action>
+		<action type = "3" startFrame = "64" endFrame = "73">
+			<logicFrame>66</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5049" totalFrames = "83">
+		<action type = "2" startFrame = "34" endFrame = "61">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "62" endFrame = "71">
+			<logicFrame>64</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5050" totalFrames = "132">
+		<action type = "0" startFrame = "1" endFrame = "30"/>
+		<action type = "1" startFrame = "31" endFrame = "45"/>
+		<action type = "2" startFrame = "46" endFrame = "74">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "9" startFrame = "75" endFrame = "123">
+			<logicFrame>82</logicFrame>
+		</action>
+		<action type = "3" startFrame = "124" endFrame = "132">
+			<logicFrame>126</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5051" totalFrames = "105">
+		<action type = "0" startFrame = "1" endFrame = "8"/>
+		<action type = "1" startFrame = "9" endFrame = "20"/>
+		<action type = "2" startFrame = "21" endFrame = "51">
+			<logicFrame>29</logicFrame>
+		</action>
+		<action type = "9" startFrame = "52" endFrame = "96">
+			<logicFrame>66</logicFrame>
+		</action>
+		<action type = "3" startFrame = "97" endFrame = "105">
+			<logicFrame>99</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5052" totalFrames = "128">
+		<action type = "0" startFrame = "1" endFrame = "30"/>
+		<action type = "1" startFrame = "31" endFrame = "42"/>
+		<action type = "2" startFrame = "43" endFrame = "62">
+			<logicFrame>52</logicFrame>
+		</action>
+		<action type = "9" startFrame = "63" endFrame = "121">
+			<logicFrame>82</logicFrame>
+		</action>
+		<action type = "3" startFrame = "122" endFrame = "128">
+			<logicFrame>124</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5055" totalFrames = "128">
+		<action type = "2" startFrame = "60" endFrame = "79">
+			<logicFrame>69</logicFrame>
+		</action>
+		<action type = "3" startFrame = "80" endFrame = "89">
+			<logicFrame>82</logicFrame>
+		</action>
+	</animatorRes>
+	
+	<animatorRes id ="5401" totalFrames = "76">
+		<action type = "2" startFrame = "42" endFrame = "65">
+			<logicFrame>55</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5402" totalFrames = "76">
+		<action type = "2" startFrame = "42" endFrame = "65">
+			<logicFrame>55</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5403" totalFrames = "76">
+		<action type = "2" startFrame = "42" endFrame = "65">
+			<logicFrame>55</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5404" totalFrames = "76">
+		<action type = "2" startFrame = "42" endFrame = "65">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5405" totalFrames = "76">
+		<action type = "2" startFrame = "42" endFrame = "65">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5406" totalFrames = "76">
+		<action type = "2" startFrame = "42" endFrame = "65">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5407" totalFrames = "66">
+		<action type = "2" startFrame = "32" endFrame = "53">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "54" endFrame = "65">
+			<logicFrame>56</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5408" totalFrames = "66">
+		<action type = "2" startFrame = "32" endFrame = "53">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "54" endFrame = "65">
+			<logicFrame>56</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5409" totalFrames = "66">
+		<action type = "2" startFrame = "32" endFrame = "53">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "54" endFrame = "65">
+			<logicFrame>56</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5410" totalFrames = "66">
+		<action type = "2" startFrame = "32" endFrame = "53">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "54" endFrame = "65">
+			<logicFrame>56</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5411" totalFrames = "66">
+		<action type = "2" startFrame = "32" endFrame = "53">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "54" endFrame = "65">
+			<logicFrame>56</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5412" totalFrames = "66">
+		<action type = "2" startFrame = "26" endFrame = "49">
+			<logicFrame>41</logicFrame>
+		</action>
+		<action type = "3" startFrame = "50" endFrame = "59">
+			<logicFrame>52</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5413" totalFrames = "66">
+		<action type = "2" startFrame = "26" endFrame = "53">
+			<logicFrame>41</logicFrame>
+		</action>
+		<action type = "3" startFrame = "54" endFrame = "63">
+			<logicFrame>56</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5414" totalFrames = "66">
+		<action type = "2" startFrame = "26" endFrame = "53">
+			<logicFrame>41</logicFrame>
+		</action>
+		<action type = "3" startFrame = "54" endFrame = "63">
+			<logicFrame>56</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5415" totalFrames = "66">
+		<action type = "2" startFrame = "26" endFrame = "51">
+			<logicFrame>41</logicFrame>
+		</action>
+		<action type = "3" startFrame = "52" endFrame = "61">
+			<logicFrame>54</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5416" totalFrames = "66">
+		<action type = "2" startFrame = "28" endFrame = "47">
+			<logicFrame>35</logicFrame>
+		</action>
+		<action type = "3" startFrame = "48" endFrame = "57">
+			<logicFrame>50</logicFrame>
+		</action>
+	</animatorRes> 
+	<animatorRes id ="5417" totalFrames = "66">
+		<action type = "2" startFrame = "32" endFrame = "53">
+			<logicFrame>41</logicFrame>
+		</action>
+		<action type = "3" startFrame = "54" endFrame = "63">
+			<logicFrame>56</logicFrame>
+		</action>
+	</animatorRes> 
+	<animatorRes id ="5418" totalFrames = "66">
+		<action type = "2" startFrame = "32" endFrame = "63">
+			<logicFrame>49</logicFrame>
+		</action>
+		<action type = "3" startFrame = "64" endFrame = "73">
+			<logicFrame>66</logicFrame>
+		</action>
+	</animatorRes> 
+	<animatorRes id ="5419" totalFrames = "66">
+		<action type = "2" startFrame = "40" endFrame = "71">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "72" endFrame = "81">
+			<logicFrame>74</logicFrame>
+		</action>
+	</animatorRes> 
+	
+	<animatorRes id ="5801" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5802" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5803" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5804" totalFrames = "72">
+		<action type = "2" startFrame = "38" endFrame = "77">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "78" endFrame = "87">
+			<logicFrame>80</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5805" totalFrames = "72">
+		<action type = "2" startFrame = "32" endFrame = "55">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "56" endFrame = "65">
+			<logicFrame>58</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5806" totalFrames = "72">
+		<action type = "2" startFrame = "32" endFrame = "65">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5807" totalFrames = "72">
+		<action type = "2" startFrame = "24" endFrame = "51">
+			<logicFrame>33</logicFrame>
+		</action>
+		<action type = "3" startFrame = "52" endFrame = "61">
+			<logicFrame>54</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5808" totalFrames = "72">
+		<action type = "2" startFrame = "32" endFrame = "71">
+			<logicFrame>61</logicFrame>
+		</action>
+		<action type = "3" startFrame = "72" endFrame = "81">
+			<logicFrame>74</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5809" totalFrames = "72">
+		<action type = "2" startFrame = "34" endFrame = "65">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5811" totalFrames = "72">
+		<action type = "2" startFrame = "30" endFrame = "55">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "56" endFrame = "65">
+			<logicFrame>58</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5812" totalFrames = "72">
+		<action type = "2" startFrame = "32" endFrame = "73">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "74" endFrame = "83">
+			<logicFrame>76</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5813" totalFrames = "72">
+		<action type = "2" startFrame = "28" endFrame = "49">
+			<logicFrame>33</logicFrame>
+		</action>
+		<action type = "3" startFrame = "50" endFrame = "59">
+			<logicFrame>52</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5814" totalFrames = "72">
+		<action type = "2" startFrame = "22" endFrame = "55">
+			<logicFrame>35</logicFrame>
+		</action>
+		<action type = "3" startFrame = "56" endFrame = "65">
+			<logicFrame>58</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="5815" totalFrames = "72">
+		<action type = "2" startFrame = "30" endFrame = "51">
+			<logicFrame>35</logicFrame>
+		</action>
+		<action type = "3" startFrame = "52" endFrame = "61">
+			<logicFrame>54</logicFrame>
+		</action>
+	</animatorRes>
+	
+	<animatorRes id ="6201" totalFrames = "52">
+		<action type = "2" startFrame = "24" endFrame = "39">
+			<logicFrame>27</logicFrame>
+		</action>
+		<action type = "3" startFrame = "40" endFrame = "51">
+			<logicFrame>42</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="6202" totalFrames = "52">
+		<action type = "2" startFrame = "24" endFrame = "39">
+			<logicFrame>27</logicFrame>
+		</action>
+		<action type = "3" startFrame = "40" endFrame = "51">
+			<logicFrame>42</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="6221" totalFrames = "48">
+		<action type = "2" startFrame = "16" endFrame = "35">
+			<logicFrame>27</logicFrame>
+		</action>
+		<action type = "3" startFrame = "36" endFrame = "47">
+			<logicFrame>38</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="6222" totalFrames = "48">
+		<action type = "2" startFrame = "22" endFrame = "41">
+			<logicFrame>29</logicFrame>
+		</action>
+		<action type = "3" startFrame = "42" endFrame = "51">
+			<logicFrame>44</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="6223" totalFrames = "48">
+		<action type = "2" startFrame = "32" endFrame = "71">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "72" endFrame = "81">
+			<logicFrame>74</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="6224" totalFrames = "48">
+		<action type = "2" startFrame = "22" endFrame = "57">
+			<logicFrame>35</logicFrame>
+		</action>
+		<action type = "3" startFrame = "58" endFrame = "67">
+			<logicFrame>60</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="6225" totalFrames = "48">
+		<action type = "2" startFrame = "20" endFrame = "41">
+			<logicFrame>35</logicFrame>
+		</action>
+		<action type = "3" startFrame = "42" endFrame = "51">
+			<logicFrame>44</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="6226" totalFrames = "48">
+		<action type = "2" startFrame = "26" endFrame = "49">
+			<logicFrame>35</logicFrame>
+		</action>
+		<action type = "3" startFrame = "50" endFrame = "59">
+			<logicFrame>52</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="6227" totalFrames = "48">
+		<action type = "2" startFrame = "20" endFrame = "47">
+			<logicFrame>31</logicFrame>
+		</action>
+		<action type = "3" startFrame = "48" endFrame = "57">
+			<logicFrame>50</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="6228" totalFrames = "48">
+		<action type = "2" startFrame = "28" endFrame = "57">
+			<logicFrame>39</logicFrame>
+		</action>
+		<action type = "3" startFrame = "58" endFrame = "67">
+			<logicFrame>60</logicFrame>
+		</action>
+	</animatorRes>
+	
+	<animatorRes id ="6601" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>49</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="6602" totalFrames = "72">
+		<action type = "2" startFrame = "42" endFrame = "59">
+			<logicFrame>49</logicFrame>
+		</action>
+		<action type = "3" startFrame = "60" endFrame = "71">
+			<logicFrame>62</logicFrame>
+		</action>
+	</animatorRes>
+	
+	<animatorRes id ="1001" totalFrames = "76">
+		<action type = "2" startFrame = "42" endFrame = "65">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1002" totalFrames = "76">
+		<action type = "2" startFrame = "46" endFrame = "65">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "75">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1003" totalFrames = "66">
+		<action type = "2" startFrame = "38" endFrame = "55">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "56" endFrame = "65">
+			<logicFrame>58</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1004" totalFrames = "74">
+		<action type = "2" startFrame = "40" endFrame = "61">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "62" endFrame = "71">
+			<logicFrame>64</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1005" totalFrames = "76">
+		<action type = "2" startFrame = "42" endFrame = "67">
+			<logicFrame>55</logicFrame>
+		</action>
+		<action type = "3" startFrame = "68" endFrame = "75">
+			<logicFrame>70</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1006" totalFrames = "88">
+		<action type = "2" startFrame = "46" endFrame = "75">
+			<logicFrame>56</logicFrame>
+		</action>
+		<action type = "3" startFrame = "76" endFrame = "87">
+			<logicFrame>78</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1007" totalFrames = "72">
+		<action type = "2" startFrame = "40" endFrame = "61">
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "3" startFrame = "62" endFrame = "71">
+			<logicFrame>64</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1008" totalFrames = "60">
+		<action type = "2" startFrame = "16" endFrame = "49">
+			<logicFrame>29</logicFrame>
+		</action>
+		<action type = "3" startFrame = "50" endFrame = "59">
+			<logicFrame>52</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1009" totalFrames = "80">
+		<action type = "2" startFrame = "44" endFrame = "65">
+			<logicFrame>52</logicFrame>
+		</action>
+		<action type = "3" startFrame = "66" endFrame = "79">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1010" totalFrames = "72">
+		<action type = "2" startFrame = "38" endFrame = "61">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "62" endFrame = "71">
+			<logicFrame>64</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1011" totalFrames = "58">
+		<action type = "2" startFrame = "24" endFrame = "47">
+			<logicFrame>27</logicFrame>
+		</action>
+		<action type = "3" startFrame = "48" endFrame = "57">
+			<logicFrame>50</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1012" totalFrames = "58">
+		<action type = "2" startFrame = "24" endFrame = "47">
+			<logicFrame>33</logicFrame>
+		</action>
+		<action type = "3" startFrame = "48" endFrame = "57">
+			<logicFrame>50</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1013" totalFrames = "82">
+		<action type = "2" startFrame = "48" endFrame = "71">
+			<logicFrame>61</logicFrame>
+		</action>
+		<action type = "3" startFrame = "72" endFrame = "81">
+			<logicFrame>74</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1014" totalFrames = "78">
+		<action type = "2" startFrame = "42" endFrame = "67">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "68" endFrame = "77">
+			<logicFrame>70</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1015" totalFrames = "86">
+		<action type = "2" startFrame = "50" endFrame = "75">
+			<logicFrame>63</logicFrame>
+		</action>
+		<action type = "3" startFrame = "76" endFrame = "85">
+			<logicFrame>78</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1016" totalFrames = "82">
+		<action type = "2" startFrame = "46" endFrame = "71">
+			<logicFrame>57</logicFrame>
+		</action>
+		<action type = "3" startFrame = "72" endFrame = "81">
+			<logicFrame>74</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1017" totalFrames = "90">
+		<action type = "2" startFrame = "46" endFrame = "79">
+			<logicFrame>61</logicFrame>
+		</action>
+		<action type = "3" startFrame = "80" endFrame = "89">
+			<logicFrame>82</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1018" totalFrames = "84">
+		<action type = "2" startFrame = "46" endFrame = "71">
+			<logicFrame>63</logicFrame>
+		</action>
+		<action type = "3" startFrame = "72" endFrame = "83">
+			<logicFrame>74</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1019" totalFrames = "82">
+		<action type = "2" startFrame = "40" endFrame = "69">
+			<logicFrame>49</logicFrame>
+		</action>
+		<action type = "3" startFrame = "70" endFrame = "81">
+			<logicFrame>72</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1020" totalFrames = "82">
+		<action type = "2" startFrame = "46" endFrame = "71">
+			<logicFrame>57</logicFrame>
+		</action>
+		<action type = "3" startFrame = "72" endFrame = "81">
+			<logicFrame>74</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1021" totalFrames = "70">
+		<action type = "2" startFrame = "40" endFrame = "67">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "68" endFrame = "69">
+			<logicFrame>68</logicFrame>
+		</action>
+	</animatorRes>
+	<animatorRes id ="1022" totalFrames = "16">
+		<action type = "2" startFrame = "4" endFrame = "5">
+			<logicFrame>4</logicFrame>
+		</action>
+		<action type = "3" startFrame = "6" endFrame = "15">
+			<logicFrame>8</logicFrame>
+		</action>
+	</animatorRes>
+
+	<animatorRes id ="1301" totalFrames = "346">						<!--典韦-->
+		<action type = "0" startFrame = "0" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "27" />
+		<action type = "9" startFrame = "28" endFrame = "69">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "40">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "41" endFrame = "100" />
+		<action type = "2" startFrame = "101" endFrame = "155" >
+			<logicFrame>118</logicFrame>
+		</action>
+		<action type = "10" startFrame = "156" endFrame = "266">
+			<logicFrame>208</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>211</singleFrame>
+			<singleFrame>215</singleFrame>
+			<singleFrame>221</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1302" totalFrames = "204">		<!--张角-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "29" />
+		<action type = "9" startFrame = "30" endFrame = "59">
+			<logicFrame>34</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "8">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "9" endFrame = "39" />
+		<action type = "2" startFrame = "40" endFrame = "58" >
+			<logicFrame>51</logicFrame>
+		</action>
+		<action type = "10" startFrame = "59" endFrame = "164">
+			<logicFrame>89</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>93</singleFrame>
+			<singleFrame>100</singleFrame>
+			<singleFrame>107</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1303" totalFrames = "161">		<!--董卓-->		
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "31" />
+		<action type = "9" startFrame = "32" endFrame = "87">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "8">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "9" endFrame = "52" />
+		<action type = "2" startFrame = "53" endFrame = "75" >
+			<logicFrame>66</logicFrame>
+		</action>
+		<action type = "10" startFrame = "76" endFrame = "161">
+			<logicFrame>105</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>79</singleFrame>
+			<singleFrame>130</singleFrame>
+			<singleFrame>139</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1304" totalFrames = "328">		<!--左慈-->		
+		<action type = "0" startFrame = "0" endFrame = "15"/>
+		<action type = "1" startFrame = "16" endFrame = "27" />
+		<action type = "9" startFrame = "28" endFrame = "75">
+			<logicFrame>48</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "8">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "9" endFrame = "86" />
+		<action type = "2" startFrame = "87" endFrame = "117" >
+			<logicFrame>102</logicFrame>
+		</action>
+		<action type = "10" startFrame = "118" endFrame = "223">
+			<logicFrame>183</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>186</singleFrame>
+			<singleFrame>191</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+<!--许褚-->
+	<animatorRes id ="1305" totalFrames = "315">
+		<action type = "0" startFrame = "0" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "31" />
+		<action type = "9" startFrame = "32" endFrame = "83">
+			<logicFrame>44</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "9">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "10" endFrame = "105" />
+		<action type = "2" startFrame = "106" endFrame = "128" >
+			<logicFrame>116</logicFrame>
+		</action>
+		<action type = "10" startFrame = "129" endFrame = "222">
+			<logicFrame>156</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>160</singleFrame>
+			<singleFrame>171</singleFrame>
+			<singleFrame>185</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1306" totalFrames = "258"><!--	貂蝉-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "31" />
+		<action type = "9" startFrame = "32" endFrame = "81">
+			<logicFrame>55</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "9">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "10" endFrame = "40" />
+		<action type = "2" startFrame = "41" endFrame = "67" >
+			<logicFrame>56</logicFrame>
+		</action>
+		<action type = "10" startFrame = "68" endFrame = "163">
+			<logicFrame>115</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>118</singleFrame>
+			<singleFrame>123</singleFrame>
+			<singleFrame>128</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1307" totalFrames = "263">		<!--	孟获-->
+		<action type = "0" startFrame = "0" endFrame = "15"/>
+		<action type = "1" startFrame = "16" endFrame = "31" />
+		<action type = "9" startFrame = "32" endFrame = "93">
+			<logicFrame>54</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "8">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "9" endFrame = "33" />
+		<action type = "2" startFrame = "34" endFrame = "60" >
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "10" startFrame = "61" endFrame = "166">
+			<logicFrame>96</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>101</singleFrame>
+			<singleFrame>106</singleFrame>
+			<singleFrame>211</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1308" totalFrames = "168">		<!--太史慈	-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "29" />
+		<action type = "9" startFrame = "30" endFrame = "71">
+			<logicFrame>38</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "7">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "8" endFrame = "38" />
+		<action type = "2" startFrame = "39" endFrame = "63" >
+			<logicFrame>55</logicFrame>
+		</action>
+		<action type = "10" startFrame = "64" endFrame = "168">
+			<logicFrame>122</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>125</singleFrame>
+			<singleFrame>140</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1309" totalFrames = "256">		<!--张飞-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "29" />
+		<action type = "9" startFrame = "30" endFrame = "57">
+			<logicFrame>33</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "10">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "11" endFrame = "60" />
+		<action type = "2" startFrame = "61" endFrame = "90" >
+			<logicFrame>73</logicFrame>
+		</action>
+		<action type = "10" startFrame = "91" endFrame = "187">
+			<logicFrame>128</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>131</singleFrame>
+			<singleFrame>153</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1310" totalFrames = "273">					<!--曹操-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "29" />
+		<action type = "9" startFrame = "30" endFrame = "93">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "12">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "13" endFrame = "52" />
+		<action type = "2" startFrame = "53" endFrame = "77" >
+			<logicFrame>64</logicFrame>
+		</action>
+		<action type = "10" startFrame = "78" endFrame = "158">
+			<logicFrame>109</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>112</singleFrame>
+			<singleFrame>116</singleFrame>
+			<singleFrame>122</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1311" totalFrames = "291">		<!--孙尚香-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "29" />
+		<action type = "9" startFrame = "30" endFrame = "89">
+			<logicFrame>56</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "6">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "7" endFrame = "46" />
+		<action type = "2" startFrame = "47" endFrame = "78" >
+			<logicFrame>71</logicFrame>
+		</action>
+		<action type = "10" startFrame = "79" endFrame = "188">
+			<logicFrame>117</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>120</singleFrame>
+			<singleFrame>125</singleFrame>
+			<singleFrame>139</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1312" totalFrames = "214">			<!--夏侯渊-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "33" />
+		<action type = "9" startFrame = "34" endFrame = "61">
+			<logicFrame>46</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "8">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "9" endFrame = "61" />
+		<action type = "2" startFrame = "62" endFrame = "103" >
+			<logicFrame>81</logicFrame>
+		</action>
+		<action type = "10" startFrame = "104" endFrame = "214">
+			<logicFrame>168</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>171</singleFrame>
+			<singleFrame>175</singleFrame>
+			<singleFrame>179</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1313" totalFrames = "264">			<!--黄月英-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "31" />
+		<action type = "9" startFrame = "32" endFrame = "85">
+			<logicFrame>49</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "23">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "24" endFrame = "63" />
+		<action type = "2" startFrame = "64" endFrame = "93" >
+			<logicFrame>77</logicFrame>
+		</action>
+		<action type = "10" startFrame = "94" endFrame = "173">
+			<logicFrame>115</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>118</singleFrame>
+			<singleFrame>123</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+<!--夏侯惇-->
+	<animatorRes id ="1314" totalFrames = "264">
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "29" />
+		<action type = "9" startFrame = "30" endFrame = "87">
+			<logicFrame>48</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "13">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "14" endFrame = "64" />
+		<action type = "2" startFrame = "65" endFrame = "94" >
+			<logicFrame>72</logicFrame>
+		</action>
+		<action type = "10" startFrame = "95" endFrame = "209">
+			<logicFrame>133</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>135</singleFrame>
+			<singleFrame>145</singleFrame>
+			<singleFrame>175</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1315" totalFrames = "291">				<!--吕布-->
+		<action type = "0" startFrame = "0" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "31" />
+		<action type = "9" startFrame = "32" endFrame = "71">
+			<logicFrame>33</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "12">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "13" endFrame = "60" />
+		<action type = "2" startFrame = "61" endFrame = "84" >
+			<logicFrame>67</logicFrame>
+		</action>
+		<action type = "10" startFrame = "85" endFrame = "194">
+			<logicFrame>108</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>110</singleFrame>
+			<singleFrame>133</singleFrame>
+			<singleFrame>136</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+<!--庞统-->
+	<animatorRes id ="1316" totalFrames = "291">
+		<action type = "0" startFrame = "1" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "31" />
+		<action type = "9" startFrame = "32" endFrame = "83">
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "6">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "7" endFrame = "34" />
+		<action type = "2" startFrame = "35" endFrame = "59" >
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "10" startFrame = "60" endFrame = "155">
+			<logicFrame>115</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>117</singleFrame>
+			<singleFrame>131</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1317" totalFrames = "328">			<!--袁绍-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "29" />
+		<action type = "9" startFrame = "30" endFrame = "89">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "15">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "16" endFrame = "40" />
+		<action type = "2" startFrame = "41" endFrame = "56" >
+			<logicFrame>47</logicFrame>
+		</action>
+		<action type = "10" startFrame = "57" endFrame = "236">
+			<logicFrame>136</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>139</singleFrame>
+			<singleFrame>156</singleFrame>
+			<singleFrame>201</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+<!--周瑜-->
+	<animatorRes id ="1318" totalFrames = "310">
+		<action type = "0" startFrame = "0" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "39" />
+		<action type = "9" startFrame = "40" endFrame = "97">
+			<logicFrame>54</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "9">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "10" endFrame = "64" />
+		<action type = "2" startFrame = "65" endFrame = "92" >
+			<logicFrame>80</logicFrame>
+		</action>
+		<action type = "10" startFrame = "93" endFrame = "192">
+			<logicFrame>155</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>157</singleFrame>
+			<singleFrame>181</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+
+	<animatorRes id ="1319" totalFrames = "310">						<!--徐庶-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "29" />
+		<action type = "9" startFrame = "30" endFrame = "89">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "12">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "13" endFrame = "62" />
+		<action type = "2" startFrame = "63" endFrame = "87" >
+			<logicFrame>71</logicFrame>
+		</action>
+		<action type = "10" startFrame = "88" endFrame = "167">
+			<logicFrame>131</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>133</singleFrame>
+			<singleFrame>138</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1320" totalFrames = "310">						<!--关羽-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "33" />
+		<action type = "9" startFrame = "34" endFrame = "77">
+			<logicFrame>46</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "10">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "11" endFrame = "51" />
+		<action type = "2" startFrame = "52" endFrame = "73" >
+			<logicFrame>63</logicFrame>
+		</action>
+		<action type = "10" startFrame = "74" endFrame = "163">
+			<logicFrame>102</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>104</singleFrame>
+			<singleFrame>128</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1321" totalFrames = "78">						<!--通用副将-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "29" />
+		<action type = "9" startFrame = "30" endFrame = "75">
+			<logicFrame>49</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "12">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "13" endFrame = "54" />
+		<action type = "2" startFrame = "55" endFrame = "78" >
+			<logicFrame>73</logicFrame>
+		</action>
+		<action type = "10" startFrame = "78" endFrame = "78">
+			<logicFrame>98</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>104</singleFrame>
+			<singleFrame>128</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1322" totalFrames = "78">						<!--庞德-->
+		<action type = "0" startFrame = "0" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "31" />
+		<action type = "9" startFrame = "32" endFrame = "87">
+			<logicFrame>44</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "9">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "10" endFrame = "54" />
+		<action type = "2" startFrame = "55" endFrame = "79" >
+			<logicFrame>67</logicFrame>
+		</action>
+		<action type = "10" startFrame = "80" endFrame = "194">
+			<logicFrame>93</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>100</singleFrame>
+			<singleFrame>110</singleFrame>
+			<singleFrame>120</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1323" totalFrames = "78">						<!--张辽-->
+		<action type = "0" startFrame = "0" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "33" />
+		<action type = "9" startFrame = "34" endFrame = "65">
+			<logicFrame>43</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "13">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "14" endFrame = "46" />
+		<action type = "2" startFrame = "47" endFrame = "74" >
+			<logicFrame>58</logicFrame>
+		</action>
+		<action type = "10" startFrame = "75" endFrame = "154">
+			<logicFrame>105</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>109</singleFrame>
+			<singleFrame>124</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1324" totalFrames = "78">						<!--黄忠-->
+		<action type = "0" startFrame = "0" endFrame = "21"/>
+		<action type = "1" startFrame = "22" endFrame = "35" />
+		<action type = "9" startFrame = "36" endFrame = "91">
+			<logicFrame>54</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "10">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "11" endFrame = "50" />
+		<action type = "2" startFrame = "51" endFrame = "80" >
+			<logicFrame>70</logicFrame>
+		</action>
+		<action type = "10" startFrame = "81" endFrame = "185">
+			<logicFrame>145</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>151</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1325" totalFrames = "78">						<!--徐晃-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "31" />
+		<action type = "9" startFrame = "32" endFrame = "79">
+			<logicFrame>45</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "11">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "12" endFrame = "42" />
+		<action type = "2" startFrame = "43" endFrame = "64" >
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "10" startFrame = "65" endFrame = "149">
+			<logicFrame>86</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>91</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1326" totalFrames = "78">						<!--祝融-->
+		<action type = "0" startFrame = "0" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "35" />
+		<action type = "9" startFrame = "36" endFrame = "95">
+			<logicFrame>55</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "8">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "9" endFrame = "48" />
+		<action type = "2" startFrame = "49" endFrame = "71" >
+			<logicFrame>56</logicFrame>
+		</action>
+		<action type = "10" startFrame = "72" endFrame = "141">
+			<logicFrame>101</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>109</singleFrame>
+			<singleFrame>121</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1327" totalFrames = "78">						<!--赵云-->
+		<action type = "0" startFrame = "0" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "31" />
+		<action type = "9" startFrame = "32" endFrame = "75">
+			<logicFrame>48</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "10">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "11" endFrame = "50" />
+		<action type = "2" startFrame = "51" endFrame = "80" >
+			<logicFrame>65</logicFrame>
+		</action>
+		<action type = "10" startFrame = "81" endFrame = "168">
+			<logicFrame>110</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>115</singleFrame>
+			<singleFrame>121</singleFrame>
+			<singleFrame>138</singleFrame>
+			<singleFrame>148</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1328" totalFrames = "78">						<!--诸葛亮-->
+		<action type = "0" startFrame = "0" endFrame = "19"/>
+		<action type = "1" startFrame = "20" endFrame = "37" />
+		<action type = "9" startFrame = "38" endFrame = "91">
+			<logicFrame>53</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "8">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "9" endFrame = "38" />
+		<action type = "2" startFrame = "39" endFrame = "65" >
+			<logicFrame>48</logicFrame>
+		</action>
+		<action type = "10" startFrame = "66" endFrame = "151">
+			<logicFrame>105</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>111</singleFrame>
+			<singleFrame>124</singleFrame>
+			<singleFrame>141</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+	<animatorRes id ="1329" totalFrames = "78">						<!--马超-->
+		<action type = "0" startFrame = "0" endFrame = "17"/>
+		<action type = "1" startFrame = "18" endFrame = "33" />
+		<action type = "9" startFrame = "34" endFrame = "73">
+			<logicFrame>42</logicFrame>
+		</action>
+		<action type = "3" startFrame = "1" endFrame = "10">
+			<logicFrame>3</logicFrame>
+		</action>
+		<action type = "8" startFrame = "11" endFrame = "45" />
+		<action type = "2" startFrame = "46" endFrame = "65" >
+			<logicFrame>56</logicFrame>
+		</action>
+		<action type = "10" startFrame = "66" endFrame = "150">
+			<logicFrame>100</logicFrame>
+		</action>
+		<screenshakeframe>
+			<singleFrame>103</singleFrame>
+			<singleFrame>117</singleFrame>
+			<singleFrame>130</singleFrame>
+		</screenshakeframe>
+	</animatorRes>
+	
+</infos>

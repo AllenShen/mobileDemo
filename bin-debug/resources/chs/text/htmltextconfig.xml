@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<htmltextconfig id = "1" text="&lt;b&gt;减少&lt;font color='#ff0000'&gt;30%&lt;/font>的物理伤害或魔法伤害&lt;/b&gt;" pak="html"/>
+<htmltextconfig id = "2" text="玩家等级达到&lt;FONT color=#ff0000&gt;{0}级&lt;/FONT&gt;解锁该空位" pak="html"/>
+</root>
+

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lib allowDomian="*">
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chongzhi.png" class="chongzhi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/di.png" class="di"/>
+
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jiahao.png" class="jiahao"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jibie.png" class="jibie"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jin.png" class="jin"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/kuang.png" class="kuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/liang.png" class="liang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tiao.png" class="tiao"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/touxiangditu.png" class="touxiangditu"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zhuuidiban.png" class="zhuuidiban"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/dadi.png" class="dadi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/anniu.png" class="anniu"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/anniu1.png" class="anniu1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/aoyikuang.png" class="aoyikuang"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/bigpanel.png" class="bigpanel"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/cha.png" class="cha"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/dakuang.png" class="dakuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/hui.png" class="hui"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jiantouyou.png" class="jiantouyou"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jiantouzuo.png" class="jiantouzuo"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/kuang1.png" class="kuang1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/kuang2.png" class="kuang2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/kuang4.png" class="kuang4"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/cheng.png" class="cheng"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lan.png" class="lan"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lv.png" class="lv"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/paizi.png" class="paizi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shangkuang.png" class="shangkuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jinshuxing.png" class="jinshuxing"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/mushuxing.png" class="mushuxing"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shuishuxing.png" class="shuishuxing"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/huoshuxing.png" class="huoshuxing"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tushuxing.png" class="tushuxing"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/smallinput.png" class="smallinput"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/toukuang.png" class="toukuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/transback.png" class="transback"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tubiao.png" class="tubiao"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tubiao1.png" class="tubiao1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tubiao2.png" class="tubiao2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiaokuang.png" class="xiaokuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zhan.png" class="zhan"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zhujiang.png" class="zhujiang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zi.png" class="zi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiongjia.png" class="xiongjia"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/neikuang.png" class="neikuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shou.png" class="shou"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xian.png" class="xian"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zheng.png" class="zheng"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shengji.png" class="shengji"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xun.png" class="xun"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/yijianzhu.png" class="yijianzhu"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/biankuang.png" class="biankuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lvseanniu.png" class="lvseanniu"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/moji.png" class="moji"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/moji2.png" class="moji2"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/wujiangkuang1 .png" class="wujiangkuang1 "/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/suotou.png" class="suotou"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/thinbackgreen.png" class="thinbackgreen"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/thinbackparent.png" class="thinbackparent"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/thinbackred.png" class="thinbackred"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/kuang5.png" class="kuang5"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jin2.png" class="jin2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/kuang3.png" class="kuang3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/liang2.png" class="liang2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/unsnatch.png" class="unsnatch"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/unitmakergaoji.png" class="unitmakergaoji"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/ficon30.png" class="ficon30"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/bingli.png" class="bingli"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/mainiconback.png" class="mainiconback"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/star.png" class="star"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/sceenpop.png" class="sceenpop"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jinbi.png" class="jinbi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jingyan.png" class="jingyan"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/kuangshi.png" class="kuangshi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/liangshi.png" class="liangshi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lijin.png" class="lijin"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/num0.png" class="num0"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/num1.png" class="num1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/num2.png" class="num2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/num3.png" class="num3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/num4.png" class="num4"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/num5.png" class="num5"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/num6.png" class="num6"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/num7.png" class="num7"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/num8.png" class="num8"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/num9.png" class="num9"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiegang.png" class="xiegang"/>
+
+
+
+
+
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jiantou.png" class="jiantou"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shouxiabajiang.png" class="shouxiabajiang"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/vs.png" class="vs"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/buguize.png" class="buguize"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiaotouxiang1.png" class="xiaotouxiang1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiaotouxiang2.png" class="xiaotouxiang2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiaotouxiang3.png" class="xiaotouxiang3"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/bingli2.png" class="bingli2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lijin2.png" class="lijin2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tocity.png" class="tocity"/>
+
+
+
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/at.png" class="at"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/df.png" class="df"/>
+
+
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jianhao.png" class="jianhao"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/p2.png" class="p2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/p2small.png" class="p2small"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/duihuan.png" class="duihuan"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/duihuan2.png" class="duihuan2"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/bao.png" class="bao"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/bao2.png" class="bao2"/>
+
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/bao3.png" class="bao3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/duihuan3.png" class="duihuan3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/p2m.png" class="p2m"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lijin3.png" class="lijin3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/t1.png" class="t1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/t2.png" class="t2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/t3.png" class="t3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/t4.png" class="t4"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/t5.png" class="t5"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiaoquan.png" class="xiaoquan"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/neizheng.png" class="neizheng"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chaxiao.png" class="chaxiao"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/dadi2.png" class="dadi2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/gantanhao.png" class="gantanhao"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lianjinicon.png" class="lianjinicon"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jibiejiangli.png" class="jibiejiangli"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/qq.png" class="qq"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/qqgg.png" class="qqgg"/>
+
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/quest.png" class="quest"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/starag.png" class="starag"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/starau.png" class="starau"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/dadiban.png" class="dadiban"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/fasong.png" class="fasong"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/huangseanniu.png" class="huangseanniu"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/huangseanniuxiao.png" class="huangseanniuxiao"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jiahao2.png" class="jiahao2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jianhao2.png" class="jianhao2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/kafeidi.png" class="kafeidi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/liaotiananniu.png" class="liaotiananniu"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/liaotianxuanzhong.png" class="liaotianxuanzhong"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiaoanniu.png" class="xiaoanniu"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zuoxiajiaodikuang.png" class="zuoxiajiaodikuang"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/buildlabelback.png" class="buildlabelback"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/quest2.png" class="quest2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/anniured.png" class="anniured"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/fheropos.png" class="fheropos"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/cuxiankuang.png" class="cuxiankuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xixiankuang.png" class="xixiankuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tinyred.png" class="tinyred"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jiantoushang.png" class="jiantoushang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jiantouxia.png" class="jiantouxia"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/popkuang.png" class="popkuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/fenge.png" class="fenge"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/biankuang2.png" class="biankuang2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tips.png" class="tips"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/buy.png" class="buy"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shop.png" class="shop"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shensekuang.png" class="shensekuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lvseanniu2.png" class="lvseanniu2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/qieye1.png" class="qieye1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/qieye2.png" class="qieye2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/enhance.png" class="enhance"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/vip.png" class="vip"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lianjin.png" class="lianjin"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/neikuang2.png" class="neikuang2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lvseanniu3.png" class="lvseanniu3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiaocha.png" class="xiaocha"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chaxiao2.png" class="chaxiao2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/wuxingdi.png" class="wuxingdi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/wuxingjiantou.png" class="wuxingjiantou"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/quebing.png" class="quebing"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/baiqi.png" class="baiqi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/anniuzhong.png" class="anniuzhong"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/baoxiang1.png" class="baoxiang1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/baoxiang2.png" class="baoxiang2"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/duxiang.png" class="duxiang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/kaishi.png" class="kaishi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zhanling.png" class="zhanling"/>
+
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiulianjindu.png" class="xiulianjindu"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiulianred.png" class="xiulianred"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiuliangreen.png" class="xiuliangreen"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiulianyellow.png" class="xiulianyellow"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/qieye3.png" class="qieye3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/qieye4.png" class="qieye4"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tiny_gray.png" class="tiny_gray"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/small_gray.png" class="small_gray"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/middle_gray.png" class="middle_gray"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chai.png" class="chai"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chaipaizi.png" class="chaipaizi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/buy2.png" class="buy2"/>
+
+
+
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/qitawanjia2.png" class="qitawanjia2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jinbitouxiangkuang.png" class="jinbitouxiangkuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zaixianjiangli.png" class="zaixianjiangli"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/mailopen.png" class="mailopen"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/mailclose.png" class="mailclose"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/sysmailclose.png" class="sysmailclose"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/sysmailopen.png" class="sysmailopen"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jingli.png" class="jingli"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/staraf.png" class="staraf"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/baoji.png" class="baoji"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/daibing.png" class="daibing"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/mogong.png" class="mogong"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shanbi.png" class="shanbi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/skill.png" class="skill"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zhiliang.png" class="zhiliang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chengzhang.png" class="chengzhang"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tuisongjiangliicon.png" class="tuisongjiangliicon"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/juntunicon.png" class="juntunicon"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/meirirenwuicon.png" class="meirirenwuicon"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/yijiaru.png" class="yijiaru"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/ti.png" class="ti"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/yin.png" class="yin"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/yang.png" class="yang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/anniuredselected.png" class="anniuredselected"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/qianshubiao.png" class="qianshubiao"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/kai.png" class="kai"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/guan.png" class="guan"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/level.png" class="level"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/yuback.png" class="yuback"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/dunpai.png" class="dunpai"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/suijiwuxingshi.png" class="suijiwuxingshi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/biaoti1.jpg" class="biaoti1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/biaoti2.jpg" class="biaoti2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/biaoti3.jpg" class="biaoti3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/hot.png" class="hot"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jijiangkaishi.png" class="jijiangkaishi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tuijian.png" class="tuijian"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/ficon32.png" class="ficon32"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/exp.png" class="exp"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chongzhianniu1.png" class="chongzhianniu1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chongzhianniu2.png" class="chongzhianniu2"/>
+
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chongzhidi.png" class="chongzhidi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chongzhikuang.png" class="chongzhikuang"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/nindetequan1.png" class="nindetequan1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/nindetequan2.png" class="nindetequan2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/nindetequan3.png" class="nindetequan3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/suoyoutequan1.png" class="suoyoutequan1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/suoyoutequan2.png" class="suoyoutequan2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/suoyoutequan3.png" class="suoyoutequan3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/bigpanel2.png" class="bigpanel2"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/lixian.png" class="lixian"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zaixian.png" class="zaixian"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/mail2.png" class="mail2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/mail3.png" class="mail3"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tiao1.png" class="tiao1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tiao2.png" class="tiao2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/mailwarning.png" class="mailwarning"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/unread.png" class="unread"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/chongzhihuodong.png" class="chongzhihuodong"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shortcut.png" class="shortcut"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shoucangyouxi.png" class="shoucangyouxi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xishou.png" class="xishou"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xishou1.png" class="xishou1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/floainginfoback.png" class="floainginfoback"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/baoxianganniu.png" class="baoxianganniu"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/jintou.png" class="jintou"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tongtou.png" class="tongtou"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/yintou.png" class="yintou"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/wancheng.png" class="wancheng"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/resback.png" class="resback"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/smalllock.png" class="smalllock"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/renwuheidi.png" class="renwuheidi"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/diditu.png" class="diditu"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/dianjixiangqian.png" class="dianjixiangqian"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/xiangqiankuang.png" class="xiangqiankuang"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/shengjijiantou.png" class="shengjijiantou"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zikuang.png" class="zikuang"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/haiwei.png" class="haiwei"/>
+
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zu1.jpg" class="zu1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/che1.jpg" class="che1"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/zu2.jpg" class="zu2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/che2.jpg" class="che2"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/weiqude.png" class="weiqude"/>
+<bitmap compression="false" quality="100"  file="./uiresource/packet/tongtianta.png" class="tongtianta"/>
+
+</lib>

@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infos>
+	<singleConfig id = "1421" width = "145" height = "10" centerX = "0" centerY = "0"  showType = "0"/>
+	<singleConfig id = "1422" width = "140" height = "20" centerX = "0" centerY = "0"  showType = "0"/>
+	<singleConfig id = "1423" width = "135" height = "20" centerX = "0" centerY = "0"  showType = "0"/>
+	<singleConfig id = "1431" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0"/>
+	<singleConfig id = "1432" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0"/>
+	
+	<singleConfig id = "1420" width = "160" height = "50" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "18">
+			<logicFrame>6</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "1433" width = "160" height = "50" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "17">
+			<logicFrame>5</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "1426" width = "160" height = "50" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "21">
+			<logicFrame>11</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "1434" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0"/>
+	<singleConfig id = "1435" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "17">
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1436" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "17">
+			<logicFrame>9</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1437" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "15">
+			<logicFrame>8</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1438" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "23">
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1439" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "26">
+			<logicFrame>9</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1440" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "17">
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "1441" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "14">
+			<logicFrame>3</logicFrame>
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1442" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "14">
+			<logicFrame>3</logicFrame>
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "1443" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "31">
+			<logicFrame>7</logicFrame>
+			<logicFrame>22</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1444" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "31">
+			<logicFrame>6</logicFrame>
+			<logicFrame>21</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1445" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "28">
+			<logicFrame>4</logicFrame>
+			<logicFrame>8</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "1446" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "29">
+			<logicFrame>13</logicFrame>
+			<logicFrame>18</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1447" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "25">
+			<logicFrame>11</logicFrame>
+			<logicFrame>16</logicFrame>
+			<logicFrame>21</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1448" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "40">
+			<logicFrame>6</logicFrame>
+			<logicFrame>15</logicFrame>
+			<logicFrame>22</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1449" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "47">
+			<logicFrame>11</logicFrame>
+			<logicFrame>16</logicFrame>
+			<logicFrame>21</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1450" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "47">
+			<logicFrame>11</logicFrame>
+			<logicFrame>16</logicFrame>
+			<logicFrame>21</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1419" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "4">
+			<logicFrame>3</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1418" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "18">
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1417" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "27">
+			<logicFrame>12</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1416" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "19">
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1413" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "22">
+			<logicFrame>6</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1414" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "6">
+			<logicFrame>4</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "1415" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "23">
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "12101" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "12">
+			<logicFrame>5</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12102" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "19">
+			<logicFrame>8</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12103" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "21">
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12104" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "24">
+			<logicFrame>12</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12105" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "20">
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12106" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "18">
+			<logicFrame>6</logicFrame>~
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12107" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "30">
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12108" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "24">
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12109" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "16">
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12110" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "17">
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12111" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "19">
+			<logicFrame>8</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12112" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "23">
+			<logicFrame>8</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12113" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "15">
+			<logicFrame>6</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12114" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "15">
+			<logicFrame>6</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12115" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "42">
+			<logicFrame>20</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "7601" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "23">
+			<logicFrame>9</logicFrame>
+			<logicFrame>17</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7602" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "35">
+			<logicFrame>14</logicFrame>
+			<logicFrame>25</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7603" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "31">
+			<logicFrame>23</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7604" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "31">
+			<logicFrame>23</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7605" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "27">
+			<logicFrame>22</logicFrame>
+			<logicFrame>26</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7606" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "27">
+			<logicFrame>22</logicFrame>
+			<logicFrame>26</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7607" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "28">
+			<logicFrame>9</logicFrame>
+			<logicFrame>14</logicFrame>
+			<logicFrame>20</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7608" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "35">
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7609" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "21">
+			<logicFrame>3</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7610" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "39">
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7611" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "47">
+			<logicFrame>24</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7612" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "47">
+			<logicFrame>24</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7616" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "45">
+			<logicFrame>13</logicFrame>
+			<logicFrame>17</logicFrame>
+			<logicFrame>21</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7617" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "45">
+			<logicFrame>13</logicFrame>
+			<logicFrame>17</logicFrame>
+			<logicFrame>21</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7618" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "35">
+			<logicFrame>3</logicFrame>
+			<logicFrame>10</logicFrame>
+			<logicFrame>17</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "7619" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "45">
+			<logicFrame>13</logicFrame>
+			<logicFrame>21</logicFrame>
+			<logicFrame>29</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7620" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "52">
+			<logicFrame>36</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7621" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "39">
+			<logicFrame>6</logicFrame>
+			<logicFrame>11</logicFrame>
+			<logicFrame>16</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7622" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "27">
+			<logicFrame>3</logicFrame>
+			<logicFrame>12</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7623" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "24">
+			<logicFrame>8</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7624" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "24">
+			<logicFrame>8</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7625" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "38">
+			<logicFrame>10</logicFrame>
+			<logicFrame>20</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7626" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "35">
+			<logicFrame>5</logicFrame>
+			<logicFrame>10</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7627" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "40">
+			<logicFrame>8</logicFrame>
+			<logicFrame>18</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7628" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "21">
+			<logicFrame>7</logicFrame>
+			<logicFrame>12</logicFrame>
+			<logicFrame>17</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7629" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "42">
+			<logicFrame>10</logicFrame>
+			<logicFrame>28</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7630" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "25">
+			<logicFrame>4</logicFrame>
+			<logicFrame>9</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7631" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "42">
+			<logicFrame>8</logicFrame>
+			<logicFrame>15</logicFrame>
+			<logicFrame>22</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7632" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "33">
+			<logicFrame>9</logicFrame>
+			<logicFrame>16</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7633" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "33">
+			<logicFrame>9</logicFrame>
+			<logicFrame>16</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "1402" width = "90" height = "80" centerX = "0" centerY = "0" showType = "0"/>
+	<singleConfig id = "1403" width = "40" height = "16" centerX = "20" centerY = "8" showType = "0"/>
+	<singleConfig id = "1404" width = "98" height = "25" centerX = "20" centerY = "8" showType = "0"/>
+	
+	<singleConfig id = "7401" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "10">
+			<logicFrame>3</logicFrame>
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "7403" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "8">
+			<logicFrame>3</logicFrame>
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "7404" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "20">
+			<logicFrame>4</logicFrame>
+			<logicFrame>11</logicFrame>
+			<logicFrame>18</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7405" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "30">
+			<logicFrame>4</logicFrame>
+			<logicFrame>15</logicFrame>
+			<logicFrame>27</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7406" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "10">
+			<logicFrame>3</logicFrame>
+			<logicFrame>8</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7407" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "20">
+			<logicFrame>3</logicFrame>
+			<logicFrame>8</logicFrame>
+			<logicFrame>13</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7408" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "40">
+			<logicFrame>3</logicFrame>
+			<logicFrame>25</logicFrame>
+			<logicFrame>34</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7409" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "20">
+			<logicFrame>5</logicFrame>
+			<logicFrame>10</logicFrame>
+			<logicFrame>15</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7410" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "20">
+			<logicFrame>3</logicFrame>
+			<logicFrame>18</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7411" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "40">
+			<logicFrame>3</logicFrame>
+			<logicFrame>25</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7412" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "15">
+			<logicFrame>3</logicFrame>
+			<logicFrame>7</logicFrame>
+			<logicFrame>13</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7413" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "25">
+			<logicFrame>3</logicFrame>
+			<logicFrame>8</logicFrame>
+			<logicFrame>22</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7414" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "15">
+			<logicFrame>3</logicFrame>
+			<logicFrame>7</logicFrame>
+			<logicFrame>11</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7415" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "60">
+			<logicFrame>13</logicFrame>
+			<logicFrame>20</logicFrame>
+			<logicFrame>30</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7416" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "10">
+			<logicFrame>2</logicFrame>
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7417" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "50">
+			<logicFrame>2</logicFrame>
+			<logicFrame>12</logicFrame>
+			<logicFrame>42</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7418" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "30">
+			<logicFrame>2</logicFrame>
+			<logicFrame>23</logicFrame>
+			<logicFrame>28</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7419" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "20">
+			<logicFrame>2</logicFrame>
+			<logicFrame>16</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7420" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "70">
+			<logicFrame>3</logicFrame>
+			<logicFrame>20</logicFrame>
+			<logicFrame>65</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7421" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "30">
+			<logicFrame>2</logicFrame>
+			<logicFrame>26</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7422" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "10">
+			<logicFrame>2</logicFrame>
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7423" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "50">
+			<logicFrame>7</logicFrame>
+			<logicFrame>21</logicFrame>
+			<logicFrame>44</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7424" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "35">
+			<logicFrame>7</logicFrame>
+			<logicFrame>17</logicFrame>
+			<logicFrame>27</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7425" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "25">
+			<logicFrame>4</logicFrame>
+			<logicFrame>19</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7426" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "10">
+			<logicFrame>6</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7427" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "10">
+			<logicFrame>5</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7428" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "25">
+			<logicFrame>8</logicFrame>
+			<logicFrame>20</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7429" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "45">
+			<logicFrame>5</logicFrame>
+			<logicFrame>11</logicFrame>
+			<logicFrame>28</logicFrame>
+			<logicFrame>38</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7430" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "45">
+			<logicFrame>6</logicFrame>
+			<logicFrame>19</logicFrame>
+			<logicFrame>36</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "7431" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "35">
+			<logicFrame>3</logicFrame>
+			<logicFrame>17</logicFrame>
+			<logicFrame>30</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "12001" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "23">
+			<logicFrame>7</logicFrame>
+			<logicFrame>13</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12002" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "26">
+			<logicFrame>2</logicFrame>
+			<logicFrame>7</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12003" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "26">
+			<logicFrame>8</logicFrame>
+			<logicFrame>17</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+	<singleConfig id = "12011" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "21">
+			<logicFrame>9</logicFrame>
+			<logicFrame>14</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12012" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "21">
+			<logicFrame>7</logicFrame>
+			<logicFrame>12</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12013" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "32">
+			<logicFrame>7</logicFrame>
+			<logicFrame>13</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	<singleConfig id = "12014" width = "100" height = "100" centerX = "0" centerY = "0" showType = "0">
+		<frameconfig totalFrame = "25">
+			<logicFrame>7</logicFrame>
+			<logicFrame>15</logicFrame>
+		</frameconfig>
+	</singleConfig>
+	
+</infos>
