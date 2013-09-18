@@ -31,6 +31,7 @@ package modules.battle.stage
 		
 		public function showSingleStar(troopinfo:CellTroopInfo,forceNeed:Boolean = false):void
 		{
+			return;
 			if(troopinfo == null)
 				return;
 			

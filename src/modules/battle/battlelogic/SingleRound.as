@@ -63,22 +63,22 @@ package modules.battle.battlelogic
 				if(selfRoundIndex % BattleDefine.autoStarIncreaseRoundGap == 0)
 				{
 					
-					var troops:Array = BattleUnitPool.getTroopsOfSomeSide(1);
-					var realTroops:Array = [];
-					for(var i:int = 0;i < troops.length;i++)
-					{
-						var singleTroop:CellTroopInfo = troops[i];
-						if(singleTroop && singleTroop.logicStatus != LogicSatusDefine.lg_status_dead && singleTroop.logicStatus != LogicSatusDefine.lg_status_forceDead && singleTroop.visible)
-							realTroops.push(singleTroop);
-					}
-					var randomTroop:CellTroopInfo = realTroops[int(realTroops.length * Math.random())];
-					if(randomTroop)
-					{
-						BattleStage.instance.dropedStartLayer.showSingleStar(randomTroop,true);
-					}
+//					var troops:Array = BattleUnitPool.getTroopsOfSomeSide(1);
+//					var realTroops:Array = [];
+//					for(var i:int = 0;i < troops.length;i++)
+//					{
+//						var singleTroop:CellTroopInfo = troops[i];
+//						if(singleTroop && singleTroop.logicStatus != LogicSatusDefine.lg_status_dead && singleTroop.logicStatus != LogicSatusDefine.lg_status_forceDead && singleTroop.visible)
+//							realTroops.push(singleTroop);
+//					}
+//					var randomTroop:CellTroopInfo = realTroops[int(realTroops.length * Math.random())];
+//					if(randomTroop)
+//					{
+//						BattleStage.instance.dropedStartLayer.showSingleStar(randomTroop,true);
+//					}
 					
 					//召唤点
-//					DemoManager.handleSingleStarQualified(NextSupplyShow.starSupplyTypeNone,0,1);
+					DemoManager.handleSingleStarQualified(NextSupplyShow.starSupplyTypeNone,0,1);
 //					if(BattleInfoSnap.MaxSelfSupplyCount > 0)
 //					{
 //						BattleInfoSnap.MaxSelfSupplyCount--;
