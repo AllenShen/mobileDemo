@@ -506,7 +506,7 @@ package modules.battle.stage
 				for(var i:int = 0;i < startsNeed * 2;i++)
 					DeadEnemyCycle.instance.handleSelfArmCycled();
 				
-				for(var i:int = 0;i < startsNeed * 2;i++)
+				for(var i:int = 0;i < startsNeed;i++)
 					DemoManager.handleSingleStarQualified(NextSupplyShow.starSupplyTypeNone,0,1);
 				
 			}
