@@ -236,6 +236,8 @@ package modules.battle.managers
 		
 		public static var needCheckStuckSupply:Boolean = false;
 		
+		public static var hebingTarget:Object = new Object();
+		
 		public function BattleInfoSnap()
 		{
 		}
@@ -273,6 +275,7 @@ package modules.battle.managers
 		 */
 		public static function recordAllTroopSnapshot():void
 		{
+//			hebingTarget = {};
 			hasHeroRecalled = false;
 			needFanjiChains = {};
 			allVerticalMovingTroops ={};
@@ -542,6 +545,7 @@ package modules.battle.managers
 		 */
 		public static function clearInfo():void
 		{
+			hebingTarget = {};
 			needCheckStuckSupply = false;
 			heroCalledCount = 0;
 			canDirectCall = false;

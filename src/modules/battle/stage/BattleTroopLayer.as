@@ -390,7 +390,7 @@ package modules.battle.stage
 		private function checkHeBingLogic(targetTroop:CellTroopInfo):int
 		{
 			var needHeBing:int = -1;
-			
+			return needHeBing;
 			if(targetTroop.ownerSide == BattleDefine.secondAtk)
 				return needHeBing;
 			
@@ -465,11 +465,16 @@ package modules.battle.stage
 			if(cellInFront < 0)
 				cellInFront = checkHeBingLogic(targetTroop);		//将自己的数据 累加到原本位置
 			
+			targetTroop.isHeBing = false;
+			
+			delete BattleInfoSnap.hebingTarget[cellInFront];
+			
 			var at:int = 0;
 			var singleOccupidCell:Cell
 			var oldCell:Cell = BattleUnitPool.getCellInfo(cellInFront);
 			var	oldTroop:CellTroopInfo = oldCell.troopInfo;
-			if(oldTroop)
+			if(oldTroop && oldTroop.logicStatus != LogicSatusDefine.lg_status_dead && oldTroop.logicStatus != LogicSatusDefine.lg_status_hangToDie
+				&& oldTroop.logicStatus != LogicSatusDefine.lg_status_forceDead)
 			{
 				targetTroop.curArmCount = 0;
 				targetTroop.curTroopHp = 0;
@@ -501,8 +506,7 @@ package modules.battle.stage
 					DeadEnemyCycle.instance.handleSelfArmCycled();
 				
 			}
-			else if(oldTroop == null || oldTroop.logicStatus == LogicSatusDefine.lg_status_dead || oldTroop.logicStatus == LogicSatusDefine.lg_status_hangToDie
-				|| oldTroop.logicStatus == LogicSatusDefine.lg_status_forceDead)				//当前位置troop已死  直接替换
+			else				//当前位置troop已死  直接替换
 			{
 				var oldOccupiedArr:Array = BattleFunc.getCellsOccupied(targetTroop.troopIndex);
 				for(at = 0;at < oldOccupiedArr.length;at++)
@@ -513,6 +517,9 @@ package modules.battle.stage
 				}
 				
 				targetTroop.occupiedCellStart = cellInFront;
+				
+				targetTroop.logicStatus = LogicSatusDefine.lg_status_idle;
+				targetTroop.playAction(ActionDefine.Action_Idle,-1);
 				
 				oldOccupiedArr = BattleFunc.getCellsOccupoedByStartCellIndex(cellInFront,targetTroop.cellsCountNeed,sourceSide);
 				for(at = 0;at < oldOccupiedArr.length;at++)
@@ -587,7 +594,6 @@ package modules.battle.stage
 		
 		public function checkHeBingOnSameLine(targetTroop:Cell):void
 		{
-			trace("手指移动");
 			if(targetTroop == null || targetTroop.troopInfo.mcStatus == McStatusDefine.mc_status_attacking || targetTroop.troopInfo.logicStatus == LogicSatusDefine.lg_status_dead)
 				return;
 			var cellInFront:int = findHebingOnSameLine(targetTroop);
@@ -597,6 +603,8 @@ package modules.battle.stage
 			targetTroop.troopInfo.logicStatus = LogicSatusDefine.lg_status_filling;
 			targetTroop.troopInfo.playAction(ActionDefine.Action_Run,-1);
 			var duration:Number = getTroopMoveDuratonOfReborn(Math.abs(targetPostion.x - targetTroop.troopInfo.x));
+			targetTroop.troopInfo.isHeBing = true;
+			BattleInfoSnap.hebingTarget[cellInFront] = 1;
 			Tweener.addTween(targetTroop.troopInfo,{x:targetPostion.x,time:Utility.getFrameByTime(duration),useFrames:true,
 				transition:"linear",onComplete:onHebingMoveComplete,onCompleteParams:[false,targetTroop.troopInfo,cellInFront]});
 		}

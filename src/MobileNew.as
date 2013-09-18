@@ -55,8 +55,6 @@ package
 		{
 			super();
 			
-			trace("这是测试");
-			
 			instance = this;
 			
 			AnimatorEngine.startEngine();

@@ -206,7 +206,8 @@ package modules.battle.funcclass
 				tempCellInfo = BattleUnitPool.getCellInfo(startBack) as Cell;
 				if(tempCellInfo)
 				{
-					if(tempCellInfo.troopInfo == null || tempCellInfo.troopInfo.logicStatus == LogicSatusDefine.lg_status_dead || tempCellInfo.troopInfo.logicStatus == LogicSatusDefine.lg_status_forceDead)
+					if((tempCellInfo.troopInfo == null || tempCellInfo.troopInfo.logicStatus == LogicSatusDefine.lg_status_dead || 
+						tempCellInfo.troopInfo.logicStatus == LogicSatusDefine.lg_status_forceDead) && !BattleInfoSnap.hebingTarget.hasOwnProperty(startBack))
 					{
 						freeIndexObj[tempCellInfo.index] = 1;			//将空闲的cell加入到空闲列表中
 					}
@@ -272,7 +273,7 @@ package modules.battle.funcclass
 						if(expectedQulified)
 						{
 							if( (curCehckTroop.logicStatus == LogicSatusDefine.lg_status_idle && curCehckTroop.mcStatus == McStatusDefine.mc_status_idle) || 
-								curCehckTroop.logicStatus == LogicSatusDefine.lg_status_filling)
+								(curCehckTroop.logicStatus == LogicSatusDefine.lg_status_filling && !curCehckTroop.isHeBing) )
 							{
 								quilifiedMovePos = expectedOccupidPos;
 							}
