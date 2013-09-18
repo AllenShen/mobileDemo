@@ -11,6 +11,8 @@ package modules.battle.stage
 	public class BattleDropStarLayer extends Sprite
 	{
 		
+		public static var geneDropStarProp:Number = 0.5;
+		
 		public function BattleDropStarLayer()
 		{
 		}
@@ -32,6 +34,10 @@ package modules.battle.stage
 		{
 			if(troopinfo == null)
 				return;
+			
+			if(Math.random() > geneDropStarProp)
+				return;
+			
 			var newDropStar:BattleDropStarShow = new BattleDropStarShow();
 			this.addChild(newDropStar);
 			
