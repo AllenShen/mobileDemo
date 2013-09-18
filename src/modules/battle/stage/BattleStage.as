@@ -76,6 +76,7 @@ package modules.battle.stage
 		private var _daojuLayer:BattleDaojuLayer;
 		private var _effectLayer:BattleEffectLayer;					//效果层
 		private var _userChooseLayer:BattleChooseLayer;				//玩家选择层
+		private var _dropedStartLayer:BattleDropStarLayer;
 		
 		private var testBtn:Button;
 		private var troopIndexInput:TextInput;
@@ -114,6 +115,7 @@ package modules.battle.stage
 			_effectLayer = new BattleEffectLayer;
 			
 			_userChooseLayer = new BattleChooseLayer();
+			_dropedStartLayer = new BattleDropStarLayer();
 			
 			_shakeLayer.addChild(_battleBackGroundLayer);
 			_shakeLayer.addChild(_aoYiEffectLayer);
@@ -122,8 +124,12 @@ package modules.battle.stage
 			_shakeLayer.addChild(_zhezhaoLayer);
 			_shakeLayer.addChild(_daojuLayer);
 			_shakeLayer.addChild(_effectLayer);
+			_shakeLayer.addChild(_dropedStartLayer);
 			
 			this.addChild(_userChooseLayer);
+			this.addChild(_dropedStartLayer);
+			_dropedStartLayer.mouseEnabled = false;
+			
 			_userChooseLayer.visible = true;
 			
 			_zhezhaoLayer.mouseEnabled = false;
@@ -219,6 +225,16 @@ package modules.battle.stage
 			GameEventHandler.addListener(EventMacro.CommonEventHandler,CommonEventTypeDefine.Event_ScreenChanged,onscreenChange);
 		}
 		
+		public function get dropedStartLayer():BattleDropStarLayer
+		{
+			return _dropedStartLayer;
+		}
+
+		public function set dropedStartLayer(value:BattleDropStarLayer):void
+		{
+			_dropedStartLayer = value;
+		}
+
 		private function onscreenChange(event:Event):void
 		{
 			if(selfMask)

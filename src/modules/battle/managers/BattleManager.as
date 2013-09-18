@@ -1045,6 +1045,8 @@ package modules.battle.managers
 			{
 				DeadEnemyProgressShow.instance.handleSingleEnemyDead();
 				DeadEnemyCycle.instance.handleSingleEnemyDead();
+				//单个敌人死亡
+				BattleStage.instance.dropedStartLayer.showSingleStar(targetTroop);
 			}
 		}
 		
