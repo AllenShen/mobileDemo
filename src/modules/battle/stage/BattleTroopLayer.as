@@ -509,6 +509,9 @@ package modules.battle.stage
 				for(var i:int = 0;i < startsNeed;i++)
 					DemoManager.handleSingleStarQualified(NextSupplyShow.starSupplyTypeNone,0,1);
 				
+				oldTroop.curLevel++;
+				oldTroop.levelTextShow.text = oldTroop.curLevel.toString();
+				oldTroop.levelTextShow.visible = true;
 			}
 			else				//当前位置troop已死  直接替换
 			{
