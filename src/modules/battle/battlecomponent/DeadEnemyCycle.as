@@ -110,6 +110,8 @@ package modules.battle.battlecomponent
 		//敌人死亡
 		public function handleSingleEnemyDead():void
 		{
+			if(!this.visible)
+				return;
 			if(isMoving)
 				return;
 			curCount += 1;
@@ -118,6 +120,8 @@ package modules.battle.battlecomponent
 		//我方自己的兵被点掉
 		public function handleSelfArmCycled():void
 		{
+			if(!this.visible)
+				return;
 			if(isMoving)
 				return;
 			curCount += 1;

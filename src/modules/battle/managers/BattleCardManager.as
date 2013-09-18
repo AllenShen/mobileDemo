@@ -286,6 +286,7 @@ package modules.battle.managers
 			DeadEnemyCycle.instance.y = BattleDefine.legalBattleHeight - 105;
 			DeadEnemyCycle.instance.x = 400;
 			DeadEnemyCycle.instance.curCount = 0;
+			DeadEnemyCycle.instance.visible = false;
 			
 			GameEventHandler.addListener(EventMacro.NORMAL_BATTLE_EVENT,BattleCardManager.playerHeroDeadEvent,playerHeroDeadHandler);
 		}
