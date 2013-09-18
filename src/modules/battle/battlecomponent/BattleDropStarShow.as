@@ -11,7 +11,7 @@ package modules.battle.battlecomponent
 		{
 			super();
 			this.graphics.clear();
-			this.graphics.beginFill(0xff0000,0.5);
+			this.graphics.beginFill(0xff0000,1);
 			this.graphics.drawCircle(0,0,20);
 			this.graphics.endFill();
 			
