@@ -53,7 +53,7 @@ package modules.battle.battlelogic
 				//初始化阶段
 				DemoManager.handleSingleStarQualified(NextSupplyShow.starSupplyTypeNone,0,1);
 				if(selfRoundIndex < 3)
-				DemoManager.handleSingleStarQualified(NextSupplyShow.starSupplyTypeNone,0,1);
+					DemoManager.handleSingleStarQualified(NextSupplyShow.starSupplyTypeNone,0,1);
 //				if(selfRoundIndex % 2 == 0)
 					DemoManager.makeEnemySupply();
 			}
@@ -61,7 +61,8 @@ package modules.battle.battlelogic
 			{
 				if(selfRoundIndex % BattleDefine.autoStarIncreaseRoundGap == 0)
 				{
-					DemoManager.handleSingleStarQualified(NextSupplyShow.starSupplyTypeNone,0,1);
+					//召唤点
+//					DemoManager.handleSingleStarQualified(NextSupplyShow.starSupplyTypeNone,0,1);
 //					if(BattleInfoSnap.MaxSelfSupplyCount > 0)
 //					{
 //						BattleInfoSnap.MaxSelfSupplyCount--;
