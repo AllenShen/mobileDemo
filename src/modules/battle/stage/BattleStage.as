@@ -321,7 +321,7 @@ package modules.battle.stage
 			
 			this.addChild(NextSupplyShow.instance);
 			NextSupplyShow.instance.x = 530;
-			NextSupplyShow.instance.y = 200;
+			NextSupplyShow.instance.y = 150;
 			
 			BattleDisplayDefine.atkStartPos.y = BattleDisplayDefine.defualtYValue + (-10 - BattleDisplayDefine.cellGapVertocal) * BattleDefine.maxFormationYValue / 2;
 			BattleDisplayDefine.defStartPos.y = BattleDisplayDefine.defualtYValue + (-10 - BattleDisplayDefine.cellGapVertocal) * BattleDefine.maxFormationYValue / 2;
