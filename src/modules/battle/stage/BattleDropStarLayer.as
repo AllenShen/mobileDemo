@@ -10,7 +10,7 @@ package modules.battle.stage
 	public class BattleDropStarLayer extends Sprite
 	{
 		
-		public static var geneDropStarProp:Number = 0.5;
+		public static var geneDropStarProp:Number = 0.3;
 		
 		public function BattleDropStarLayer()
 		{
