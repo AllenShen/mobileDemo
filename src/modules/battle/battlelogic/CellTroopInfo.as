@@ -122,6 +122,7 @@ package modules.battle.battlelogic
 		
 		private var _mcStatus:int = 0;				//当前显示的状态，显示层   正在攻击，或者正在被攻击
 		private var _logicStatus:int = 0;			//当前的逻辑状态，表示是否死亡等等
+		public var isHeBing:Boolean = false;
 		
 		private var _occupiedCellStart:int;		//占用的格子,起点
 		
