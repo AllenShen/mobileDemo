@@ -622,6 +622,7 @@ package modules.battle.funcclass
 		 */
 		public static function initTroopStaggerTimer(troopInofo:CellTroopInfo,init:Boolean = false,time:int = 0):void
 		{
+			return;
 			if(troopInofo == null)
 				return;
 			troopInofo.staggerFrameCountLeft = 0;

@@ -99,6 +99,7 @@ package modules.battle.battlelogic
 		 */
 		public function initStaggerTimeByVertical(rowIndex:int):void
 		{
+			return;
 			var curRowArr:Array = BattleFunc.particularTroopsVertical(rowIndex,this);
 			if(curRowArr == null || curRowArr.length == 0)
 			{

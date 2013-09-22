@@ -238,6 +238,8 @@ package modules.battle.managers
 		
 		public static var hebingTarget:Object = new Object();
 		
+		public static var quanTiGongJiRound = 0; 
+		
 		public function BattleInfoSnap()
 		{
 		}
@@ -545,6 +547,7 @@ package modules.battle.managers
 		 */
 		public static function clearInfo():void
 		{
+			quanTiGongJiRound = 0;
 			hebingTarget = {};
 			needCheckStuckSupply = false;
 			heroCalledCount = 0;

@@ -156,7 +156,7 @@ package modules.battle.stage
 				testBtn.visible = true;
 			else
 				testBtn.visible = false;
-			testBtn.visible = false;
+			testBtn.visible = true;
 			
 			troopIndexInput = new TextInput;
 			troopIndexInput.x = 80;

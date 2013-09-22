@@ -22,7 +22,7 @@ package modules.battle.battlecomponent
 	import modules.battle.funcclass.TroopFunc;
 	import modules.battle.managers.BattleManager;
 	import modules.battle.managers.BattleTargetSearcher;
-	import modules.battle.managers.DemoManager;
+	import modules.battle.managers.*;
 	
 	public class DeadEnemyCycle extends Sprite
 	{
@@ -186,6 +186,8 @@ package modules.battle.battlecomponent
 			Tweener.removeTweens(this.maskSprite);
 			Tweener.addTween(maskSprite,{y:2* radius,time:maskMoveTime/1000,transition:"linear",onComplete:onBaojiMoveEnd});
 			
+			BattleInfoSnap.quanTiGongJiRound = 5;
+			return;
 			
 			var targetArr:Array = BattleTargetSearcher.getTargetsForSomeRange(0,AttackRangeDefine.woFangQuanTi);
 			var singleEffect:BattleSingleEffect;
