@@ -42,7 +42,8 @@ package modules.battle.battlecomponent
 		
 		private var supplyTimer:Timer;
 		private var supplyTime:int = 3;			//步进次数
-	
+		private static const originalTotalStarCount:int = 4; 
+		private var totalSupplyStarCount:int = originalTotalStarCount;
 		
 		private static var _instance:DeadEnemyCycle;
 		
@@ -128,6 +129,7 @@ package modules.battle.battlecomponent
 		}
 		
 		private function initTimer(init:Boolean):void{
+			totalSupplyStarCount = originalTotalStarCount;
 			if(supplyTimer)
 			{
 				supplyTimer.removeEventListener(TimerEvent.TIMER,onTImerTrigger);
@@ -145,12 +147,17 @@ package modules.battle.battlecomponent
 		private function onTImerTrigger(event:TimerEvent):void
 		{
 			var starsCount:int = 0;
-			while(starsCount != 1)
+			if(totalSupplyStarCount <= 0)
+				return;
+			var minStarCount:int = Math.min(totalSupplyStarCount,2);
+			while(starsCount > minStarCount || starsCount <= 0)
 			{
 				var index:int = int(NextSupplyShow.allSupplyTypes.length * Math.random());
 				var tempSupplyType:int = NextSupplyShow.allSupplyTypes[index]; 
 				starsCount = NextSupplyShow.getStarCountNeed(tempSupplyType);
 			}
+			
+			totalSupplyStarCount -= starsCount;
 			
 			var supplyArmType:int = NextSupplyShow.gettargetArmTypeBySupplytype(tempSupplyType);
 			var supplyeArmResId:int = DemoManager.getSingleRandomId(tempSupplyType);
@@ -186,7 +193,7 @@ package modules.battle.battlecomponent
 			Tweener.removeTweens(this.maskSprite);
 			Tweener.addTween(maskSprite,{y:2* radius,time:maskMoveTime/1000,transition:"linear",onComplete:onBaojiMoveEnd});
 			
-			BattleInfoSnap.quanTiGongJiRound = 5;
+			BattleInfoSnap.quanTiGongJiRound = 15;
 			return;
 			
 			var targetArr:Array = BattleTargetSearcher.getTargetsForSomeRange(0,AttackRangeDefine.woFangQuanTi);
