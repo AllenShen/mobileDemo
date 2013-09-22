@@ -238,7 +238,7 @@ package modules.battle.managers
 		
 		public static var hebingTarget:Object = new Object();
 		
-		public static var quanTiGongJiRound = 0; 
+		public static var quanTiGongJiRound:int = 0; 
 		
 		public function BattleInfoSnap()
 		{
