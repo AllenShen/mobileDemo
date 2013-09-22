@@ -47,7 +47,7 @@ package modules.battle.battlecomponent
 		private static var _instance:DeadEnemyCycle;
 		
 		//总的点数
-		private const maxCount:int = 10; 
+		private const maxCount:int = 9; 
 		
 		public static function get instance():DeadEnemyCycle
 		{
