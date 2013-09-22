@@ -121,7 +121,7 @@ package modules.battle.managers
 		
 		public var curHangSkillAttackChains:Object={};
 		
-		public static var needDebugBattle:Boolean = true;
+		public static var needDebugBattle:Boolean = false;
 		public static var needTraceBattleInfo:Boolean = false;
 		
 		private var atksideFormation:Array;

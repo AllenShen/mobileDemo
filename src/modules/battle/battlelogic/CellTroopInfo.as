@@ -689,6 +689,8 @@ package modules.battle.battlelogic
 			{
 				currentAttackRange = this.attackUnit.attackRange;
 				curAtkDistance = this.attackUnit.attackDistance;
+				if(BattleInfoSnap.quanTiGongJiRound > 0)
+					curAtkDistance = 100;
 				targets = BattleTargetSearcher.getTargetsForSomeRange(troopIndex,this.attackUnit.attackRange,curAtkDistance,null,currentAttackRange,allDangQianGongjiTroops);
 				if(targets == null || targets.length == 0)						//没有找到目标，可能是距离不够等原因
 				{
