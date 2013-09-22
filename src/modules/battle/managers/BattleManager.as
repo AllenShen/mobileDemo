@@ -121,7 +121,7 @@ package modules.battle.managers
 		
 		public var curHangSkillAttackChains:Object={};
 		
-		public static var needDebugBattle:Boolean = false;
+		public static var needDebugBattle:Boolean = true;
 		public static var needTraceBattleInfo:Boolean = false;
 		
 		private var atksideFormation:Array;
@@ -1447,7 +1447,23 @@ package modules.battle.managers
 		{
 			BattleInfoSnap.needPauseBattle = false;
 			
-			var atkResult:Boolean = makePowersideAttack(BattleInfoSnap.battleContinueAtkRow,BattleInfoSnap.battleContinueDefRow);
+			var atkResult:Boolean = false;
+			
+			if(BattleInfoSnap.quanTiGongJiRound > 0)
+			{
+				for(var i:int = 0;i < pSideAtk.xMaxValue - 1;i++)
+				{
+					if(i != BattleInfoSnap.battleContinueAtkRow)
+						makePowersideAttack(i,-1);
+					else
+						atkResult = makePowersideAttack(i,BattleInfoSnap.battleContinueDefRow);
+				}
+				BattleInfoSnap.quanTiGongJiRound--;
+			}
+			else
+			{
+				atkResult = makePowersideAttack(BattleInfoSnap.battleContinueAtkRow,BattleInfoSnap.battleContinueDefRow);
+			}
 			
 			if(!atkResult)
 			{
