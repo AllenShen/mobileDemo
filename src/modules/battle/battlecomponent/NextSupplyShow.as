@@ -238,7 +238,7 @@ package modules.battle.battlecomponent
 			
 			if(supplyHeroOrArm == 0)
 			{
-				var targetStarCount:int = 1;
+				var targetStarCount:int = 2;
 				starsCount = -1;
 				while((starsCount < targetStarCount && targetStarCount > 0) || starsCount < 0)					//只补进2星兵
 				{
