@@ -66,6 +66,8 @@ package modules.battle.managers
 	import sysdata.MapEnemyUnit;
 	
 	import utils.TroopActConfig;
+	import modules.battle.funcclass.TroopEffectDisplayFunc;
+	import modules.battle.battledefine.EffectShowTypeDefine;
 
 	/**
 	 * 整个战斗的Manager 
@@ -1459,6 +1461,15 @@ package modules.battle.managers
 						atkResult = makePowersideAttack(i,BattleInfoSnap.battleContinueDefRow);
 				}
 				BattleInfoSnap.quanTiGongJiRound--;
+				var allTroops:Array = BattleUnitPool.getAllTroops();
+				for(var ii:int = 0; ii < allTroops.length;ii++)
+				{
+					var singleTroopinfo:CellTroopInfo = allTroops[ii];
+					if(singleTroopinfo == null || !singleTroopinfo.visible || singleTroopinfo.ownerSide != 0 ||
+						singleTroopinfo.logicStatus == LogicSatusDefine.lg_status_dead || singleTroopinfo.isHero)
+						continue;
+					TroopEffectDisplayFunc.showSingleNormalEffect(singleTroopinfo,singleTroopinfo,EffectShowTypeDefine.VariousEffect_XiaoBingJiNeng);
+				}
 			}
 			else
 			{
