@@ -15,7 +15,6 @@ package modules.battle.stage
 	import eventengine.GameEventHandler;
 	
 	import fl.controls.Button;
-	import fl.controls.Label;
 	import fl.controls.TextInput;
 	
 	import handlers.server.BattleHandler;
