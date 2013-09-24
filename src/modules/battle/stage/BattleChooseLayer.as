@@ -162,13 +162,22 @@ package modules.battle.stage
 			if(mouseDownPos == null)
 				return;
 			mouseReleasePos = new Point(mouseX,mouseY);
+			var realCell:Cell = null;
 			if(mouseReleasePos.x - mouseDownPos.x >= 30)
 			{
 				if(curSlideTarget == null || curSlideTarget.troopInfo == null || curSlideTarget.troopInfo.logicStatus == LogicSatusDefine.lg_status_dead)
 					return;
 				isSliding = true;
-				var reakCell:Cell = BattleUnitPool.getCellInfo(curSlideTarget.troopInfo.occupiedCellStart);
-				BattleStage.instance.troopLayer.checkHeBingOnSameLine(reakCell);
+				realCell = BattleUnitPool.getCellInfo(curSlideTarget.troopInfo.occupiedCellStart);
+				BattleStage.instance.troopLayer.checkHeBingOnSameLine(realCell);
+			}
+			else if(mouseDownPos.x - mouseReleasePos.x >= 20)			//反响滑动
+			{
+				if(curSlideTarget == null || curSlideTarget.troopInfo == null || curSlideTarget.troopInfo.logicStatus == LogicSatusDefine.lg_status_dead)
+					return;
+				isSliding = true;
+				realCell = BattleUnitPool.getCellInfo(curSlideTarget.troopInfo.occupiedCellStart);
+				BattleStage.instance.troopLayer.checkFanXiangHeBingOnSameLine(realCell);
 			}
 		}
 		

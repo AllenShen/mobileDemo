@@ -460,6 +460,28 @@ package modules.battle.stage
 			return needHeBing;
 		}
 		
+		private function findFanXiangHeBingOnSameLine(cellInfo:Cell):int
+		{
+			var needHeBing:int = -1;
+			var troopPos:Point = BattleTargetSearcher.getRowColumnByCellIndex(cellInfo.index);
+			if(troopPos.x > 3)
+				needHeBing = -1;
+			else
+			{
+				for(var i:int = troopPos.x + 1;i < 4 ;i++)
+				{
+					var checkCellInfo:Cell = BattleTargetSearcher.getCellByRowColumn(BattleManager.instance.pSideAtk,new Point(i,troopPos.y));
+					if(checkCellInfo == null || checkCellInfo.troopInfo == null || checkCellInfo.troopInfo.mcIndex != cellInfo.troopInfo.mcIndex)
+						continue;
+					if(checkCellInfo.troopInfo.occupiedCellStart != checkCellInfo.index)
+						continue;
+					needHeBing = checkCellInfo.index;
+					break;
+				}
+			}
+			return needHeBing;
+		}
+		
 		private function onHebingMoveComplete(isSupply:Boolean ,targetTroop:CellTroopInfo,cellInFront:int = -1):void
 		{
 			var sourceSide:PowerSide = targetTroop.ownerSide == BattleDefine.firstAtk ? BattleManager.instance.pSideAtk : BattleManager.instance.pSideDef;
@@ -607,6 +629,24 @@ package modules.battle.stage
 			if(cellInFront < 0)
 				return;
 			var targetPostion:Point = TroopDisplayFunc.getCellPos(cellInFront,targetTroop.troopInfo.ownerSide == BattleDefine.firstAtk);
+			targetTroop.troopInfo.logicStatus = LogicSatusDefine.lg_status_filling;
+			targetTroop.troopInfo.playAction(ActionDefine.Action_Run,-1);
+			var duration:Number = getTroopMoveDuratonOfReborn(Math.abs(targetPostion.x - targetTroop.troopInfo.x));
+			targetTroop.troopInfo.isHeBing = true;
+			BattleInfoSnap.hebingTarget[cellInFront] = 1;
+			Tweener.addTween(targetTroop.troopInfo,{x:targetPostion.x,time:Utility.getFrameByTime(duration),useFrames:true,
+				transition:"linear",onComplete:onHebingMoveComplete,onCompleteParams:[false,targetTroop.troopInfo,cellInFront]});
+		}
+		
+		public function checkFanXiangHeBingOnSameLine(targetTroop:Cell):void
+		{
+			if(targetTroop == null || targetTroop.troopInfo.mcStatus == McStatusDefine.mc_status_attacking || targetTroop.troopInfo.logicStatus == LogicSatusDefine.lg_status_dead)
+				return;
+			var cellInFront:int = findFanXiangHeBingOnSameLine(targetTroop);
+			if(cellInFront < 0)
+				return;
+			var targetPostion:Point = TroopDisplayFunc.getCellPos(cellInFront,targetTroop.troopInfo.ownerSide == BattleDefine.firstAtk);
+
 			targetTroop.troopInfo.logicStatus = LogicSatusDefine.lg_status_filling;
 			targetTroop.troopInfo.playAction(ActionDefine.Action_Run,-1);
 			var duration:Number = getTroopMoveDuratonOfReborn(Math.abs(targetPostion.x - targetTroop.troopInfo.x));
