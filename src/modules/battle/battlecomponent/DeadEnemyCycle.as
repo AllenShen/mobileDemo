@@ -42,7 +42,7 @@ package modules.battle.battlecomponent
 		
 		private var supplyTimer:Timer;
 		private var supplyTime:int = 3;			//步进次数
-		private static const originalTotalStarCount:int = 4; 
+		private static const originalTotalStarCount:int = 3; 
 		private var totalSupplyStarCount:int = originalTotalStarCount;
 		
 		private static var _instance:DeadEnemyCycle;
@@ -193,7 +193,7 @@ package modules.battle.battlecomponent
 			Tweener.removeTweens(this.maskSprite);
 			Tweener.addTween(maskSprite,{y:2* radius,time:maskMoveTime/1000,transition:"linear",onComplete:onBaojiMoveEnd});
 			
-			BattleInfoSnap.quanTiGongJiRound = 15;
+			BattleInfoSnap.quanTiGongJiRound = 12;
 			return;
 			
 			var targetArr:Array = BattleTargetSearcher.getTargetsForSomeRange(0,AttackRangeDefine.woFangQuanTi);
