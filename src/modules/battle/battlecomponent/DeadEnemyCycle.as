@@ -41,9 +41,10 @@ package modules.battle.battlecomponent
 		private var maskMoveTime:int = 2000;
 		
 		private var supplyTimer:Timer;
-		private var supplyTime:int = 3;			//步进次数
+		private var supplyTime:int = 2;			//步进次数
 		private static const originalTotalStarCount:int = 3; 
 		private var totalSupplyStarCount:int = originalTotalStarCount;
+		private var curTimerIndex:int = 1;
 		
 		private static var _instance:DeadEnemyCycle;
 		
@@ -138,6 +139,7 @@ package modules.battle.battlecomponent
 			}
 			if(init)
 			{
+				curTimerIndex = 1;
 				supplyTimer = new Timer(maskMoveTime / supplyTime,supplyTime);
 				supplyTimer.addEventListener(TimerEvent.TIMER,onTImerTrigger);
 				supplyTimer.start();
@@ -147,17 +149,18 @@ package modules.battle.battlecomponent
 		private function onTImerTrigger(event:TimerEvent):void
 		{
 			var starsCount:int = 0;
-			if(totalSupplyStarCount <= 0)
-				return;
-			var minStarCount:int = Math.min(totalSupplyStarCount,2);
-			while(starsCount > minStarCount || starsCount <= 0)
+//			if(totalSupplyStarCount <= 0)
+//				return;
+//			var minStarCount:int = Math.min(totalSupplyStarCount,2);
+			var targetCount:int = curTimerIndex++;
+			while(starsCount != targetCount)
 			{
 				var index:int = int(NextSupplyShow.allSupplyTypes.length * Math.random());
 				var tempSupplyType:int = NextSupplyShow.allSupplyTypes[index]; 
 				starsCount = NextSupplyShow.getStarCountNeed(tempSupplyType);
 			}
 			
-			totalSupplyStarCount -= starsCount;
+//			totalSupplyStarCount -= starsCount;
 			
 			var supplyArmType:int = NextSupplyShow.gettargetArmTypeBySupplytype(tempSupplyType);
 			var supplyeArmResId:int = DemoManager.getSingleRandomId(tempSupplyType);
