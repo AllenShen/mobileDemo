@@ -112,7 +112,8 @@ package modules.battle.battledefine
 		public static var fakeRoundsAtBeginning:int = 5;
 		
 		public static var  callHeroPossibility:Number = 0.18;
-		public static var callCardPossibility:Number = 0.25;
+		public static var callCardPossibility:Number = 0.15;
+		
 		public static var geneCardPossibility:Number = 0;
 		
 		public static var ranBattleCardGiveCount:int = 0;
