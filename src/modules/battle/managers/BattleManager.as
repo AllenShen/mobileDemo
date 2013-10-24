@@ -1046,8 +1046,11 @@ package modules.battle.managers
 			else
 			{
 				DeadEnemyProgressShow.instance.handleSingleEnemyDead();
-				var startsNeed:int = NextSupplyShow.getStarCountNeed(targetTroop.supplyType);
-				DeadEnemyCycle.instance.handleSingleEnemyDead(startsNeed);
+//				var startsNeed:int = NextSupplyShow.getStarCountNeed(targetTroop.supplyType);
+				
+				var allCellCount:int = targetTroop.cellsCountNeed.x * targetTroop.cellsCountNeed.y;
+				
+				DeadEnemyCycle.instance.handleSingleEnemyDead(allCellCount);
 				//单个敌人死亡
 				BattleStage.instance.dropedStartLayer.showSingleStar(targetTroop);
 			}
