@@ -110,13 +110,13 @@ package modules.battle.battlecomponent
 		}
 		
 		//敌人死亡
-		public function handleSingleEnemyDead():void
+		public function handleSingleEnemyDead(troopStarCount:int):void
 		{
 			if(!this.visible)
 				return;
 			if(isMoving)
 				return;
-			curCount += 1;
+			curCount += troopStarCount;
 		}
 		
 		//我方自己的兵被点掉
