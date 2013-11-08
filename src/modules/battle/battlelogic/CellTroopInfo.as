@@ -168,7 +168,7 @@ package modules.battle.battlelogic
 		public var componentsLayer:Sprite;	
 		public var mirrorLayer:Sprite;
 
-		private var textshow:TextField;
+		private var textshow:TextField = null;
 		public var levelTextShow:TextField;
 		public var curLevel:int = 1;
 		
@@ -2136,6 +2136,37 @@ package modules.battle.battlelogic
 			this.curTroopHp = Math.min(this.curTroopHp,this.maxTroopHp);
 			
 			_hpBar && _hpBar.hpChange(hpRealValueChange);
+			
+			if(damageValue > 0)
+			{
+				var percent:Number = Number(valueLeft / maxTroopHp);
+				if(valueLeft < hpRealValueChange || percent <= 0.15)
+				{
+					if(this.ownerSide == 0)
+					{
+						if(textshow == null || !textshow.visible)
+						{
+							var tempSprite:Sprite =  new Sprite();
+							tempSprite.graphics.clear();
+							tempSprite.graphics.lineStyle(1,Color.redColor,1);
+							tempSprite.graphics.beginFill(0,0.25);
+							tempSprite.graphics.drawRect(0,0,BattleDisplayDefine.cellWidth,BattleDisplayDefine.cellHeight);
+							tempSprite.graphics.endFill();
+							this.addChildAt(tempSprite,0);
+							
+							if(textshow == null)
+								textshow = new TextField; 
+							textshow.visible = true;
+							textshow.text = "我要死了";
+							componentsLayer.addChild(textshow);
+							textshow.textColor = 0xff00000;
+							textshow.defaultTextFormat = new TextFormat(null,50);
+							textshow.x = 20;
+							textshow.y = 20				
+						}
+					}
+				}
+			}
 			
 			if(this.curArmCount <= 0 && this.curTroopHp <= 0)
 			{

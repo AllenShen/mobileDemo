@@ -238,6 +238,9 @@ package modules.battle.funcclass
 				}
 			}
 			
+			while(troopInfo.numChildren > 0)
+				troopInfo.removeChildAt(0);
+			
 			troopInfo.isBusy = false;
 		}
 		
